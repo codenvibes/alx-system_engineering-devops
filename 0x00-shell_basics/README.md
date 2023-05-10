@@ -30,7 +30,7 @@
     <div> Case sensitivity determines whether uppercase (FOO.txt) and lowercase (foo.txt) letters are handled as distinct (case-sensitive) or equivalent (case-insensitive) in a file name or directory. </div> 
     <div>Case-sensitive: FOO.txt ≠ foo.txt ≠ Foo.txt</div> <div>Case-insensitive: FOO.txt = foo.txt = Foo.txt </div>
     <div>Windows file system treats file and directory names as case-insensitive. FOO.txt and foo.txt will be treated as equivalent files.</div>
-    [Image 3](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-3.png)
+    ![Image 3](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-3.png)
     <div>Command options, like filenames in Linux, are case-sensitive. </div>
 </p>
 <p>We can specify pathnames in one of two different ways; as absolute pathnames or as relative pathnames. Where an absolute pathname starts from the root directory and leads to its destination, a relative pathname starts from the working directory.</p>
