@@ -76,7 +76,7 @@
     </tr>
 </table>
 
-| <div style="width:900px"></div>  |  |  |
+| <div style="width:900px">  </div>  |  |  |
 |---------:|----|---|
 | -A | --almost-all  | Like the -a option above except it does not list . (current directory) and .. (parent directory). |
 | -d | --directory | Ordinarily, if a directory is specified, ls will list the contents of the directory, not the directory itself. Use this option in conjunction with the -l option to see details about the directory rather than its contents. |
