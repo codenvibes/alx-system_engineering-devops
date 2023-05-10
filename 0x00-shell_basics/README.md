@@ -50,7 +50,7 @@
 ### `ls` Options
 <table align="center">
     <tr>
-        <td><code>-A</code></td>
+        <td><code> -A </code></td>
         <td><code>--almost-all </code></td>
         <td>Like the <code>-a</code> option above except it does not list <code>.</code> (current directory) and <code>..</code> (parent directory). </td>
     </tr>
@@ -75,13 +75,6 @@
         <td>Sort results by file size. </td>
     </tr>
 </table>
-
-| -A | --almost-all  | Like the -a option above except it does not list . (current directory) and .. (parent directory). |
-|---|---|---|
-| -d | --directory | Ordinarily, if a directory is specified, ls will list the contents of the directory, not the directory itself. Use this option in conjunction with the -l option to see details about the directory rather than its contents. |
-| -F | --classify | This option will append an indicator character to the end of each listed name. For example, a forward slash (/) if the name is a directory. |
-| -h | --human-readable | In long format listings, display file sizes in human readable format rather than in bytes. |
-| -S | null | Sort results by file size. |
 
 ### A Longer Look at Long Format 
 <table align="center">
