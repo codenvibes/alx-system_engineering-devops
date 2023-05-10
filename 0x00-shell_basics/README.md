@@ -497,9 +497,9 @@ Repo:
 `mandatory`
 
 Display current directory contents, including hidden files (starting with `.`). Use the long format.
-```
-Example:
 
+Example:
+```
 $ ./4-listmorefiles
 total 32
 drwxr-xr-x@ 6 sylvain staff 204 Jan 25 00:29 .
@@ -523,9 +523,9 @@ Display current directory contents.
 - Long format
 - with user and group IDs displayed numerically
 - And hidden files (starting with .)
-```
-Example:
 
+Example:
+```
 $ ./5-listfilesdigitonly
 total 32
 drwxr-xr-x@ 6 501 20 204 Jan 25 00:29 .
@@ -748,7 +748,7 @@ Repo:
 
 ## 17. Tree
 `#advanced`
-Score: 100.0% (Checks completed: 100.0%)
+
 Create a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory.
 
 You are only allowed to use two spaces (and lines) in your script, not more.
