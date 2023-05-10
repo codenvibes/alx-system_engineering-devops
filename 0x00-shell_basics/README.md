@@ -369,7 +369,7 @@ A command can be one of four different things:
         <td>Sometimes there is more than one version of an executable program installed on a system. While this is not common on desktop systems, it's not unusual on large servers. To determine the exact location of a given executable, the <code>which</code> command is used. 
         <div><code>[me@linuxbox ~]$ which ls /bin/ls</code></div> 
         <code>which</code> only works for executable programs, not builtins nor aliases that are substitutes for actual executable programs. When we try to use <code>which</code> on a shell builtin for example, cd, we either get no response or get an error message: 
-            <div><code>[me@linuxbox ~]$ which cd</code></div>
+        <div><code>[me@linuxbox ~]$ which cd</code></div>
         <div><code>/usr/bin/which: no cd in</code></div>
         <div><code>(/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games)</code></div>
         This response is a fancy way of saying “command not found.” 
@@ -380,40 +380,51 @@ A command can be one of four different things:
 >You can format the text within tables. For example, you can add links, code (words or phrases in backticks ( \` ) only, not code blocks), and emphasis. You can't use headings, blockquotes, lists, horizontal rules, images, or most HTML tags. Tip: You can use HTML to create line breaks and add lists within table cells.
 
 ### Getting a Command's Documentation 
-<ol>
-    <li>`help` – Get Help for Shell Builtins</li> 
-    <li>`--help` – Display Usage Information</li> 
-    <li>`man` – Display a Program's Manual Page Sometimes we need to refer to a specific section of the manual to find what we are looking for. This is particularly true if we are looking for a file format that is also the name of a command. Without specifying a section number, we will always get the first instance of a match, probably in section 1. To specify a section number, we use `man` like this:
-    <div><code>man section search_term </code></div>
+
+#### `help` – Get Help for Shell Builtins 
+#### `--help` – Display Usage Information 
+#### `man` – Display a Program's Manual Page.
+ Sometimes we need to refer to a specific section of the manual to find what we are looking for. This is particularly true if we are looking for a file format that is also the name of a command. Without specifying a section number, we will always get the first instance of a match, probably in section 
+1. To specify a section number, we use `man` like this:
+    ```
+    man section search_term 
+    ```
     Here's an example: 
-    <div><code>[me@linuxbox ~]$ man 5 passwd </code></div>
-    This will display the man page describing the file format of the /etc/passwd file.</li> 
-    <li>`apropos` – Display Appropriate Commands
-    It is also possible to search the list of man pages for possible matches based on a search term. It's crude but sometimes helpful. Here is an example of a search for man pages using the search term partition: 
-    [me@linuxbox ~]$ apropos partiton 
-    addpart (8) - simple wrapper around the "add partition"... 
-    all-swaps (7) - event signalling that all swap partitions... 
-    cfdisk (8) - display or manipulate disk partition table 
-    cgdisk (8) - Curses-based GUID partition table (GPT)... 
-    delpart (8) - simple wrapper around the "del partition"... 
-    fdisk (8) - manipulate disk partition table 
-    fixparts (8) - MBR partition table repair utility 
-    gdisk (8) - Interactive GUID partition table (GPT)... 
+    ```
+    me@linuxbox ~]$ man 5 passwd
+    ```
+    This will display the man page describing the file format of the `/etc/passwd` file.
+#### `apropos` – Display Appropriate Commands
+It is also possible to search the list of man pages for possible matches based on a search term. It's crude but sometimes helpful. Here is an example of a search for man pages using the search term partition: 
+```[me@linuxbox ~]$ apropos partiton 
+addpart (8) - simple wrapper around the "add partition"... 
+all-swaps (7) - event signalling that all swap partitions... 
+cfdisk (8) - display or manipulate disk partition table 
+cgdisk (8) - Curses-based GUID partition table (GPT)... 
+delpart (8) - simple wrapper around the "del partition"... 
+fdisk (8) - manipulate disk partition table 
+fixparts (8) - MBR partition table repair utility 
+gdisk (8) - Interactive GUID partition table (GPT)... 
 mpartition (1) - partition an MSDOS hard disk 
 partprobe (8) - inform the OS of partition table changes 
 partx (8) - tell the Linux kernel about the presence... 
 resizepart (8) - simple wrapper around the "resize partition... 
 sfdisk (8) - partition table manipulator for Linux 
 sgdisk (8) - Command-line GUID partition table (GPT)... 
-The first field in each line of output is the name of the man page, and the second field shows the section. Note that the man command with the “-k” option performs the same function as apropos.</li> 
-    <li>whatis – Display One-line Manual Page Descriptions 
+```
+The first field in each line of output is the name of the man page, and the second field shows the section. Note that the man command with the “-k” option performs the same function as apropos. 
+
+#### `whatis` – Display One-line Manual Page Descriptions 
 The whatis program displays the name and a one-line description of a man page matching a specified keyword: 
+```
 [me@linuxbox ~]$ whatis ls 
-ls (1) 		- list directory contents</li>
-    <li>info – Display a Program's Info Entry 
+ls (1) 		- list directory contents
+```
+
+#### >info – Display a Program's Info Entry 
 The GNU Project provides an alternative to man pages for their programs, called “info.” 
-Info manuals are displayed with a reader program named, appropriately enough, info. Info pages are hyperlinked much like web pages. To invoke info, type info followed optionally by the name of a program.</li> 
-</ol>
+Info manuals are displayed with a reader program named, appropriately enough, info. Info pages are hyperlinked much like web pages. To invoke info, type info followed optionally by the name of a program. 
+
 
 ## [Reading Man pages](http://linuxcommand.org/lc3_man_pages/man1.html)
 
