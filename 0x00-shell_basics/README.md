@@ -17,7 +17,7 @@
 
 ![Image 1](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-1.png)
 
-<a href="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Bash-Shell-in-Linux-2.jpg">Image 2</a>
+![Image 2](https://cdn.educba.com/academy/wp-content/uploads/2020/01/Bash-Shell-in-Linux-2.jpg)
 
 ## [Navigation](http://linuxcommand.org/lc3_lts0020.php)
 <p><code>rm -r</code> will recursively delete a directory and all its contents (normally rm will not delete directories, while rmdir will only delete empty directories) </p>
@@ -30,7 +30,7 @@
     <div> Case sensitivity determines whether uppercase (FOO.txt) and lowercase (foo.txt) letters are handled as distinct (case-sensitive) or equivalent (case-insensitive) in a file name or directory. </div> 
     <div>Case-sensitive: FOO.txt ≠ foo.txt ≠ Foo.txt</div> <div>Case-insensitive: FOO.txt = foo.txt = Foo.txt </div>
     <div>Windows file system treats file and directory names as case-insensitive. FOO.txt and foo.txt will be treated as equivalent files.</div>
-    <a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-3.png">Image 3: Windows Case-insestivity</a>
+    [Image 3](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-3.png)
     <div>Command options, like filenames in Linux, are case-sensitive. </div>
 </p>
 <p>We can specify pathnames in one of two different ways; as absolute pathnames or as relative pathnames. Where an absolute pathname starts from the root directory and leads to its destination, a relative pathname starts from the working directory.</p>
