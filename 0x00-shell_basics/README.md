@@ -70,8 +70,8 @@
         <td>This option will append an indicator character to the end of each listed name. For example, a forward slash (<code>/</code>) if the name is a directory. </td>
     </tr>
     <tr>
-        <td><code>-h<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></code></td>
-        <td><code>--human-readable</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
+        <td><code>-h</code></td>
+        <td><code>--human-readable</code></td>
         <td>In long format listings, display file sizes in human readable format rather than in bytes. </td>
     </tr>
     <tr>
