@@ -377,12 +377,7 @@ A command can be one of four different things:
     </tr>
 </table>
 
-|  |  |
-|---|---|
-| `type` – Display a Command's Type | `type command` |
-| `which` – Display an Executable's Location | Sometimes there is more than one version of an executable program installed on a system. While this is not common on desktop systems, it's not unusual on large servers. To determine the exact location of a given executable, the `which` command is used. 
-```[me@linuxbox ~]$ which ls /bin/ls```
-`which` only works for executable programs, not builtins nor aliases that are substitutes for actual executable programs. When we try to use `which` on a shell builtin for example, cd, we either get no response or get an error message: ```[me@linuxbox ~]$ which cd  /usr/bin/which: no cd in   (/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games)```This response is a fancy way of saying “command not found.” |
+>You can format the text within tables. For example, you can add links, code (words or phrases in backticks ( \` ) only, not code blocks), and emphasis. You can't use headings, blockquotes, lists, horizontal rules, images, or most HTML tags. Tip: You can use HTML to create line breaks and add lists within table cells.
 
 ### Getting a Command's Documentation 
 <ol>
