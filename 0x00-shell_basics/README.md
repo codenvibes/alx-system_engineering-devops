@@ -15,7 +15,7 @@
 
 <p>The name “bash” is an acronym for “Bourne Again Shell”, a reference to the fact bash is an enhanced replacement for sh, the original Unix shell program written by Steve Bourne.</p>
 
-<a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-1.png">Image 1</a>
+![Image 1](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/resources/Image-1.png)
 
 <a href="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Bash-Shell-in-Linux-2.jpg">Image 2</a>
 
