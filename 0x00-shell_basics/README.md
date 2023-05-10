@@ -384,16 +384,17 @@ A command can be one of four different things:
 #### `help` – Get Help for Shell Builtins 
 #### `--help` – Display Usage Information 
 #### `man` – Display a Program's Manual Page.
- Sometimes we need to refer to a specific section of the manual to find what we are looking for. This is particularly true if we are looking for a file format that is also the name of a command. Without specifying a section number, we will always get the first instance of a match, probably in section 
-1. To specify a section number, we use `man` like this:
-    ```
-    man section search_term 
-    ```
-    Here's an example: 
-    ```
-    me@linuxbox ~]$ man 5 passwd
-    ```
-    This will display the man page describing the file format of the `/etc/passwd` file.
+ Sometimes we need to refer to a specific section of the manual to find what we are looking for. This is particularly true if we are looking for a file format that is also the name of a command. Without specifying a section number, we will always get the first instance of a match, probably in section 1. 
+ 
+To specify a section number, we use `man` like this:
+```
+man section search_term 
+```
+Here's an example: 
+```
+me@linuxbox ~]$ man 5 passwd
+```
+This will display the man page describing the file format of the `/etc/passwd` file.
 #### `apropos` – Display Appropriate Commands
 It is also possible to search the list of man pages for possible matches based on a search term. It's crude but sometimes helpful. Here is an example of a search for man pages using the search term partition: 
 ```[me@linuxbox ~]$ apropos partiton 
