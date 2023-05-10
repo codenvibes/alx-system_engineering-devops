@@ -50,8 +50,8 @@
 ### `ls` Options
 <table align="center">
     <tr>
-        <td><code> -A </code></td>
-        <td><code>--almost-all </code></td>
+        <td><code>-A</code></td>
+        <td><code>--almost-all</code></td>
         <td>Like the <code>-a</code> option above except it does not list <code>.</code> (current directory) and <code>..</code> (parent directory). </td>
     </tr>
     <tr>
