@@ -369,7 +369,9 @@ A command can be one of four different things:
         <td>Sometimes there is more than one version of an executable program installed on a system. While this is not common on desktop systems, it's not unusual on large servers. To determine the exact location of a given executable, the <code>which</code> command is used. 
         <div><code>[me@linuxbox ~]$ which ls /bin/ls</code></div> 
         <code>which</code> only works for executable programs, not builtins nor aliases that are substitutes for actual executable programs. When we try to use <code>which</code> on a shell builtin for example, cd, we either get no response or get an error message: 
-        <div><code>[me@linuxbox ~]$ which cd <div>/usr/bin/which: no cd in</div> <div>(/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games)</div></code></div> 
+            <div><code>[me@linuxbox ~]$ which cd</code></div>
+        <div><code>/usr/bin/which: no cd in</code></div>
+        <div><code>(/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games)</code></div>
         This response is a fancy way of saying “command not found.” 
         </td>
     </tr>
