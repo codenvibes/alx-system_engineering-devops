@@ -598,6 +598,13 @@ Repo:
 
 File: [7-file]()
     
+> The shell command "&&" is a logical operator used to execute multiple commands sequentially in the shell or command-line interface.
+`mkdir new_directory && cd new_directory`
+In this example, the command `mkdir new_directory` is executed first. If the directory creation is successful (exit status of zero), the `cd new_directory` command is executed next, which changes the current working directory to the newly created "new_directory."
+This command sequence ensures that the "new_directory" is created successfully before attempting to change into it. If the directory creation fails, the subsequent `cd` command will not be executed.
+This type of command chaining can be helpful when you need to perform multiple actions in a specific order and ensure that each step succeeds before proceeding to the next one.
+
+
 ## 8. Save current state of directory
 `mandatory`
 
