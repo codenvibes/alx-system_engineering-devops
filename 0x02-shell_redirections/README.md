@@ -407,7 +407,9 @@ julien@ubuntu:/tmp/h$
 Repo:
 
 File: [0-hello_world]()
-    
+
+> When you execute `cat -e` followed by a filename, the command reads the contents of that file and prints them to the terminal. It also appends a `$` symbol at the end of each line to indicate line endings.
+
 ## 1. Confused smiley
 `mandatory`
 
