@@ -4,7 +4,7 @@ The concepts I learned/tackled under each project have been described in READMEs
 
 ## Projects💻:
 - [x] 0x00. [Shell, basics](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x00-shell_basics)
-- [x] 0x01. [Shell, permissions Tasks]()
+- [x] 0x01. [Shell, permissions Tasks](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
 - [x] 0x02. [Shell, I/O Redirections and filters Tasks]()
 - [x] 0x03. [Shell, init files, variables and expansions]()
 
