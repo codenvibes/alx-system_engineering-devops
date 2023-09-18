@@ -1,4 +1,4 @@
-# **. COMMAND LINE FOR THE WIN**
+# **COMMAND LINE FOR THE WIN**
 `Bash` `Scripting`
 
 # Background Context
