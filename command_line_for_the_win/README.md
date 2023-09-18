@@ -48,6 +48,8 @@ In addition to completing the project tasks and submitting the required `screens
 
 <!-- # More Info -->
 
+# Tasks
+
 <details>
 <summary>
 
