@@ -8,10 +8,10 @@
 
 # How to use the SFTP command-line tool:
 1. Establish an SFTP session by issuing the sftp command on a local terminal:
-<div align="center"><img width="700px" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step1.png"></div>
+<div align="center"><img width="700px" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pics/step_1.png"></div>
 
 2. Use the SFTP put command to upload the screenshots from your local machine to the sandbox environment.
-<div align="center"><img align="center" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step2.png"></div>
+<div align="center"><img align="center" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pics/step_2.png"></div>
 
 # Requirements
 <details>
