@@ -6,6 +6,13 @@
 
 **This project is NOT mandatory** at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
 
+# How to use the SFTP command-line tool:
+1. Establish an SFTP session by issuing the sftp command on a local terminal:
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step1.png">
+
+2. Use the SFTP put command to upload the screenshots from your local machine to the sandbox environment.
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step2.png">
+
 # Requirements
 <details>
 <summary><h3>General</h3></summary>
