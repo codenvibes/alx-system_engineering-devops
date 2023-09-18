@@ -63,7 +63,7 @@ In addition to completing the project tasks and submitting the required `screens
 ### 0. First 九 tasks
 `#advanced`
 
-File: [0-first_9_tasks.jpg](),[0-first_9_tasks.png]()
+File: [0-first_9_tasks.jpg](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/0-first_9_tasks.jpg),[0-first_9_tasks.png](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/0-first_9_tasks.png)
 </summary>
 
 Complete the first 9 tasks.
@@ -75,7 +75,7 @@ Complete the first 9 tasks.
 ### 1. Reach חי completed tasks
 `#advanced`
 
-File: [1-next_9_tasks.jpg](),[1-next_9_tasks.png]()
+File: [1-next_9_tasks.jpg](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/1-next_9_tasks.jpg),[1-next_9_tasks.png](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/1-next_9_tasks.png)
 </summary>
 
 Complete the 9 next tasks, getting to 18 total.
@@ -87,7 +87,7 @@ Complete the 9 next tasks, getting to 18 total.
 ### 2. Reach the perfect cube, 27
 `#advanced`
 
-File: [2-next_9_tasks.jpg](),[2-next_9_tasks.png]()
+File: [2-next_9_tasks.jpg](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/2-next_9_tasks.jpg),[2-next_9_tasks.png](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/2-next_9_tasks.png)
 </summary>
 
 Complete the 9 next tasks, getting to 27 total.
