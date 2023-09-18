@@ -11,7 +11,7 @@
 <div align="center"><img width="700px" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step1.png"></div>
 
 2. Use the SFTP put command to upload the screenshots from your local machine to the sandbox environment.
-<img align="center" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step2.png">
+<div align="center"><img align="center" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/command_line_for_the_win/pictures/step2.png"></div>
 
 # Requirements
 <details>
