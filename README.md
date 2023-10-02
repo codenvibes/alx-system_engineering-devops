@@ -14,6 +14,8 @@
 
 ☑️ [0x04-loops_conditions_and_parsing](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 
+☑️ [0x05-processes_and_signals](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
+
 
 <br>
 <p align="center">※※※※※※※※※※※※</p>
