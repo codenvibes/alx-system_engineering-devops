@@ -13,11 +13,10 @@ The concepts I learned/tackled under each project have been described in READMEs
 
 ☑️ [command_line_for_the_win](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/command_line_for_the_win)
 
-## Acknowledgements🫂:
-
-![image](https://user-images.githubusercontent.com/89413184/229805677-aca2f974-3cae-4696-83ad-5f2cd1b96264.png)
 
 <br>
+<p align="center">※※※※※※※※※※※※</p>
+<br>
 
-> Eventually the foundation is so deeply internalized that it is no longer consciously considered, but is lived. This process continuously cycles along as deeper layers of the art are soaked in. Very strong chess players will rarely speak of the fundamentals, but these beacons are the building blocks of their mastery. Similarly, a great pianist or violinist does not think about individual notes, but hits them all perfectly in a virtuoso performance - from The Art of Learning by Josh Waitzkin
+<p align="center">Eventually the foundation is so deeply internalized that it is no longer consciously considered, but is lived. This process continuously cycles along as deeper layers of the art are soaked in. Very strong chess players will rarely speak of the fundamentals, but these beacons are the building blocks of their mastery. Similarly, a great pianist or violinist does not think about individual notes, but hits them all perfectly in a virtuoso performance - from The Art of Learning by Josh Waitzkin</p>
 
