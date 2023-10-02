@@ -47,6 +47,9 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 </details>
 
 # Requirements
+<details>
+<summary><h3>General</h3></summary>
+
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be interpreted on Ubuntu 20.04 LTS
 - All your files should end with a new line
@@ -56,9 +59,12 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 - Your Bash script must pass `Shellcheck` (version `0.7.0`) without any error
 - The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
 - The second line of all your Bash scripts should be a comment explaining what is the script doing
+</details>
 
 # More Info
-## Shellcheck
+<details>
+<summary><h3>Shellcheck</h3></summary>
+
 [Shellcheck](https://github.com/koalaman/shellcheck) is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. `Shellcheck` is your friend! **All your Bash scripts must pass `Shellcheck` without any error or you will not get any points on the task**.
 
 `Shellcheck` is available on the school’s computers. If you want to use it on your own computer, here is how to [install it](https://github.com/koalaman/shellcheck#installing).
@@ -68,6 +74,13 @@ Examples:
 Not passing `Shellcheck`:
 
 <img width=800px src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png">
+
+Passing `Shellcheck`:
+
+<img width=800px src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png">
+
+For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse https://github.com/koalaman/shellcheck/wiki/SC2034.
+</details>
 
 # Tasks
 <details>
