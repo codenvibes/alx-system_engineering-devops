@@ -590,7 +590,7 @@ File: [100-read_and_cut]()
 
 help: `read`
 
-- Write a Bash script that displays the content of the file `/etc/passwd`.
+Write a Bash script that displays the content of the file `/etc/passwd`.
 
 Your script should only display:
 
@@ -598,7 +598,7 @@ Your script should only display:
     - user id
     - Home directory path for the user
 
-- Requirements:
+Requirements:
 
     - You must use the `while` loop (`for` and `until` are forbidden)
 
