@@ -13,6 +13,8 @@ The concepts I learned/tackled under each project have been described in READMEs
 
 ☑️ [command_line_for_the_win](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/command_line_for_the_win)
 
+☑️ [0x04-loops_conditions_and_parsing](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
+
 
 <br>
 <p align="center">※※※※※※※※※※※※</p>
