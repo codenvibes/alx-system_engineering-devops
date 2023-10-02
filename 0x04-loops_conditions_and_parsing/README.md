@@ -1,4 +1,5 @@
-# **0x04. LOOPS, CONDITIONS AND PARSING**
+<h1 align="center"><b>0x04. LOOPS, CONDITIONS AND PARSING</b></h1>
+
 `DevOps` `Shell` `Bash` `Scripting`
 
 # About **Bash** projects
@@ -237,4 +238,6 @@ File: []()
 
 
 </details>
+
+
 
