@@ -86,10 +86,10 @@ For every feedback, Shellcheck will provide a code that you can use to get more 
 <details>
 <summary>
 
-### 0. 
+### 0. 0. Create a SSH RSA key pair
 `mandatory`
 
-File: []()
+File: [0-RSA_public_key.pub]()
 </summary>
 
 
@@ -98,10 +98,10 @@ File: []()
 <details>
 <summary>
 
-### 1. 
+### 1. For Best School loop
 `mandatory`
 
-File: []()
+File: [1-for_best_school]()
 </summary>
 
 
@@ -110,10 +110,10 @@ File: []()
 <details>
 <summary>
 
-### 2. 
+### 2. While Best School loop
 `mandatory`
 
-File: []()
+File: [2-while_best_school]()
 </summary>
 
 
@@ -122,10 +122,10 @@ File: []()
 <details>
 <summary>
 
-### 3. 
+### 3. Until Best School loop
 `mandatory`
 
-File: []()
+File: [3-until_best_school]()
 </summary>
 
 
@@ -134,10 +134,10 @@ File: []()
 <details>
 <summary>
 
-### 4. 
+### 4. If 9, say Hi!
 `mandatory`
 
-File: []()
+File: [4-if_9_say_hi]()
 </summary>
 
 
@@ -146,10 +146,10 @@ File: []()
 <details>
 <summary>
 
-### 5. 
+### 5. 4 bad luck, 8 is your chance 
 `mandatory`
 
-File: []()
+File: [5-4_bad_luck_8_is_your_chance]()
 </summary>
 
 
@@ -158,10 +158,10 @@ File: []()
 <details>
 <summary>
 
-### 6. 
+### 6. Superstitious numbers
 `mandatory`
 
-File: []()
+File: [6-superstitious_numbers]()
 </summary>
 
 
@@ -170,10 +170,10 @@ File: []()
 <details>
 <summary>
 
-### 7. 
+### 7. Clock
 `mandatory`
 
-File: []()
+File: [7-clock]()
 </summary>
 
 
@@ -182,10 +182,10 @@ File: []()
 <details>
 <summary>
 
-### 8. 
+### 8. For ls
 `mandatory`
 
-File: []()
+File: [8-for_ls]()
 </summary>
 
 
@@ -194,10 +194,10 @@ File: []()
 <details>
 <summary>
 
-### 9. 
+### 9. To file, or not to file
 `mandatory`
 
-File: []()
+File: [9-to_file_or_not_to_file]()
 </summary>
 
 
@@ -206,10 +206,10 @@ File: []()
 <details>
 <summary>
 
-### 10. 
+### 10. FizzBuzz
 `#advanced`
 
-File: []()
+File: [10-fizzbuzz]()
 </summary>
 
 
@@ -218,10 +218,10 @@ File: []()
 <details>
 <summary>
 
-### 11. 
+### 11. Read and cut
 `#advanced`
 
-File: []()
+File: [100-read_and_cut]()
 </summary>
 
 
@@ -230,10 +230,10 @@ File: []()
 <details>
 <summary>
 
-### 12. 
+### 12. Tell the story of passwd
 `#advanced`
 
-File: []()
+File: [101-tell_the_story_of_passwd]()
 </summary>
 
 
@@ -242,10 +242,22 @@ File: []()
 <details>
 <summary>
 
-### 13. 
+### 13. Let's parse Apache logs
 `#advanced`
 
-File: []()
+File: [102-lets_parse_apache_logs]()
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+
+### 14. Dig the data
+`#advanced`
+
+File: [103-dig_the-data]()
 </summary>
 
 
