@@ -1,6 +1,5 @@
 <h1 align="center"><b>0x04. LOOPS, CONDITIONS AND PARSING</b></h1>
-
-`DevOps` `Shell` `Bash` `Scripting`
+<div align="center"><code>DevOps</code> <code>Shell</code> <code>Bash</code> <code>Scripting</code></div>
 
 # About **Bash** projects
 Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
@@ -238,6 +237,3 @@ File: []()
 
 
 </details>
-
-
-
