@@ -1,6 +1,5 @@
 # **ALX-SYSTEM_ENGINEERING-DEVOPS**
-This is a repository of shell project assignments from the [ALX SE](https://www.alxafrica.com/software-engineering/) program.
-The concepts I learned/tackled under each project have been described in READMEs within the respective project folders.
+
 
 ## Projects💻:
 ☑️ 0x00. [Shell, basics](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x00-shell_basics)
