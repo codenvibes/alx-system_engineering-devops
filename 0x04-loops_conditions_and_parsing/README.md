@@ -67,7 +67,7 @@ Examples:
 
 Not passing `Shellcheck`:
 
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png">
+<img width=500px src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png">
 
 # Tasks
 <details>
