@@ -78,6 +78,7 @@ File: [0-simply_match_school.rb]()
 </summary>
 
 <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231003T175903Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a87c9051b09e6f1727dca6488c369ee9d324e2c494a341e4ee608b06669e003a">
+
 Requirements:
 - The regular expression must match `School`
 - Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
