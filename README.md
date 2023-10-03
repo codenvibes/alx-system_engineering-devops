@@ -12,9 +12,11 @@
 
 ☑️ [command_line_for_the_win](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/command_line_for_the_win)
 
-☑️  0x04. [Loops, conditions and parsing](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
+☑️ 0x04. [Loops, conditions and parsing](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 
-☑️  0x05. [Processes and signals](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
+☑️ 0x05. [Processes and signals](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
+
+☑️ 0x06. [Regular expression](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
 
 
 <br>
