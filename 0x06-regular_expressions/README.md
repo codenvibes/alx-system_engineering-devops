@@ -71,10 +71,10 @@ What is the `/school/` regexp matching?
 <details>
 <summary>
 
-### 0. 
+### 0. Simply matching School
 `mandatory`
 
-File: []()
+File: [0-simply_match_school.rb]()
 </summary>
 
 
@@ -83,10 +83,10 @@ File: []()
 <details>
 <summary>
 
-### 1. 
+### 1. Repetition Token #0
 `mandatory`
 
-File: []()
+File: [1-repetition_token_0.rb]()
 </summary>
 
 
@@ -95,10 +95,10 @@ File: []()
 <details>
 <summary>
 
-### 2. 
+### 2. Repetition Token #1
 `mandatory`
 
-File: []()
+File: [2-repetition_token_1.rb]()
 </summary>
 
 
@@ -107,10 +107,10 @@ File: []()
 <details>
 <summary>
 
-### 3. 
+### 3. Repetition Token #2
 `mandatory`
 
-File: []()
+File: [3-repetition_token_2.rb]()
 </summary>
 
 
@@ -119,10 +119,10 @@ File: []()
 <details>
 <summary>
 
-### 4. 
+### 4. Repetition Token #3
 `mandatory`
 
-File: []()
+File: [4-repetition_token_3.rb]()
 </summary>
 
 
@@ -131,10 +131,10 @@ File: []()
 <details>
 <summary>
 
-### 5. 
+### 5. Not quite HBTN yet
 `mandatory`
 
-File: []()
+File: [5-beginning_and_end.rb]()
 </summary>
 
 
@@ -143,10 +143,10 @@ File: []()
 <details>
 <summary>
 
-### 6. 
+### 6. Call me maybe
 `mandatory`
 
-File: []()
+File: [6-phone_number.rb]()
 </summary>
 
 
@@ -155,10 +155,10 @@ File: []()
 <details>
 <summary>
 
-### 7. 
+### 7. OMG WHY ARE YOU SHOUTING?
 `mandatory`
 
-File: []()
+File: [7-OMG_WHY_ARE_YOU_SHOUTING.rb]()
 </summary>
 
 
@@ -167,10 +167,10 @@ File: []()
 <details>
 <summary>
 
-### 8. 
+### 8. Textme
 `#advanced`
 
-File: []()
+File: [100-textme.rb]()
 </summary>
 
 
