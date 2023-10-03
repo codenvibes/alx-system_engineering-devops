@@ -104,7 +104,11 @@ $
 File: [1-repetition_token_0.rb]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x06-regular_expressions/pics/task1.png">
 
+Requirements:
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 </details>
 
 <details>
@@ -116,7 +120,11 @@ File: [1-repetition_token_0.rb]()
 File: [2-repetition_token_1.rb]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x06-regular_expressions/pics/task2.png">
 
+Requirements:
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 </details>
 
 <details>
@@ -128,7 +136,11 @@ File: [2-repetition_token_1.rb]()
 File: [3-repetition_token_2.rb]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x06-regular_expressions/pics/task3.png">
 
+Requirements:
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 </details>
 
 <details>
@@ -140,7 +152,12 @@ File: [3-repetition_token_2.rb]()
 File: [4-repetition_token_3.rb]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x06-regular_expressions/pics/task4.png">
 
+Requirements:
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+- Your regex should not contain square brackets
 </details>
 
 <details>
@@ -152,7 +169,22 @@ File: [4-repetition_token_3.rb]()
 File: [5-beginning_and_end.rb]()
 </summary>
 
-
+Requirements:
+- The regular expression must be exactly matching a string that starts with `h` ends with `n` and can have any single character in between
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+Example:
+```bash
+sylvain@ubuntu$ ./5-beginning_and_end.rb 'hn' | cat -e
+$
+sylvain@ubuntu$ ./5-beginning_and_end.rb 'hbn' | cat -e
+hbn$
+sylvain@ubuntu$ ./5-beginning_and_end.rb 'hbtn' | cat -e
+$
+sylvain@ubuntu$ ./5-beginning_and_end.rb 'h8n' | cat -e
+h8n$
+sylvain@ubuntu$
+$
+```
 </details>
 
 <details>
@@ -164,7 +196,22 @@ File: [5-beginning_and_end.rb]()
 File: [6-phone_number.rb]()
 </summary>
 
+This task is brought to you by a professional advisor [Neha Jain](https://twitter.com/_nehajain), Senior Software Engineer at LinkedIn.
 
+Requirement:
+- The regular expression must match a 10 digit phone number
+Example:
+```bash
+sylvain@ubuntu$ ./6-phone_number.rb 4155049898 | cat -e
+4155049898$
+sylvain@ubuntu$ ./6-phone_number.rb " 4155049898" | cat -e
+$
+sylvain@ubuntu$ ./6-phone_number.rb "415 504 9898" | cat -e
+$
+sylvain@ubuntu$ ./6-phone_number.rb "415-504-9898" | cat -e
+$
+sylvain@ubuntu$
+```
 </details>
 
 <details>
@@ -176,7 +223,20 @@ File: [6-phone_number.rb]()
 File: [7-OMG_WHY_ARE_YOU_SHOUTING.rb]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x06-regular_expressions/pics/task7.jpg">
 
+Requirement:
+- The regular expression must be only matching: capital letters
+Example:
+```bash
+sylvain@ubuntu$ ./7-OMG_WHY_ARE_YOU_SHOUTING.rb "I realLy hOpe VancouvEr posseSs Yummy Soft vAnilla Dupper Mint Ice Nutella cream" | cat -e
+ILOVESYSADMIN$
+sylvain@ubuntu$ ./7-OMG_WHY_ARE_YOU_SHOUTING.rb "WHAT do you SAY?" | cat -e
+WHATSAY$
+sylvain@ubuntu$ ./7-OMG_WHY_ARE_YOU_SHOUTING.rb "cannot read you" | cat -e
+$
+sylvain@ubuntu$
+```
 </details>
 
 <details>
