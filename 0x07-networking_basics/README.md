@@ -121,7 +121,7 @@ In this project we will mainly focus on:
 
 The image bellow describes more concretely how you can relate to every level.
 
-<img width=700px src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x07-networking_basics/pics/task0b.jpg">
+<img width=1000px src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x07-networking_basics/pics/task0b.jpg">
 
 Questions:
 
