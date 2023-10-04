@@ -242,7 +242,7 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 <p align="center">※※※※※※※※※※※※</p>
 <br>
 
-when you run this script with a command-line argument, it will search for and extract any IP addresses in the "127.0.0.x" format from that argument and then print them as a single string without spaces or other separators. For example, if you run the script with the argument "Hello 127.0.0.1 World 127.0.0.2", it will output "127.0.0.1127.0.0.2"..
+When you run this script with a command-line argument, it will search for and extract any IP addresses in the "127.0.0.x" format from that argument and then print them as a single string without spaces or other separators. For example, if you run the script with the argument "Hello 127.0.0.1 World 127.0.0.2", it will output "127.0.0.1127.0.0.2"..
 
 <br>
 <p align="center">※※※※※※※※※※※※</p>
