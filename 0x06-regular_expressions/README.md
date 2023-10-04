@@ -57,7 +57,7 @@ Python and Ruby are both high-level programming languages, but they have distinc
    - Both languages use the `#` symbol for single-line comments.
 
 While Python and Ruby have differences in syntax and design, they share some common principles, like readability and a focus on developer friendliness. The choice between Python and Ruby often depends on the specific needs of a project, the existing ecosystem, and personal preferences. Developers who are proficient in one language can generally pick up the other relatively quickly due to their high-level and human-readable nature.
-<details>
+</details>
 
 <details>
 <summary><h3>Ruby Shebang</h3></summary>
@@ -65,7 +65,7 @@ While Python and Ruby have differences in syntax and design, they share some com
 ```ruby
 #!/usr/bin/env ruby
 ```
-<details>
+</details>
 
 <details>
 <summary><h3>Ruby Basics</h3></summary>
@@ -186,7 +186,7 @@ Certainly! Here are some fundamental concepts and syntax basics in the Ruby prog
     alice = Person.new("Alice", 25)
     alice.introduce
     ```
-<details>
+</details>
 
 # Background Context
 For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
