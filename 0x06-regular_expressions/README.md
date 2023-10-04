@@ -1,6 +1,193 @@
 <h1 align="center"><b>0x06. REGULAR EXPRESSION</b></h1>
 <div align="center"><code>Regex</code> <code>DevOps</code></div>
 
+# Notes
+<details>
+<summary><h3>Python vs Ruby</h3></summary>
+
+Python and Ruby are both high-level programming languages, but they have distinct syntax and design philosophies. While there are some similarities, such as their readability and focus on simplicity, there are also significant differences in how they handle various language constructs. Here are some key points of comparison regarding their syntax:
+
+1. **Indentation vs. Braces:**
+   - Python: Python uses indentation (whitespace) to denote code blocks, making it easy to read. Indentation is a fundamental part of Python's syntax.
+   - Ruby: Ruby uses braces (`do...end` for multi-line blocks and `{...}` for single-line blocks) to define code blocks. Indentation is not significant for block structure.
+
+   Example in Python:
+   ```python
+   for i in range(5):
+       print(i)
+   ```
+
+   Example in Ruby:
+   ```ruby
+   5.times do |i|
+     puts i
+   end
+   ```
+
+2. **Variables and Data Types:**
+   - Both languages have dynamically typed variables, meaning you don't need to declare the data type explicitly.
+   - Ruby variable names start with lowercase letters or underscores, while Python variable names typically use lowercase letters with underscores (snake_case).
+
+3. **Strings:**
+   - Both languages use double (`"`) and single (`'`) quotes to define strings.
+   - In Python, you can use triple-quotes for multi-line strings.
+   - In Ruby, you can interpolate strings using `#{...}`.
+
+4. **Conditional Statements:**
+   - Python uses `if`, `elif`, and `else` for conditional branching.
+   - Ruby also uses `if`, `elsif`, and `else`, but it doesn't require colons.
+
+5. **Loops:**
+   - Python has `for` and `while` loops.
+   - Ruby has similar loops, but it also provides iterators like `each` for collections.
+
+6. **Lists/Arrays:**
+   - Python uses lists and tuples for collections. Lists are mutable, and tuples are immutable.
+   - Ruby uses arrays, which are mutable and can hold different types of objects.
+
+7. **Dictionaries/Hashes:**
+   - Python uses dictionaries (`dict`) for key-value pairs.
+   - Ruby uses hashes (`Hash`) for the same purpose.
+
+8. **Classes and Objects:**
+   - Both languages support object-oriented programming with classes and objects.
+   - Ruby has more dynamic features, like open classes, that allow you to modify classes at runtime.
+
+9. **Comments:**
+   - Both languages use the `#` symbol for single-line comments.
+
+While Python and Ruby have differences in syntax and design, they share some common principles, like readability and a focus on developer friendliness. The choice between Python and Ruby often depends on the specific needs of a project, the existing ecosystem, and personal preferences. Developers who are proficient in one language can generally pick up the other relatively quickly due to their high-level and human-readable nature.
+<details>
+
+<details>
+<summary><h3>Ruby Shebang</h3></summary>
+
+```ruby
+#!/usr/bin/env ruby
+```
+<details>
+
+<details>
+<summary><h3>Ruby Basics</h3></summary>
+
+Certainly! Here are some fundamental concepts and syntax basics in the Ruby programming language:
+
+1. **Hello, World!:**
+   In Ruby, you can print "Hello, World!" to the console with a simple `puts` statement:
+
+   ```ruby
+   puts "Hello, World!"
+   ```
+
+2. **Comments:**
+   You can add comments to your Ruby code using the `#` symbol. Comments are ignored by the Ruby interpreter and are useful for adding explanations to your code:
+
+   ```ruby
+   # This is a single-line comment
+   ```
+
+3. **Variables:**
+   Ruby uses dynamic typing, meaning you don't need to specify variable types explicitly. Variable names are case-sensitive, and they start with a lowercase letter or an underscore.
+
+   ```ruby
+   name = "John"
+   age = 30
+   ```
+
+4. **Data Types:**
+   Ruby has several data types, including:
+   - Strings: Enclosed in single or double quotes, e.g., `"Hello"`.
+   - Numbers: Integers (`1`, `42`) and floating-point numbers (`3.14`).
+   - Booleans: `true` or `false`.
+   - Arrays: Ordered collections of items.
+   - Hashes: Key-value pairs.
+
+5. **String Manipulation:**
+   Ruby provides many methods for working with strings, such as concatenation, interpolation, and length:
+
+   ```ruby
+   greeting = "Hello"
+   name = "Alice"
+   message = "#{greeting}, #{name}!" # String interpolation
+   puts message # Output: Hello, Alice!
+   ```
+
+6. **Conditional Statements:**
+   Ruby supports `if`, `elsif`, and `else` for conditional branching:
+
+   ```ruby
+   x = 10
+   if x > 5
+     puts "x is greater than 5"
+   elsif x == 5
+     puts "x is equal to 5"
+   else
+     puts "x is less than 5"
+   end
+   ```
+
+7. **Loops:**
+   Ruby supports various types of loops, including `while`, `for`, and iterators like `each` for iterating over collections:
+
+   ```ruby
+   # Using a while loop
+   i = 0
+   while i < 5
+     puts i
+     i += 1
+   end
+
+   # Using an iterator
+   colors = ["red", "green", "blue"]
+   colors.each do |color|
+     puts color
+   end
+   ```
+
+8. **Methods:**
+   You can define your own methods to encapsulate reusable code:
+
+   ```ruby
+   def greet(name)
+     puts "Hello, #{name}!"
+   end
+
+   greet("Bob") # Output: Hello, Bob!
+   ```
+
+9. **Arrays and Hashes:**
+   Arrays are ordered collections of items, and hashes are collections of key-value pairs:
+
+   ```ruby
+   # Array
+   fruits = ["apple", "banana", "orange"]
+   puts fruits[0] # Accessing elements
+
+   # Hash
+   person = { "name" => "Alice", "age" => 30 }
+   puts person["name"] # Accessing values by key
+   ```
+
+10. **Classes and Objects:**
+    Ruby is an object-oriented language, and you can define classes to create objects:
+
+    ```ruby
+    class Person
+      def initialize(name, age)
+        @name = name
+        @age = age
+      end
+
+      def introduce
+        puts "My name is #{@name} and I am #{@age} years old."
+      end
+    end
+
+    alice = Person.new("Alice", 25)
+    alice.introduce
+    ```
+<details>
+
 # Background Context
 For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
