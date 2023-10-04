@@ -1,6 +1,6 @@
 <h1 align="center"><b>0x08. NETWORKING BASICS #1</b></h1>
 <div align="center"><code>DevOps</code> <code>Network</code> <code>SysAdmin</code></div>
-
+<br>
 <!-- # Background Context -->
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png">
