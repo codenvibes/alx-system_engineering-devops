@@ -180,7 +180,21 @@ What network do you use when you browse www.google.com from your smartphone (not
 File: [2-MAC_and_IP_address]()
 </summary>
 
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x07-networking_basics/pics/task2.jpg">
 
+Questions:
+
+What is a MAC address?
+
+1.  The name of a network interface
+2.  The unique identifier of a network interface
+3.  A network interface
+
+What is an IP address?
+
+1.  Is to devices connected to a network what postal address is to houses
+2.  The unique identifier of a network interface
+3.  Is a number that network devices use to connect to networks
 </details>
 
 <details>
