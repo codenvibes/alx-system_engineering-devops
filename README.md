@@ -18,6 +18,7 @@
 
 ☑️ 0x06. [Regular expression](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
 
+☑️ 0x07. [Networking basics #0](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x07-networking_basics)
 
 <br>
 <p align="center">※※※※※※※※※※※※</p>
