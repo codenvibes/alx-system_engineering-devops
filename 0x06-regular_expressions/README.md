@@ -188,6 +188,41 @@ Certainly! Here are some fundamental concepts and syntax basics in the Ruby prog
     ```
 </details>
 
+<details>
+<summary><h3>What are Regular Expressions</h3></summary>
+
+Regular expressions, often abbreviated as "regex" or "regexp," are a powerful tool for pattern matching and text manipulation. They are a sequence of characters that define a search pattern. Regular expressions are used in various programming languages, text editors, and utilities to perform tasks such as searching, extracting, validating, and replacing text based on specific patterns.
+
+Here are some key concepts and elements commonly used in regular expressions:
+
+1. **Literals:** Characters in a regular expression that match themselves. For example, the regular expression `hello` matches the exact sequence "hello" in a text.
+
+2. **Metacharacters:** Special characters in a regular expression that have meanings beyond their literal characters. Common metacharacters include `.` (matches any character except a newline), `*` (matches zero or more occurrences of the preceding character), `+` (matches one or more occurrences of the preceding character), `?` (matches zero or one occurrence of the preceding character), and more.
+
+3. **Character Classes:** Square brackets `[ ]` define a character class, which matches any single character within the brackets. For example, `[aeiou]` matches any vowel, and `[0-9]` matches any digit.
+
+4. **Quantifiers:** These specify how many times a character or group should be repeated. Common quantifiers include `{n}` (matches exactly n occurrences), `{n,}` (matches n or more occurrences), `{n,m}` (matches between n and m occurrences), and `*` (matches zero or more occurrences).
+
+5. **Anchors:** Anchors specify the position in the text where a match should occur. Common anchors include `^` (matches the start of a line) and `$` (matches the end of a line).
+
+6. **Escape Sequences:** Backslashes `\` are used to escape metacharacters if you want to match them literally. For example, `\.` matches a period character, not any character as `.` does.
+
+7. **Grouping:** Parentheses `()` are used to create capture groups within a regular expression. These groups allow you to extract specific parts of a matched string or apply quantifiers to a group of characters.
+
+8. **Alternation:** The pipe character `|` allows you to specify alternative patterns. For example, `cat|dog` matches either "cat" or "dog."
+
+Regular expressions are incredibly versatile and can be used for a wide range of tasks, including:
+
+- **Searching:** Finding occurrences of a specific pattern in a text.
+- **Validation:** Checking if a string conforms to a specific format or structure.
+- **Extraction:** Capturing and extracting data from a string based on a pattern.
+- **Replacement:** Replacing specific patterns with other text.
+- **Parsing:** Breaking down structured data into meaningful components.
+- **Filtering:** Selecting or excluding text based on patterns.
+
+Regular expressions are supported in many programming languages, including Ruby, Python, JavaScript, and more, making them a valuable tool for text processing and manipulation tasks. However, they can be complex and require some practice to master effectively.
+</details>
+
 # Background Context
 For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
