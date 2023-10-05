@@ -73,7 +73,33 @@
 <details>
 <summary><b><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers">[TCP/UDP ports List]<a></b></summary>
 
+TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two of the most commonly used transport layer protocols in computer networking. They both serve the purpose of transmitting data over networks, but they do so in different ways, each with its own advantages and disadvantages. Here's an overview of TCP and UDP:
 
+**TCP (Transmission Control Protocol):**
+
+1. **Connection-Oriented:** TCP is a connection-oriented protocol, which means it establishes a reliable connection between the sender and receiver before data transfer begins. This connection is maintained until all data is successfully delivered.
+
+2. **Reliable:** TCP ensures that data is delivered accurately and in the correct order. It employs error detection, retransmission of lost or corrupted packets, and flow control mechanisms to guarantee reliable data transmission.
+
+3. **Ordered:** TCP guarantees that the data sent from one end is received in the same order by the other end. This is important for applications like web browsing and file transfers where data integrity and order matter.
+
+4. **Slower:** Due to its reliability mechanisms and connection setup, TCP can introduce some latency and overhead. It may not be as suitable for real-time applications with strict latency requirements.
+
+5. **Examples of TCP Applications:** HTTP (Hypertext Transfer Protocol) for web browsing, FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol) for email, and many other applications that require reliable data delivery.
+
+**UDP (User Datagram Protocol):**
+
+1. **Connectionless:** UDP is a connectionless protocol, meaning it doesn't establish a connection before transmitting data. It's a "fire and forget" protocol, where data is sent without any confirmation of receipt.
+
+2. **Unreliable:** Unlike TCP, UDP does not guarantee the delivery of data packets. It doesn't have mechanisms for error correction or retransmission of lost packets.
+
+3. **Faster:** Because UDP lacks the overhead of connection setup and error handling, it is generally faster and more suitable for real-time applications that can tolerate some packet loss, such as online gaming and video streaming.
+
+4. **No Ordered Delivery:** UDP does not ensure the order in which data packets are delivered. If order matters for an application, it needs to handle sequencing at a higher layer.
+
+5. **Examples of UDP Applications:** VoIP (Voice over Internet Protocol), online gaming, streaming media (e.g., video and audio), DNS (Domain Name System) for domain name resolution, and other real-time applications.
+
+In summary, TCP is preferred for applications that require reliable and ordered data delivery, while UDP is more suitable for applications where speed and low latency are critical, and some packet loss can be tolerated. The choice between TCP and UDP depends on the specific needs of the application or service being used.
 </details>
 
 <details>
