@@ -189,7 +189,6 @@ Receiving the text on the other side.
 sylvain@ubuntu$ sudo ./100-port_listening_on_localhost
 Hello world
 test
-
 ```
 
 For the sake of the exercise, this connection is made entirely within `localhost`. This isn't really exciting as is, but we can use this script across networks as well. Try running it between your local PC and your remote server for fun!
