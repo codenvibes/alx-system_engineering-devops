@@ -65,13 +65,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/">[TCP and UDP]<a></b></summary>
-
-
-</details>
-
-<details>
-<summary><b><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers">[TCP/UDP ports List]<a></b></summary>
+<summary><b><a href="https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/">[TCP and UDP]<a></b></summary><br>
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two of the most commonly used transport layer protocols in computer networking. They both serve the purpose of transmitting data over networks, but they do so in different ways, each with its own advantages and disadvantages. Here's an overview of TCP and UDP:
 
@@ -100,6 +94,12 @@ TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two of 
 5. **Examples of UDP Applications:** VoIP (Voice over Internet Protocol), online gaming, streaming media (e.g., video and audio), DNS (Domain Name System) for domain name resolution, and other real-time applications.
 
 In summary, TCP is preferred for applications that require reliable and ordered data delivery, while UDP is more suitable for applications where speed and low latency are critical, and some packet loss can be tolerated. The choice between TCP and UDP depends on the specific needs of the application or service being used.
+</details>
+
+<details>
+<summary><b><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers">[TCP/UDP ports List]<a></b></summary>
+
+
 </details>
 
 <details>
