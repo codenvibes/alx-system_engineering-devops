@@ -5,85 +5,85 @@
 
 # Resources
 <details>
-<summary><b>[OSI model](https://en.wikipedia.org/wiki/OSI_model)</b></summary>
+<summary><b><a src="https://en.wikipedia.org/wiki/OSI_model">[OSI model]<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)</b></summary>
+<summary><b><a src="">[Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[LAN network](https://en.wikipedia.org/wiki/Local_area_network)</b></summary>
+<summary><b><a src="">[LAN network](https://en.wikipedia.org/wiki/Local_area_network)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[WAN network](https://en.wikipedia.org/wiki/Wide_area_network)</b></summary>
+<summary><b><a src="">[WAN network](https://en.wikipedia.org/wiki/Wide_area_network)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[Internet](https://en.wikipedia.org/wiki/Internet)</b></summary>
+<summary><b><a src="">[Internet](https://en.wikipedia.org/wiki/Internet)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[MAC address](https://whatismyipaddress.com/mac-address)</b></summary>
+<summary><b><a src="">[MAC address](https://whatismyipaddress.com/mac-address)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[What is an IP address](https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/)</b></summary>
+<summary><b>[W src=""hat is an IP address](https://www.bleepingcomp<a>uter.com/tutorials/ip-addresses-explained/)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[Private and public address](https://www.iplocation.net/public-vs-private-ip-address)</b></summary>
+<summary><b><a src="">[Private and public address](https://www.iplocation.net/public-vs-private-ip-address)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[IPv4 and IPv6](https://www.webopedia.com/insights/ipv6-ipv4-difference/)</b></summary>
+<summary><b><a src="">[IPv4 and IPv6](https://www.webopedia.com/insights/ipv6-ipv4-difference/)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[Localhost](https://en.wikipedia.org/wiki/Localhost)</b></summary>
+<summary><b><a src="">[Localhost](https://en.wikipedia.org/wiki/Localhost)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[TCP and UDP](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)</b></summary>
+<summary><b>[T src=""CP and UDP](https://www.howtogeek.com/190014/htg-explains<a>-what-is-the-difference-between-tcp-and-udp/)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[TCP/UDP ports List](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)</b></summary>
+<summary><b><a src="">[TCP/UDP ports List](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[What is ping /ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)</b></summary>
+<summary><b><a src="">[What is ping /ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)<a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b>[Positional parameters](https://www.adminschoice.com/bash-positional-parameters)</b></summary>
+<summary><b><a src="">[Positional parameters](https://www.adminschoice.com/bash-positional-parameters)<a></b></summary>
 
 
 </details>
