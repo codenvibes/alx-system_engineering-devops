@@ -123,7 +123,6 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 
 <details>
 <summary><b>OSI Model</b></summary><br>
-
 - What it is
 - How many layers it has
 - How it is organized
@@ -131,7 +130,6 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 
 <details>
 <summary><b>What is a LAN</b></summary><br>
-
 - Typical usage
 - Typical geographical size
 </details>
