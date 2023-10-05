@@ -309,14 +309,14 @@ Let's fill the empty parts in the drawing above.
 Questions:
 
 -   Which statement is correct for the TCP box:
-    1.  `It is a protocol that is transferring data in a slow way but surely`
-    2.  `It is a protocol that is transferring data in a fast way and might loss data along in the process`
+    - [x] 1.  `It is a protocol that is transferring data in a slow way but surely`
+    - [ ] 2.  `It is a protocol that is transferring data in a fast way and might loss data along in the process`
 -   Which statement is correct for the UDP box:
-    1.  `It is a protocol that is transferring data in a slow way but surely`
-    2.  `It is a protocol that is transferring data in a fast way and might loss data along in the process`
+    - [ ] 1.  `It is a protocol that is transferring data in a slow way but surely`
+    - [x] 2.  `It is a protocol that is transferring data in a fast way and might loss data along in the process`
 -   Which statement is correct for the TCP worker:
-    1.  `Have you received boxes x, y, z?`
-    2.  `May I increase the rate at which I am sending you boxes?`
+    - [x] 1.  `Have you received boxes x, y, z?`
+    - [ ] 2.  `May I increase the rate at which I am sending you boxes?`
 </details>
 
 <details>
