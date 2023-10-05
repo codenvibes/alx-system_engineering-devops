@@ -179,7 +179,6 @@ Connected to localhost.
 Escape character is '^]'.
 Hello world
 test
-
 ```
 
 **Terminal 0**
