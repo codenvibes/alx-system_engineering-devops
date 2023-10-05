@@ -130,7 +130,7 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 </details>
 
 <details>
-<summary><h3>What is a LAN</h3></summary>
+<summary><h4>What is a LAN</h4></summary>
 
 - Typical usage
 - Typical geographical size
