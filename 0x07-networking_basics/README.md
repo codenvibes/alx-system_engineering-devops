@@ -5,7 +5,7 @@
 
 # Resources
 <details>
-<summary><b><a src="https://en.wikipedia.org/wiki/OSI_model">[OSI model]<a></b></summary>
+<summary><b><a href="https://en.wikipedia.org/wiki/OSI_model">[OSI model]<a></b></summary>
 
 
 </details>
