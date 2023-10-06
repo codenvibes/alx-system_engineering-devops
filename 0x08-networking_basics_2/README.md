@@ -6,10 +6,30 @@
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png">
 
 # Resources
-- [What is localhost](https://en.wikipedia.org/wiki/Localhost)
-- [What is 0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
-- [What is the hosts file](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)
-- [Netcat examples](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
+<details>
+<summary><b><a href="https://en.wikipedia.org/wiki/Localhost">What is localhost</a></b></summary>
+
+
+</details>
+
+<details>
+<summary><b><a href="https://en.wikipedia.org/wiki/0.0.0.0">What is 0.0.0.0</a></b></summary>
+
+
+</details>
+
+<details>
+<summary><b><a href="https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/">What is the hosts file</a></b></summary>
+
+
+</details>
+
+<details>
+<summary><b><a href="https://www.thegeekstuff.com/2012/04/nc-command-examples/">Netcat examples</a></b></summary>
+
+
+</details>
+
 
 **man or help:**
 - `ifconfig`
@@ -19,19 +39,27 @@
 
 # Learning Objectives
 <details>
-<summary><h3>What is localhost/127.0.0.1</h3></summary>
+<summary><b><a href=" ">What is localhost/127.0.0.1</a></b></summary>
+
+
 </details>
 
 <details>
-<summary><h3>What is 0.0.0.0</h3></summary>
+<summary><b><a href=" ">What is 0.0.0.0</a></b></summary>
+
+
 </details>
 
 <details>
-<summary><h3>What is <code>/etc/hosts</code></h3></summary>
+<summary><b><a href=" ">What is <code>/etc/hosts</code></a></b></summary>
+
+
 </details>
 
 <details>
-<summary><h3>How to display your machine’s active network interfaces</h3></summary>
+<summary><b><a href=" ">How to display your machine’s active network interfaces</a></b></summary>
+
+
 </details>
 
 # Requirements
@@ -73,12 +101,12 @@ What is `localhost`?
 File: [0-change_your_home_IP]()
 </summary>
 
-Write a Bash script that configures an Ubuntu server with the below requirements.
+
+-   The checker is running on Docker, so make sure to read [this](http://blog.jonathaWrite a Bash script that configures an Ubuntu server with the below requirements.
 
 Requirements:
 -   `localhost` resolves to `127.0.0.2`
--   `facebook.com` resolves to `8.8.8.8`.
--   The checker is running on Docker, so make sure to read [this](http://blog.jonathanargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/)
+-   `facebook.com` resolves to `8.8.8.8`.nargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/)
 
 Example:
 
@@ -194,4 +222,3 @@ For the sake of the exercise, this connection is made entirely within `localhos
 
 As you can see, this can come in very handy in a multitude of situations. Maybe you're debugging socket connection issues, or you're trying to connect to a software and you are unsure if the issue is the software or the network, or you're working on firewall rules... Another tool to add to your debugging toolbox!
 </details>
-
