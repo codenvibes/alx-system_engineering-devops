@@ -123,14 +123,14 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 # Learning Objectives
 
 <details>
-<summary><a href="https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x07-networking_basics#learning-objectives">OSI Model</a></summary><br>
+<summary><b><a href="">OSI Model</a></b></summary><br>
 <div>What it is</div>
 <div>How many layers it has</div>
 <div>How it is organized</div>
 </details>
 
 <details>
-<summary><a href="">What is a LAN</a></summary><br>
+<summary><b><a href="">What is a LAN</a></b></summary><br>
 Typical usage
 
 Typical geographical size
