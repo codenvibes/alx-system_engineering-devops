@@ -140,7 +140,7 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 </details>
 
 <details>
-<summary><b><a href="">What is a WAN</a></b></summary>
+<summary><b><a href="">What is a WAN</a></b></summary><br>
     <ul>
         <li>Typical usage</li>
         <li>Typical geographical size</li>
@@ -148,7 +148,7 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 </details>
 
 <details>
-<summary><b><a href="">What is the Internet</a></b></summary>
+<summary><b><a href="">What is the Internet</a></b></summary><br>
     <ul>
         <li>What is an IP address</li>
         <li>What are the 2 types of IP address</li>
@@ -159,7 +159,7 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 </details>
 
 <details>
-<summary><b><a href="">TCP/UDP</a></b></summary>
+<summary><b><a href="">TCP/UDP</a></b></summary><br>
     <ul>
         <li>What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)</li>
         <li>What is the main difference between TCP and UDP</li>
