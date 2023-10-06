@@ -125,9 +125,9 @@ In summary, TCP is preferred for applications that require reliable and ordered 
 <details>
 <summary><b><a href="">OSI Model</a></b></summary><br>
     <ul>
-        <li>What it is</li>
-        <li>How many layers it has</li>
-        <li>How it is organized</li>
+            <li>What it is</li>
+            <li>How many layers it has</li>
+            <li>How it is organized</li>
     </ul>
 </details>
 
