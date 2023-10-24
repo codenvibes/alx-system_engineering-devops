@@ -5,37 +5,37 @@
 
 # Resources
 <details>
-<summary><b><a href=" ">DNS</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Monitoring</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/13">Monitoring</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Web Server</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/17">Web Server</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Network basics</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/33">Network basics</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Load balancer</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/46">Load balancer</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Server</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/67">Server</a></b></summary>
 
 
 </details>
