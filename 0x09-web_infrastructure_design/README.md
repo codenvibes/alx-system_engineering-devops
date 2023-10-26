@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary><br>
 
 Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
 
@@ -21,7 +21,7 @@ DNS works in the same way. When you type a website address into your web browser
 </details>
 
 <details>
-<summary><b><a href="">Domain Records</a></b></summary>
+<summary><b><a href="">Domain Records</a></b></summary><br>
 
 A domain record is a piece of information that tells the Domain Name System (DNS) how to handle requests for a particular domain name. DNS records are stored on DNS servers, which are distributed around the world.
 
