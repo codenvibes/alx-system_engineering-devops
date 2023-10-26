@@ -5,6 +5,12 @@
 
 # Resources
 <details>
+<summary><b><a href="https://youtu.be/lQNEW76KdYg">Web Infrastructure Video</a></b></summary>
+
+
+</details>
+
+<details>
 <summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary>
 
 
@@ -174,7 +180,64 @@
 <details>
 <summary><h3>Question 0</h3></summary>
 
+What is HTTPS?
+- [x] A version of HTTP that secure the traffic between your browser and the website by encrypting it.
+- [ ] A version of HTTP that protect your personal information.
+- [ ] A faster version of HTTP.
+</details>
 
+<details>
+<summary><h3>Question 1</h3></summary>
+
+What is a codebase?
+- [ ] Is the most important files of a software system.
+- [x] Is the collection of source code that is used to build a software system.
+- [ ] A list of software libraries.
+</details>
+
+<details>
+<summary><h3>Question 2</h3></summary>
+
+What is a web server?
+- [ ] A web server is a software that serves web pages to clients upon their request.
+- [x] A web server is a software that serves web pages to clients upon their request, it does this over the protocol HTTP.
+- [ ] A web server is a software or physical device serving web pages over HTTP.
+</details>
+
+<details>
+<summary><h3>Question 3</h3></summary>
+
+What is a database?
+- [x] Is a collection of information that is stored and organized so that it can be easily accessed, updated and managed.
+- [ ] Is a collection of information that is stored on a physical server and organized so that it can be easily accessed, updated and managed.
+- [ ] Is a collection of text files that are stored so that it can be easily accessed, updated and managed by the local application.
+</details>
+
+<details>
+<summary><h3>Question 4</h3></summary>
+
+What is TCP/IP?
+- [ ] Transmission Control Protocol/Internet Protocol, is a suite of communications protocols used to interconnect network devices on private network.
+- [ ] Transmission Control Protocol/Internet Protocol, is a suite of communications protocols used to interconnect network devices on the Internet.
+- [x] Transmission Control Protocol/Internet Protocol, is a suite of communications protocols used to interconnect network devices on the Internet or any private network.
+</details>
+
+<details>
+<summary><h3>Question 5</h3></summary>
+
+What is a DNS?
+- [ ] A system that contain all Internet IPs.
+- [x] A system to translate domain names into IP addresses.
+- [ ] A list of domain names.
+</details>
+
+<details>
+<summary><h3>Question 6</h3></summary>
+
+What is a server?
+- [ ] A server is returning information to other computers when asked.
+- [ ] A server is a software that serves web pages.
+- [x] A server is a device, a virtual device or computer program or providing functionality for other programs or devices, called “clients”.
 </details>
 
 # Tasks
@@ -212,6 +275,7 @@ Requirements:
     - SPOF
     - Downtime when maintenance needed (like deploying new code web server needs to be restarted)
     - Cannot scale if too much incoming traffic
+
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 </details>
 
@@ -245,6 +309,7 @@ Requirements:
     - Where are SPOF
     - Security issues (no firewall, no HTTPS)
     - No monitoring
+
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 </details>
 
@@ -276,6 +341,7 @@ Requirements:
     - Why terminating SSL at the load balancer level is an issue
     - Why having only one MySQL server capable of accepting writes is an issue
     - Why having servers with all the same components (database, web server and application server) might be a problem
+
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 </details>
 
@@ -288,6 +354,19 @@ Please, remember that everything must be written in English to further your tech
 File: []()
 </summary>
 
+Readme
 
+- [Application server vs web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
+
+Requirements:
+
+- You must add:
+    - 1 server
+    - 1 load-balancer (HAproxy) configured as cluster with the other one
+    - Split components (web server, application server, database) with their own server
+- You must be able to explain some specifics about this infrastructure:
+    - For every additional element, why you are adding it
+
+Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 </details>
 
