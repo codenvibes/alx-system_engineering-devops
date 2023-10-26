@@ -348,10 +348,10 @@ Please, remember that everything must be written in English to further your tech
 <details>
 <summary>
 
-### 3. 
+### 3. Scale up
 `#advanced`
 
-File: []()
+File: [3-scale_up]()
 </summary>
 
 Readme
