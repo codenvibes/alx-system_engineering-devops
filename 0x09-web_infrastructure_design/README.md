@@ -13,6 +13,27 @@
 <details>
 <summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary>
 
+Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
+
+DNS is like the librarian. When you want to find a book, you don't have to know where it is on the shelf. You just ask the librarian and they'll tell you.
+
+DNS works in the same way. When you type a website address into your web browser, it's like asking the librarian where the book is. DNS tells your web browser the IP address of the website so it can find it and load it.
+</details>
+
+<details>
+<summary><b><a href="">Domain Records</a></b></summary>
+
+A domain record is a piece of information that tells the Domain Name System (DNS) how to handle requests for a particular domain name. DNS records are stored on DNS servers, which are distributed around the world.
+
+There are many different types of domain records, but the most common types are:
+
+* **A records:** Map a domain name to an IPv4 address.
+* **AAAA records:** Map a domain name to an IPv6 address.
+* **CNAME records:** Alias one domain name to another domain name.
+* **MX records:** Specify the mail servers that should handle email for a domain name.
+* **TXT records:** Store arbitrary text information about a domain name.
+
+Other types of domain records include NS records, SOA records, and SRV records.
 
 </details>
 
