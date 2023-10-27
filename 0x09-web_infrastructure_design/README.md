@@ -47,7 +47,7 @@ Other types of domain records include NS records, SOA records, and SRV records.
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS concept page</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS concept page</a></b></summary><br>
 
 Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
 
