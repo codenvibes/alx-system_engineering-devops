@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary><b><a href="">Domain Records</a></b></summary><br>
+<summary><b><a href=""></a>Domain Records</b></summary><br>
 
 A domain record is a piece of information that tells the Domain Name System (DNS) how to handle requests for a particular domain name. DNS records are stored on DNS servers, which are distributed around the world.
 
