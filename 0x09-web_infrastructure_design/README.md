@@ -11,16 +11,6 @@
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary><br>
-
-Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
-
-DNS is like the librarian. When you want to find a book, you don't have to know where it is on the shelf. You just ask the librarian and they'll tell you.
-
-DNS works in the same way. When you type a website address into your web browser, it's like asking the librarian where the book is. DNS tells your web browser the IP address of the website so it can find it and load it.
-</details>
-
-<details>
 <summary><b><a href="">Domain Records</a></b></summary><br>
 
 A domain record is a piece of information that tells the Domain Name System (DNS) how to handle requests for a particular domain name. DNS records are stored on DNS servers, which are distributed around the world.
@@ -37,62 +27,37 @@ Other types of domain records include NS records, SOA records, and SRV records.
 
 </details>
 
-<!-- <details>
-<summary><b><a href="">Monitoring</a></b></summary>
-
-
-</details> -->
-
-<!-- <details>
-<summary><b><a href="">Web Server</a></b></summary>
-
-
-</details> -->
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/33">Network basics</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/33">Network basics concept page</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/46">Load balancer</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/67">Server concept page</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/67">Server</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/17">Web server concept page</a></b></summary>
 
 
 </details>
 
 <details>
-<summary><b><a href=" ">Network basics concept page</a></b></summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS concept page</a></b></summary>
 
+Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
 
+DNS is like the librarian. When you want to find a book, you don't have to know where it is on the shelf. You just ask the librarian and they'll tell you.
+
+DNS works in the same way. When you type a website address into your web browser, it's like asking the librarian where the book is. DNS tells your web browser the IP address of the website so it can find it and load it.
 </details>
 
 <details>
-<summary><b><a href=" "> </a>Server </b>concept page</summary>
-
-
-</details>
-
-<details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/17"> </a>Web server </b>concept page</summary>
-
-
-</details>
-
-<details>
-<summary><b><a href=" "> </a>DNS </b>concept page</summary>
-
-
-</details>
-
-<details>
-<summary><b><a href=" "> </a>Load balancer </b>concept page</summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/46">Load balancer concept page</a></b></summary>
 
 
 </details>
