@@ -98,7 +98,7 @@ Other types of domain records include NS records, SOA records, and SRV records.
 </details>
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/13"> </a>Monitoring </b>concept page</summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/13">Monitoring concept page</a></b></summary>
 
 
 </details>
