@@ -37,17 +37,17 @@ Other types of domain records include NS records, SOA records, and SRV records.
 
 </details>
 
-<details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/13">Monitoring</a></b></summary>
+<!-- <details>
+<summary><b><a href="">Monitoring</a></b></summary>
 
 
-</details>
+</details> -->
 
-<details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/17">Web Server</a></b></summary>
+<!-- <details>
+<summary><b><a href="">Web Server</a></b></summary>
 
 
-</details>
+</details> -->
 
 <details>
 <summary><b><a href="https://intranet.alxswe.com/concepts/33">Network basics</a></b></summary>
@@ -68,7 +68,7 @@ Other types of domain records include NS records, SOA records, and SRV records.
 </details>
 
 <details>
-<summary><b><a href=" "> </a>Network basics </b>concept page</summary>
+<summary><b><a href=" ">Network basics concept page</a></b></summary>
 
 
 </details>
@@ -80,7 +80,7 @@ Other types of domain records include NS records, SOA records, and SRV records.
 </details>
 
 <details>
-<summary><b><a href=" "> </a>Web server </b>concept page</summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/17"> </a>Web server </b>concept page</summary>
 
 
 </details>
@@ -98,7 +98,7 @@ Other types of domain records include NS records, SOA records, and SRV records.
 </details>
 
 <details>
-<summary><b><a href=" "> </a>Monitoring </b>concept page</summary>
+<summary><b><a href="https://intranet.alxswe.com/concepts/13"> </a>Monitoring </b>concept page</summary>
 
 
 </details>
