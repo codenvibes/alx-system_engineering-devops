@@ -80,8 +80,6 @@ DNS works in the same way. When you type a website address into your web browser
 <summary><b><a href="https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html">What’s the difference between a web server and an app server?</a></b></summary>
 
 
-
-
 </details>
 
 <details>
