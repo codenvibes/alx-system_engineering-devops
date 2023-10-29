@@ -49,6 +49,8 @@ Other types of domain records include NS records, SOA records, and SRV records.
 <details>
 <summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS concept page</a></b></summary><br>
 
+DNS is, in simple words, the technology that translates human-adapted, text-based domain names to machine-adapted, numerical-based IP
+
 Imagine the internet is a library. Each website is a book in the library. The domain name is like the title of the book. The IP address is like the location of the book on the shelf.
 
 DNS is like the librarian. When you want to find a book, you don't have to know where it is on the shelf. You just ask the librarian and they'll tell you.
@@ -76,6 +78,8 @@ DNS works in the same way. When you type a website address into your web browser
 
 <details>
 <summary><b><a href="https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html">What’s the difference between a web server and an app server?</a></b></summary>
+
+
 
 
 </details>
