@@ -23,7 +23,7 @@
 <br>
 
 ### System engineering & DevOps - Web stack
-- **0x09. [Web infrastructure design]()**
+- ☑️ **0x09. [Web infrastructure design]()**
 - **0x0C. [Web server]()**
 - **0x0F. [Load balancer]()**
 - **0x10. [HTTPS SSL]()**
