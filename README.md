@@ -23,7 +23,7 @@
 <br>
 
 ### System engineering & DevOps - Web stack
-- ☑️ **0x09. [Web infrastructure design]()**
+- ☑️ **0x09. [Web infrastructure design](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)**
 - **0x0C. [Web server]()**
 - **0x0F. [Load balancer]()**
 - **0x10. [HTTPS SSL]()**
@@ -43,7 +43,7 @@
 <br>
 
 ### System engineering & DevOps - CI/CD
-- **0x0A. [Configuration management]()**
+- ☑️ **0x0A. [Configuration management](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x0A-configuration_management)**
 <br>
 
 ### System engineering & DevOps - Web stack debugging
