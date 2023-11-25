@@ -22,6 +22,39 @@
 - ☑️ **0x08. [Networking basics #1](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)**
 <br>
 
+### System engineering & DevOps - Web stack
+- **0x09. [Web infrastructure design]()**
+- **0x0C. [Web server]()**
+- **0x0F. [Load balancer]()**
+- **0x10. [HTTPS SSL]()**
+- **0x11. [What happens when you type google.com in your browser and press Enter]()**
+- **0x14. [MySQL]()**
+- **0x18. [Webstack monitoring]()**
+- **0x1A. [Application server]()**
+<br>
+
+### System engineering & DevOps - Security
+- **0x0B. [SSH]()**
+- **0x13. [Firewall]()**
+<br>
+
+### System engineering & DevOps - On call
+- **0x19. [Postmortem]()**
+<br>
+
+### System engineering & DevOps - CI/CD
+- **0x0A. [Configuration management]()**
+<br>
+
+### System engineering & DevOps - Web stack debugging
+- **0x0D. [Web stack debugging #0]()**
+- **0x0E. [Web stack debugging #1]()**
+- **0x12. [Web stack debugging #2]()**
+- **0x17. [Web stack debugging #3]()**
+- **0x1B. [Web stack debugging #4]()**
+<br>
+
+
 ### More!
 - ☑️ **[command_line_for_the_win](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/command_line_for_the_win)**
 
