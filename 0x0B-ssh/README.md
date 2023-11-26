@@ -115,7 +115,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 ## Learning Objectives
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is a server</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -123,7 +123,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Where servers usually live</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -131,7 +131,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is SSH</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -139,7 +139,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>How to create an SSH RSA key pair</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -147,7 +147,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>How to connect to a remote host using an SSH RSA key pair</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -155,7 +155,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>The advantage of using <code>#!/usr/bin/env bash</code> instead of <code>/bin/bash</code></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
