@@ -80,7 +80,7 @@
 File: [0-sniffing]()
 </summary>
 
-<div align="center"><img width="80%" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/images/task_0.png"></div>
+<div align="center"><img width="70%" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/images/task_0.png"></div>
 
 <br>
 <br>
