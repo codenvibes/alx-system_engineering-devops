@@ -108,9 +108,10 @@ You can access your server information in the [my servers](https://intranet.alxs
 </details>
 
 
-
-<!-- **man or help:**
-- `` -->
+**man or help:**
+- `ssh`
+- `ssh-keygen`
+- `ssh-keygen`
 
 ## Learning Objectives
 <details>
