@@ -80,7 +80,7 @@
 File: [0-sniffing]()
 </summary>
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T105931Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=575be3d41cc737a76b6552fcd61e5979a4475ccf6104d2e86de34372b6cbf132">
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/images/task_0.png">
 
 Security is a vast topic, and network security is an important part of it. A lot of very sensitive information goes over networks that are used by many people, and some people might have bad intentions. Traffic going through a network can be intercepted by a malicious machine pretending to be another network device. Once the traffic is redirected to the malicious machine, the hacker can keep a copy of it and analyze it for potential interesting information. It is important to note that the traffic must then be forwarded to the actual device it was supposed to go (so that users and the system keep going as if nothing happened).
 
