@@ -34,7 +34,7 @@
 <br>
 
 ### System engineering & DevOps - Security
-- **0x0B. [SSH](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x0B-ssh)**
+- ☑️ **0x0B. [SSH](https://github.com/codenvibes/alx-system_engineering-devops/tree/master/0x0B-ssh)**
 - **0x13. [Firewall]()**
 <br>
 
