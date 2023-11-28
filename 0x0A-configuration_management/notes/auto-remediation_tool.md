@@ -1,6 +1,6 @@
 According to the text, **an auto-remediation tool is a tool or system that automatically identifies and fixes issues in a computing environment**. In the context of the passage, the auto-remediation tool mentioned is called "Skynet," and it was designed to monitor, scale, and fix issues in the Cloud infrastructure at SlideShare. The tool utilized a parallel job-execution system (MCollective) to execute commands on one or multiple servers simultaneously. In this specific incident, the tool played a role in restoring the infrastructure after an unintended shutdown caused by a bug in the code. The auto-remediation tool is crucial for efficiently addressing and resolving problems in the system without manual intervention.
 
-There are several auto-remediation tools and frameworks available across different domains. These tools automate the detection and correction of issues to maintain system health. Here are a few examples:
+There are several auto-remediation tools and frameworks available across different domains. These tools <u>automate the detection and correction of issues to maintain system health</u>. Here are a few examples:
 
 1. **AWS Systems Manager (formerly EC2 Systems Manager):** This service from Amazon Web Services helps you automate operational tasks across your AWS resources. It includes features for patch management, automation workflows, and maintenance tasks.
 
