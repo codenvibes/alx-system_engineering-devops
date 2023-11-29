@@ -136,8 +136,9 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 
-<!-- **man or help:**
-- `` -->
+**man or help:**
+- `scp`
+- `curl`
 
 ## Learning Objectives
 <details>
