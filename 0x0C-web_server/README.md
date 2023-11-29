@@ -311,10 +311,10 @@ The main role of a web server is to
 <details>
 <summary>
 
-### 0. 
+### 0. Transfer a file to your server
 `mandatory`
 
-File: []()
+File: [0-transfer_file]()
 </summary>
 
 
@@ -323,10 +323,10 @@ File: []()
 <details>
 <summary>
 
-### 1. 
+### 1. Install nginx web server
 `mandatory`
 
-File: []()
+File: [1-install_nginx_web_server]()
 </summary>
 
 
@@ -335,10 +335,10 @@ File: []()
 <details>
 <summary>
 
-### 2. 
+### 2. Setup a domain name
 `mandatory`
 
-File: []()
+File: [2-setup_a_domain_name]()
 </summary>
 
 
@@ -347,10 +347,10 @@ File: []()
 <details>
 <summary>
 
-### 3. 
+### 3. Redirection
 `mandatory`
 
-File: []()
+File: [3-redirection]()
 </summary>
 
 
@@ -359,10 +359,10 @@ File: []()
 <details>
 <summary>
 
-### 4. 
+### 4. Not found page 404
 `mandatory`
 
-File: []()
+File: [4-not_found_page_404]()
 </summary>
 
 
@@ -371,10 +371,10 @@ File: []()
 <details>
 <summary>
 
-### 5. 
+### 5. Install Nginx web server (w/ Puppet)
 `#advanced`
 
-File: []()
+File: [7-puppet_install_nginx_web_server.pp]()
 </summary>
 
 
