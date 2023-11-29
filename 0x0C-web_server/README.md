@@ -119,9 +119,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 </details>
 
 
-<br>
-
-**For reference:**
+### For reference:
 
 <details>
 <summary><b><a href="https://datatracker.ietf.org/doc/html/rfc7231">RFC 7231 (HTTP/1.1)</a></b></summary><br>
@@ -139,9 +137,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 </details>
 
 
-<br>
-
-**man or help:**
+### man or help:
 - `scp`
 - `curl`
 
@@ -177,9 +173,8 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br>
 
-**DNS**
+### DNS
 
 <details>
 <summary><b><a href=" "> </a>What DNS stands for</b></summary><br>
@@ -196,9 +191,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br>
-
-**DNS Record Types**
+### DNS Record Types
 
 - `A`
 - `CNAME`
