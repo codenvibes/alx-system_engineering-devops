@@ -118,6 +118,8 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+
+<br>
 <b>For reference:</b>
 <details>
 <summary><b><a href="https://datatracker.ietf.org/doc/html/rfc7231">RFC 7231 (HTTP/1.1)</a></b></summary><br>
@@ -135,7 +137,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 </details>
 
 
-
+<br>
 **man or help:**
 - `scp`
 - `curl`
