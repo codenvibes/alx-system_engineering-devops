@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# AUTH: codenvibes
+
+service apache2 start
