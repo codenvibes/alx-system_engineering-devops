@@ -232,55 +232,79 @@ Why web servers usually use child processes?
 <details>
 <summary><h3>Question 1</h3></summary>
 
-
+A HTTP POST request is to
+- [ ] delete data
+- [x] submit data
+- [ ] request data
 </details>
 
 <details>
 <summary><h3>Question 2</h3></summary>
 
-
+The main role of DNS is to
+- [ ] name websites
+- [ ] translate domain name into port
+- [x] translate domain name into IP address
 </details>
 
 <details>
 <summary><h3>Question 3</h3></summary>
 
-
+A web server is
+- [x] a software
+- [ ] a physical machine
 </details>
 
 <details>
 <summary><h3>Question 4</h3></summary>
 
-
+What was one of the most important reason for which DNS was created
+- [ ] to index the web
+- [ ] to connect the Internet
+- [x] because humans are not good at remembering long sequences of numbers (IP address)
 </details>
 
 <details>
 <summary><h3>Question 5</h3></summary>
 
-
+What is TTL within the context of DNS
+- [ ] a time period for DNS maintenance
+- [ ] a time period when DNS is not answering requests
+- [x] a time period when DNS query results are cached
 </details>
 
 <details>
 <summary><h3>Question 6</h3></summary>
 
-
+A DNS A record translates to
+- [ ] a domain
+- [x] an IP
 </details>
 
 <details>
 <summary><h3>Question 7</h3></summary>
 
-
+A DNS CNAME record translates to
+- [x] a domain
+- [ ] an IP
 </details>
 
 <details>
 <summary><h3>Question 8</h3></summary>
 
-
+A HTTP GET request is to
+- [ ] delete data
+- [ ] submit data
+- [x] request data
 </details>
 
 <details>
 <summary><h3>Question 9</h3></summary>
 
-
+The main role of a web server is to
+- [ ] host files
+- [x] serve static content
+- [ ] serve dynamic content
 </details>
 
 ## Tasks
