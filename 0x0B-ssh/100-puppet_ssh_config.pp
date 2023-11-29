@@ -1,6 +1,8 @@
 # AUTH: codenvibes
 # DESC: A puppet manifest that configures SSH client settings
 
+include stdlib
+
 file_line { 'Turn off password auth':
   path   => '/etc/ssh/sshd_config',
   line   => 'PasswordAuthentication no',
