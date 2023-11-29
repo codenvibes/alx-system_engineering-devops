@@ -2,7 +2,7 @@
 <div align="center"><code>DevOps</code> <code>SysAdmin</code></div>
 
 <br>
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png">
+<img width=80% src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png">
 <br>
 
 ## Background Context
