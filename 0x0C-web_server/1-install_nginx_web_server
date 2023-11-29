@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# AUTH: codenvibes
+# a Bash script that sets up Nginx web server with basic "Hello World!" page
+
+sudo apt-get  update -y
+# Install the Nginx web server
+sudo apt-get install nginx -y
+# Allow incoming traffic for Nginx HTTP (port 80) using Uncomplicated Firewall (ufw)
+ufw allow 'Nginx HTTP'
+# Create a simple HTML file with "Hello World!" content
+echo "Hello World!" > /var/www/html/index.nginx-debian.html
+# Start the Nginx service to make the web server operational
+sudo service nginx start
