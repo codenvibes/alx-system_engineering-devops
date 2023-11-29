@@ -363,10 +363,6 @@ That is one way of publishing your website pages to your server.
 File: [1-install_nginx_web_server]()
 </summary>
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01cab59e881e31842b8d47a0974e8d3b6f0f2001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231129T195923Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d46fc2215ad1cad3427ee426e716b2805fcfb3a670a3dfe72028d7abc9cfa507">
-
-<br>
-
 Readme:
 - [-y on apt-get command](https://askubuntu.com/questions/672892/what-does-y-mean-in-apt-get-y-install-command)
 
@@ -477,7 +473,28 @@ When your domain name is setup, please verify the Registrar here: https://whois.
 File: [3-redirection]()
 </summary>
 
+Readme:
+- [Replace a line with multiple lines with sed](https://stackoverflow.com/questions/26041088/sed-replace-line-with-multiline-variable)
 
+Configure your Nginx server so that `/redirect_me` is redirecting to another page.
+
+Requirements:
+- The redirection must be a “301 Moved Permanently”
+- You answer file should be a Bash script containing commands to automatically configure a Ubuntu machine to respect above requirements
+- Using what you did with `1-install_nginx_web_server`, write `3-redirection` so that it configures a brand new Ubuntu machine to the requirements asked in this task
+Example:
+```
+sylvain@ubuntu$ curl -sI 34.198.248.145/redirect_me/
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.4.6 (Ubuntu)
+Date: Tue, 21 Feb 2017 21:36:04 GMT
+Content-Type: text/html
+Content-Length: 193
+Connection: keep-alive
+Location: https://www.youtube.com/watch?v=QH2-TGUlwu4
+
+sylvain@ubuntu$
+```
 </details>
 
 <details>
@@ -489,7 +506,29 @@ File: [3-redirection]()
 File: [4-not_found_page_404]()
 </summary>
 
+Configure your Nginx server to have a custom 404 page that contains the string `Ceci n'est pas une page`.
 
+Requirements:
+- The page must return an HTTP 404 error code
+- The page must contain the string `Ceci n'est pas une page`
+- Using what you did with `3-redirection`, write `4-not_found_page_404` so that it configures a brand new Ubuntu machine to the requirements asked in this task
+
+Example:
+```
+sylvain@ubuntu$ curl -sI 34.198.248.145/xyz
+HTTP/1.1 404 Not Found
+Server: nginx/1.4.6 (Ubuntu)
+Date: Tue, 21 Feb 2017 21:46:43 GMT
+Content-Type: text/html
+Content-Length: 26
+Connection: keep-alive
+ETag: "58acb50e-1a"
+
+sylvain@ubuntu$ curl 34.198.248.145/xyzfoo
+Ceci n'est pas une page
+
+sylvain@ubuntu$
+```
 </details>
 
 <details>
