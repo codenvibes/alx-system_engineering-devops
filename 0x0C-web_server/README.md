@@ -143,6 +143,8 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 - `scp`
 - `curl`
 
+<br>
+
 ## Learning Objectives
 <details>
 <summary><b><a href=" "> </a>What is the main role of a web server</b></summary><br>
@@ -202,6 +204,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 - `TXT`
 - `MX`
 
+<br>
 
 ## Requirements
 <!-- Add your requirements here -->
