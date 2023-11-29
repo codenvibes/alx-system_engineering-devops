@@ -147,7 +147,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 ## Learning Objectives
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the main role of a web server</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -155,7 +155,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is a child process</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -163,7 +163,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Why web servers usually have a parent process and child processes</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -171,7 +171,18 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What are the main HTTP requests</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<br>
+
+**DNS**
+
+<details>
+<summary><b><a href=" "> </a>What DNS stands for</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -179,51 +190,20 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is DNS main role</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br>
 
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+**DNS Record Types**
 
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+- `A`
+- `CNAME`
+- `TXT`
+- `MX`
 
 
 ## Requirements
