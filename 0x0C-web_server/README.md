@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=AZg4uJkEa-4&feature=youtu.be&hd=1
 In this project, some of the tasks will be graded on 2 aspects:
 
 1. Is your `web-01` server configured according to requirements
-2 Does your answer file contain a Bash script that automatically performs commands to configure an Ubuntu machine to fit requirements (meaning without any human intervention)
+2. Does your answer file contain a Bash script that automatically performs commands to configure an Ubuntu machine to fit requirements (meaning without any human intervention)
 
 For example, if I need to create a file `/tmp/test` containing the string `hello world` and modify the configuration of Nginx to listen on port `8080` instead of `80`, I can use `emacs` on my server to create the file and to modify the Nginx configuration file `/etc/nginx/sites-enabled/default`.
 
@@ -48,7 +48,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the web works</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -56,7 +56,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://en.wikipedia.org/wiki/Nginx">Nginx</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -64,7 +64,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04">How to Configure Nginx</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -72,7 +72,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/110">Child process concept page</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -80,7 +80,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://landingi.com/help/domains-vs-subdomains/">Root and sub domain</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -88,7 +88,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://www.tutorialspoint.com/http/http_methods.htm">HTTP requests</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -96,7 +96,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://moz.com/learn/seo/redirection">HTTP redirection</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -104,7 +104,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://en.wikipedia.org/wiki/HTTP_404">Not found HTTP response code</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -112,7 +112,15 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/">Logs files on Linux</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<b>For reference:</b>
+<details>
+<summary><b><a href="https://datatracker.ietf.org/doc/html/rfc7231">RFC 7231 (HTTP/1.1)</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -120,15 +128,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://datatracker.ietf.org/doc/html/rfc7540">RFC 7540 (HTTP/2)</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
