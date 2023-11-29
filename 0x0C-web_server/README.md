@@ -118,7 +118,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<p align="center">※※※※※※※※※※※※</p>
+<br>
 
 ### For reference:
 
@@ -137,7 +137,7 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<p align="center">※※※※※※※※※※※※</p>
+<br>
 
 ### man or help:
 - `scp`
