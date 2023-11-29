@@ -223,7 +223,10 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <details>
 <summary><h3>Question 0</h3></summary>
 
-
+Why web servers usually use child processes?
+- [ ] To prevent memory leak
+- [x] So that the web server can dynamically change the number of child process to accommodate the volume of requests to be processed
+- [ ] That’s just a subjective technical choice from the developers who created the software
 </details>
 
 <details>
