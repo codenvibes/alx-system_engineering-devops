@@ -20,7 +20,7 @@
 </details>
 
 <br>
-<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0F-load_balancer/load_balancer.png">
+<img width=80% src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0F-load_balancer/load_balancer.png">
 
 <br>
 
