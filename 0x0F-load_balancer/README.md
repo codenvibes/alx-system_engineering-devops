@@ -20,7 +20,7 @@
 </details>
 
 <br>
-<img src="file:///C:/Users/terre/Downloads/delete/ALX/Project_%200x0F.%20Load%20balancer%20_%20Nairobi%20Intranet_files/qfdked8.png">
+<img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0F-load_balancer/load_balancer.png">
 
 <!-- <br>
 
