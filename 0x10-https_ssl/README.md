@@ -1,11 +1,11 @@
 <h1 align="center"><b>0x10. HTTPS SSL</b></h1>
-<div align="center"><code></code> <code></code> <code></code></div>
+<div align="center"><code>DevOps</code> <code>SysAdmin</code> <code>Security</code></div>
 
 <br>
 
 ## Concepts
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/12">DNS</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -13,16 +13,21 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/68">Web stack debugging</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br>
+<div align="center"><img width=80% src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/FlhGPEK.png"></div>
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## Background Context
+### What happens when you don’t secure your website traffic?
+<br>
+<div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/xCmOCgw.gif"></div>
 
 <br>
 
