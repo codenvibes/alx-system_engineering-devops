@@ -20,7 +20,7 @@
 </details>
 
 <br>
-<div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/FlhGPEK.png"></div>
+<div align="center"><img width=80% src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/FlhGPEK.png"></div>
 
 <!-- <br>
 
@@ -113,19 +113,28 @@
 <details>
 <summary><b>Question 0</b></summary><br>
 
-
+You want to setup HTTPS on your website, where shall you place the certificate?
+- [ ] You can host it anywhere but you have to share the link to it on your website
+- [x] On your website web server(s)
+- [ ] In a secure location where nobody can access it
 </details>
 
 <details>
 <summary><b>Question 1</b></summary><br>
 
-
+What is HTTPS?
+- [ ] A faster version of HTTP
+- [ ] A superior version of HTTP
+- [x] A secure version of HTTP
 </details>
 
 <details>
 <summary><b>Question 2</b></summary><br>
 
-
+Why do you need HTTPS?
+- [x] To encrypt all communication between the client and the website servers
+- [ ] To accelerate the communication between the client and the website servers
+- [ ] To encrypt credit card and social security number information going between the client and the website servers
 </details>
 
 <br>
