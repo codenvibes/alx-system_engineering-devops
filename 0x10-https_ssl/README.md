@@ -33,7 +33,7 @@
 
 ## Resources
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://www.instantssl.com/http-vs-https">What is HTTPS?</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -41,7 +41,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html">What are the 2 main elements that SSL is providing</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://docs.ionos.com/cloud/">HAProxy SSL termination on Ubuntu16.04</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -57,7 +57,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://en.wikipedia.org/wiki/TLS_termination_proxy">SSL termination</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -65,7 +65,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://tldp.org/LDP/abs/html/complexfunct.html">Bash function</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -73,8 +73,9 @@
 
 
 
-<!-- **man or help:**
-- `` -->
+**man or help:**
+- `awk`
+- `dig`
 
 <br>
 
