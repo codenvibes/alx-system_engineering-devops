@@ -27,7 +27,7 @@
 ## Background Context
 ### What happens when you don’t secure your website traffic?
 <br>
-<div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/xCmOCgw.gif"></div>
+<div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x10-https_ssl/images/xCmOCgw.gif"></div>
 
 <br>
 
