@@ -29,3 +29,4 @@ backend webservers
 sudo cp -a /etc/haproxy/haproxy.cfg{,.orig}
 sudo echo "$balancer" >> /etc/haproxy/haproxy.cfg
 # Start the HAProxy service
+sudo service haproxy start
