@@ -10,6 +10,7 @@ exec { 'apt-update':
   path    => ['/usr/bin', '/bin'],
 }
 
+# Ensure that Nginx package is installed
 package { 'nginx':
   ensure => installed,
 }
