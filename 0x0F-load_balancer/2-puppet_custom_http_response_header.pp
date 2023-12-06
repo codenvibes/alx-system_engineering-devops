@@ -8,3 +8,7 @@ exec { 'apt-update':
   command => '/usr/bin/apt-get -y update',
   path    => ['/usr/bin', '/bin'],
 }
+
+package { 'nginx':
+  ensure => installed,
+}
