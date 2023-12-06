@@ -20,6 +20,7 @@ file { '/var/www/html/index.html':
   content => 'Hello World!',
 }
 
+# Add a custom HTTP header configuration to Nginx
 file_line { 'add custom header':
   ensure => present,
   path   => '/etc/nginx/sites-available/default',
