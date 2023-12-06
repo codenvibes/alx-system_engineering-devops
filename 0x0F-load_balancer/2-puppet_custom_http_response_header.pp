@@ -23,3 +23,7 @@ file_line { 'add custom header':
   line   => "\tadd_header X-Served-By ${hostname};",
   after  => 'server_name _;',
 }
+
+service { 'nginx':
+  ensure => running,
+}
