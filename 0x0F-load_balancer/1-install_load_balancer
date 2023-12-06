@@ -7,3 +7,5 @@
 
 # Update the package list 
 sudo apt-get -y update
+# Install required packages
+sudo apt-get -y install software-properties-common
