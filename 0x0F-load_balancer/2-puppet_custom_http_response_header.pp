@@ -4,3 +4,7 @@
 #       creates a basic HTML file, configures Nginx to include a custom HTTP header,
 #       and ensures the Nginx service is running.
 
+exec { 'apt-update':
+  command => '/usr/bin/apt-get -y update',
+  path    => ['/usr/bin', '/bin'],
+}
