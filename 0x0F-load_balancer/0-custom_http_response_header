@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# AUTH: codenvibes
+# DESC: A Bash script that Installs Nginx, adds a custom header to the configuration, and restarts the Nginx service.
+sudo apt-get update
