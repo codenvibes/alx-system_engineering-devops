@@ -28,6 +28,7 @@ file_line { 'add custom header':
   after  => 'server_name _;',
 }
 
+# Ensure Nginx service is running
 service { 'nginx':
   ensure => running,
 }
