@@ -4,3 +4,6 @@
 #       It updates the package list, installs required packages,
 #       adds the HAProxy repository, installs HAProxy 2.0,
 #       and configures the load balancing with two backend servers.
+
+# Update the package list 
+sudo apt-get -y update
