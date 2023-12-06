@@ -15,6 +15,7 @@ package { 'nginx':
   ensure => installed,
 }
 
+# Create a basic HTML file
 file { '/var/www/html/index.html':
   content => 'Hello World!',
 }
