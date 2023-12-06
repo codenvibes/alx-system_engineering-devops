@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# AUTH: codenvibes
+# DESC: This script configures HAProxy as a load balancer.
+#       It updates the package list, installs required packages,
+#       adds the HAProxy repository, installs HAProxy 2.0,
+#       and configures the load balancing with two backend servers.
