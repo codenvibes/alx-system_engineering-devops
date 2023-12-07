@@ -1,5 +1,7 @@
 ***Puppet is an open-source configuration management and automation tool***. It is designed to help system administrators and DevOps engineers automate the provisioning and management of infrastructure, ensuring that systems are configured and maintained consistently.
 
+<br>
+
 <details>
 <summary><b><a href=""></a>Key features of Puppet include:</b></summary><br>
 
