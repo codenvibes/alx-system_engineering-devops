@@ -2,7 +2,7 @@
 
 <br>
 
-**Configuration management, refers to the process of systematically handling changes to a system's configuration/arrangement. This includes both hardware and software components.** The primary goal of configuration management is to maintain the desired state of a system, ensuring that it performs efficiently, securely, and meets the organization's requirements.
+***Configuration management, refers to the process of systematically handling changes to a system's configuration/arrangement. This includes both hardware and software components.*** The primary goal of configuration management is to maintain the desired state of a system, ensuring that it performs efficiently, securely, and meets the organization's requirements.
 
 <br>
 <details>
