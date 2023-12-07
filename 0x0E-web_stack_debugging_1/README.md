@@ -19,6 +19,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br><div><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg"></div>
 
 <!-- <br>
 
