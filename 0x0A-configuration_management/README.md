@@ -1,4 +1,4 @@
-<h1 align="center"><b>0x0A. CONFIGURATION MANAGEMENT</b></h1>
+<h1 align="center"><b><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0A-configuration_management/notes/config_mgmt.md">0x0A. CONFIGURATION MANAGEMENT</a></b></h1>
 <div align="center"><code>DevOps</code> <code>SysAdmin</code> <code>Scripting</code> <code>CI/CD</code></div>
 
 ## Background Context
