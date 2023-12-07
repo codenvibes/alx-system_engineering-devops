@@ -1,6 +1,7 @@
 ***Puppet is an open-source configuration management and automation tool***. It is designed to help system administrators and DevOps engineers automate the provisioning and management of infrastructure, ensuring that systems are configured and maintained consistently.
 
-Key features of Puppet include:
+<details>
+<summary><b><a href=""></a>Key features of Puppet include:</b></summary><br>
 
 1. **Declarative Language:** Puppet uses a declarative language, where users describe the desired state of their infrastructure rather than specifying the exact steps needed to achieve that state. Puppet then takes care of figuring out how to make the actual system match the desired state.
 
@@ -19,3 +20,6 @@ Key features of Puppet include:
 8. **Community and Ecosystem:** Puppet has a vibrant community and ecosystem that contribute to the development of modules, share best practices, and provide support. There's also an official Puppet Forge repository where users can find and share Puppet modules.
 
 Puppet is commonly used in large-scale, complex IT environments where maintaining consistency and automation are crucial. It is part of the broader landscape of configuration management tools used in DevOps practices to streamline infrastructure management.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
