@@ -25,3 +25,105 @@ Puppet is commonly used in large-scale, complex IT environments where maintainin
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
+
+
+<details>
+<summary><b><a href=""></a>Basics of Puppet</b></summary><br>
+
+Certainly! Let's start with the basics of Puppet. Puppet uses a declarative language to describe the desired state of a system, and it's structured around the idea of resources, which represent different aspects of a system's configuration. Here are some fundamental concepts and steps to get you started:
+
+### Key Concepts:
+
+1. **Manifests:**
+   - Puppet code is written in files called manifests. A manifest is a collection of Puppet code that defines the desired configuration for a system.
+   - Manifests typically have a `.pp` file extension.
+
+2. **Resources:**
+   - In Puppet, everything is a resource. A resource represents a piece of system configuration, such as a file, a package, or a service.
+   - Common types of resources include `file`, `package`, `service`, and `exec`.
+
+3. **Classes:**
+   - Classes are a way to organize and group related resources. They provide a modular and reusable structure for your Puppet code.
+   - Classes are defined using the `class` keyword.
+
+### Basic Steps:
+
+1. **Install Puppet:**
+   - Before you start using Puppet, you need to install it on the systems you want to manage. The Puppet infrastructure consists of a master server and client nodes.
+   - Install Puppet on the master server and the client nodes by following the installation instructions for your operating system.
+
+2. **Create a Manifest:**
+   - Create a simple Puppet manifest to get started. Open a text editor and create a file with a `.pp` extension (e.g., `site.pp`).
+
+   ```puppet
+   # site.pp
+   file { '/tmp/hello.txt':
+     ensure  => present,
+     content => 'Hello, Puppet!\n',
+   }
+   ```
+
+   This manifest ensures that a file named `hello.txt` with the content 'Hello, Puppet!' exists in the `/tmp` directory.
+
+3. **Apply the Manifest:**
+   - Use the `puppet apply` command to apply the manifest:
+
+   ```bash
+   puppet apply site.pp
+   ```
+
+   Puppet will read the manifest and apply the configuration to the system.
+
+4. **Verify the Configuration:**
+   - Check that the file has been created:
+
+   ```bash
+   cat /tmp/hello.txt
+   ```
+
+   It should output: `Hello, Puppet!`
+
+### Example with Classes:
+
+1. **Create a Class:**
+   - Create a class definition in a new file, e.g., `myclass.pp`:
+
+   ```puppet
+   # myclass.pp
+   class myclass {
+     file { '/tmp/classfile.txt':
+       ensure  => present,
+       content => 'This is a class file.\n',
+     }
+   }
+   ```
+
+2. **Include the Class:**
+   - Modify your `site.pp` to include and use the class:
+
+   ```puppet
+   # site.pp
+   include myclass
+   ```
+
+3. **Apply the Updated Manifest:**
+
+   ```bash
+   puppet apply site.pp
+   ```
+
+   Puppet will apply both the original manifest and the new class.
+
+4. **Verify the Configuration:**
+   - Check that the new file has been created:
+
+   ```bash
+   cat /tmp/classfile.txt
+   ```
+
+   It should output: `This is a class file.`
+
+These are very basic examples, but they provide a foundation for understanding how Puppet works. As you become more comfortable, you can explore more advanced features, such as variables, conditional statements, and modules, to manage larger and more complex configurations.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
