@@ -1,5 +1,7 @@
 > **configure**: *arrange or put together in a particular form or configuration.*<br> **configuration**: *An arrangement of elements in a particular form, figure, or combination.*
 
+<br>
+
 **Configuration management, refers to the process of systematically handling changes to a system's configuration. This includes both hardware and software components.** The primary goal of configuration management is to maintain the desired state of a system, ensuring that it performs efficiently, securely, and meets the organization's requirements.
 
 <br>
