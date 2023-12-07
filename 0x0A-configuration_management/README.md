@@ -161,7 +161,7 @@ Werkzeug 2.1.1
 ### 2. Execute a command
 `mandatory`
 
-File: [2-execute_a_command.pp]()
+File: [2-execute_a_command.pp](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0A-configuration_management/2-execute_a_command.pp)
 </summary>
 
 Using Puppet, create a manifest that kills a process named `killmenow`.
