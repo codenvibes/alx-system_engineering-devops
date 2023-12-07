@@ -132,7 +132,7 @@ I love Puppetroot@6712bef7a528:~#
 ### 1. Install a package
 `mandatory`
 
-File: [1-install_a_package.pp]()
+File: [1-install_a_package.pp](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0A-configuration_management/1-install_a_package.pp)
 </summary>
 
 Using Puppet, install `flask` from `pip3`.
