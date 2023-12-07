@@ -30,7 +30,7 @@ Puppet is commonly used in large-scale, complex IT environments where maintainin
 <details>
 <summary><b><a href=""></a>Basics of Puppet</b></summary><br>
 
-Certainly! Let's start with the basics of Puppet. Puppet uses a declarative language to describe the desired state of a system, and it's structured around the idea of resources, which represent different aspects of a system's configuration. Here are some fundamental concepts and steps to get you started:
+Puppet uses a declarative language to describe the desired state of a system, and it's structured around the idea of resources, which represent different aspects of a system's configuration. Here are some fundamental concepts and steps to get you started:
 
 ### Key Concepts:
 
