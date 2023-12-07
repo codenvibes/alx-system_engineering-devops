@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Enable the default Nginx site configuration by creating a symbolic link from sites-available to sites-enabled, start the Nginx service, and then gracefully restart it by killing the first Nginx process.
+ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx start
+kill "$(pgrep 'nginx' | head -1)"
