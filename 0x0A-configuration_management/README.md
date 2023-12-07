@@ -94,7 +94,7 @@ $ gem install puppet-lint
 ### 0. Create a file
 `mandatory`
 
-File: [0-create_a_file.pp]()
+File: [0-create_a_file.pp](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0A-configuration_management/0-create_a_file.pp)
 </summary>
 
 Using Puppet, create a file in `/tmp`.
