@@ -201,7 +201,7 @@ It's important to note that while using `env` has these advantages, it also come
 ### 0. Use a private key
 `mandatory`
 
-File: [0-use_a_private_key]()
+File: [0-use_a_private_key](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/0-use_a_private_key)
 </summary>
 
 Write a Bash script that uses `ssh` to connect to your server using the private key `~/.ssh/school` with the user `ubuntu`.
