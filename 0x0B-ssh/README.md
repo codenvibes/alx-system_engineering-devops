@@ -335,8 +335,6 @@ In the example above, we can see that `ssh` tries to authenticate using `school`
 
 ### 3. Let me in!
 `mandatory`
-
-File: [0x0B-ssh](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/100-puppet_ssh_config.pp)
 </summary>
 
 Now that you have successfully connected to your server, we would also like to join the party.
@@ -354,7 +352,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNdtrNGtTXe5Tp1EJQop8mOSAuRGLjJ6DW4PqX4wId
 ### 4. Client configuration file (w/ Puppet)
 `#advanced`
 
-File: [100-puppet_ssh_config.pp]()
+File: [100-puppet_ssh_config.pp](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/100-puppet_ssh_config.pp)
 </summary>
 
 Let’s practice using Puppet to make changes to our configuration file. Just as in the previous configuration file task, we’d like you to set up your client SSH configuration file so that you can connect to a server without typing a password.
