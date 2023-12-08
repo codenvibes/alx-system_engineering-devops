@@ -118,6 +118,7 @@ You can access your server information in the [my servers](https://intranet.alxs
 <details>
 <summary><b><a href=" "> </a>What is a server</b></summary><br>
 
+***A server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients"***
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
