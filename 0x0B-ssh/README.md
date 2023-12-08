@@ -159,6 +159,24 @@ You can access your server information in the [my servers](https://intranet.alxs
 <details>
 <summary><b><a href=" "> </a>The advantage of using <code>#!/usr/bin/env bash</code> instead of <code>/bin/bash</code></b></summary><br>
 
+Using `#!/usr/bin/env bash` instead of specifying the absolute path like `/bin/bash` in a shebang line has several advantages:
+
+1. **Portability:**
+   - `env` (short for "environment") is a command that searches the user's `PATH` environment variable for the specified command (`bash` in this case). This means that using `#!/usr/bin/env bash` makes your script more portable across different systems. It can find the appropriate `bash` executable, even if it's not located in the same path on every system.
+
+2. **Avoid Hard-Coding Paths:**
+   - Hard-coding the path to the `bash` interpreter (e.g., `/bin/bash`) may lead to issues if the script is run on a system where `bash` is located in a different directory. Using `env` allows the system to locate the correct interpreter based on the user's environment.
+
+3. **User Preferences:**
+   - Some users prefer to use a different shell or have a custom setup where `bash` is located in a non-standard directory. Using `env` respects the user's preferences and uses the first `bash` executable found in their `PATH`.
+
+4. **Avoid Version Issues:**
+   - Different systems may have different versions of `bash` installed in different locations. Using `env` allows the system to use the user's preferred version of `bash` without hard-coding a specific path.
+
+5. **Easier Updates:**
+   - If `bash` is updated or moved to a different location on the system, scripts using `#!/usr/bin/env bash` will automatically use the updated version without requiring modifications to the script.
+
+It's important to note that while using `env` has these advantages, it also comes with a slight performance cost, as it involves an additional process to locate the interpreter. However, for most scripts, this difference in performance is negligible compared to the benefits of increased portability and adaptability.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
