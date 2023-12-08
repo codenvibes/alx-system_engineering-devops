@@ -336,7 +336,7 @@ In the example above, we can see that `ssh` tries to authenticate using `school`
 ### 3. Let me in!
 `mandatory`
 
-File: [0x0B-ssh]()
+File: [0x0B-ssh](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/100-puppet_ssh_config.pp)
 </summary>
 
 Now that you have successfully connected to your server, we would also like to join the party.
