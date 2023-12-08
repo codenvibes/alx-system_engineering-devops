@@ -272,7 +272,7 @@ sylvain@ubuntu$
 ### 2. Client configuration file
 `mandatory`
 
-File: [2-ssh_config]()
+File: [2-ssh_config](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/2-ssh_config)
 </summary>
 
 Your machine has an SSH configuration file for the local SSH client, let’s configure it to our needs so that you can connect to a server without typing a password. Share your SSH client configuration in your answer file.
