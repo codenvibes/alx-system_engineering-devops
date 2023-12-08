@@ -226,7 +226,7 @@ sylvain@ubuntu$
 ### 1. Create an SSH key pair
 `mandatory`
 
-File: [1-create_ssh_key_pair]()
+File: [1-create_ssh_key_pair](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0B-ssh/1-create_ssh_key_pair)
 </summary>
 
 Write a Bash script that creates an RSA key pair.
