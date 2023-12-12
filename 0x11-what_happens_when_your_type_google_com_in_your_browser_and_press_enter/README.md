@@ -79,6 +79,9 @@ The diagram should show:
 [Gliffy](https://www.gliffy.com/) is free and what I personally use, but feel free to use what fits you best.
 
 Some unrelated examples:
+
+<br><div><img src="http://i.imgur.com/i9ivkdo.png"></div><br>
+
 </details>
 
 <details>
