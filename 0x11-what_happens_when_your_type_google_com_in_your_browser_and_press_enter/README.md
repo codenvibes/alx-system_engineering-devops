@@ -52,7 +52,7 @@ File: [1-what_happen_when_diagram]()
 <details>
 <summary>
 
-### 2. 
+### 2. Contribute!
 `#advanced`
 
 File: []()
