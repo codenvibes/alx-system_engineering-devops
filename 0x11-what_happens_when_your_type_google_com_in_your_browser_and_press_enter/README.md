@@ -40,7 +40,7 @@ File: [0-blog_post]()
 <details>
 <summary>
 
-### 1. 
+### 1. Everything's better with a pretty diagram
 `#advanced`
 
 File: []()
