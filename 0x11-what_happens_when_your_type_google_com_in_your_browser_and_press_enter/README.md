@@ -11,7 +11,7 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
 <br>
-<img href="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg">
+<img href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/images/background_context.jpg">
 
 
 <br>
