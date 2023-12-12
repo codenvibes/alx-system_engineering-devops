@@ -64,7 +64,7 @@ Please, remember that these blogs must be written in English to further your tec
 File: [1-what_happen_when_diagram]()
 </summary>
 
-Add a schema to your blog post illustrating the flow of the request created when you type `https://www.google.com` in your browser and press Enter.
+Add a schema to your blog post illustrating the flow of the request created when you type `https://www.google.com` in your browser and press `Enter`.
 
 The diagram should show:
 
