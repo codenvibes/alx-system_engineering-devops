@@ -31,7 +31,7 @@ Let’s practice by exploring the infrastructure side (network, servers, securit
 ### 0. What happens when...
 `mandatory`
 
-File: []()
+File: [0-blog_post]()
 </summary>
 
 
