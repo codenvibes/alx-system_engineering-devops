@@ -80,7 +80,7 @@ The diagram should show:
 
 Some unrelated examples:
 
-<br><div align="center>"<img src="http://i.imgur.com/i9ivkdo.png"></div><br>
+<br><div align="center"><img src="http://i.imgur.com/i9ivkdo.png"></div><br>
 
 </details>
 
