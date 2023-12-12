@@ -82,7 +82,7 @@ Some unrelated examples:
 
 <br><div align="center"><img src="http://i.imgur.com/i9ivkdo.png"></div><br>
 
-<br><div align="center"><img src="http://i.imgur.com/R8R3sqC.png"></div><br>
+<div align="center"><img src="http://i.imgur.com/R8R3sqC.png"></div><br>
 
 Share the URL of your diagram image in your answer file and il the field below.
 
