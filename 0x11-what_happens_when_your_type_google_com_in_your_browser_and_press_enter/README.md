@@ -38,7 +38,7 @@ This question is a classic and still widely used interview question for many typ
 
 This question is a good test of whether you understand DNS. Many software engineering candidates struggle with this concept, so if you do well on this question, you are already way ahead of the curve. If you take this project seriously and write an excellent article, it may be something that will grab the attention of future employers.
 
-Write a blog post explaining what happens when you type `https://www.google.com` in your browser and press Enter.
+Write a blog post explaining what happens when you type `https://www.google.com` in your browser and press `Enter`.
 
 Requirements, your post must cover:
 
