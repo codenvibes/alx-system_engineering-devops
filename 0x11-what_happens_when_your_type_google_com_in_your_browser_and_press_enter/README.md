@@ -82,6 +82,10 @@ Some unrelated examples:
 
 <br><div align="center"><img src="http://i.imgur.com/i9ivkdo.png"></div><br>
 
+Share the URL of your diagram image in your answer file and il the field below.
+
+Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
+
 </details>
 
 <details>
