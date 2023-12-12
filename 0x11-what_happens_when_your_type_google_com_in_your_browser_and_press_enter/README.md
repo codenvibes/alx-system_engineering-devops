@@ -76,7 +76,7 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-[Gliffy]() is free and what I personally use, but feel free to use what fits you best.
+[Gliffy](https://www.gliffy.com/) is free and what I personally use, but feel free to use what fits you best.
 
 Some unrelated examples:
 </details>
