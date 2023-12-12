@@ -28,7 +28,7 @@ Let’s practice by exploring the infrastructure side (network, servers, securit
 <details>
 <summary>
 
-### 0. 
+### 0. What happens when...
 `mandatory`
 
 File: []()
