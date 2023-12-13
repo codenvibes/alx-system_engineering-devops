@@ -55,11 +55,12 @@ sylvain@ubuntu$
 We can see for this example that the connection is successful: `Connected to web-02.holberton.online.`
 
 Now let’s try connecting to port 2222:
-
+```
 sylvain@ubuntu$ telnet web-02.holberton.online 2222
 Trying 54.89.38.100...
 ^C
 sylvain@ubuntu$
+```
 We can see that the connection never succeeds, so after some time I just use ctrl+c to kill the process.
 
 This can be used not just for this exercise, but for any debugging situation where two pieces of software need to communicate over sockets.
