@@ -18,7 +18,7 @@
 
 ## Background Context
 ### Your servers without a firewall…
-<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/holbertonschool-firewall.gif"></div>
+<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/holbertonschool-firewall.gif"></div>
 
 <br>
 
