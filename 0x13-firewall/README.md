@@ -11,14 +11,14 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/V1HjQ1Y.png"></div><br>
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/V1HjQ1Y.png"></div>
 
 
 <br>
 
 ## Background Context
 ### Your servers without a firewall…
-
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/holbertonschool-firewall.gif"></div>
 
 <br>
 
