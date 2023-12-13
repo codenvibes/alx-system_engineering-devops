@@ -61,7 +61,7 @@ Trying 54.89.38.100...
 ^C
 sylvain@ubuntu$
 ```
-We can see that the connection never succeeds, so after some time I just use ctrl+c to kill the process.
+We can see that the connection never succeeds, so after some time I just use `ctrl+c` to kill the process.
 
 This can be used not just for this exercise, but for any debugging situation where two pieces of software need to communicate over sockets.
 
