@@ -206,10 +206,10 @@ root@03-web-01:~# grep listen /etc/nginx/sites-enabled/default
 #   listen 443;
 root@03-web-01:~#
 ```
-- My web server nginx is only listening on port 80
-- netstat shows that nothing is listening on 8080
+- My web server `nginx` is only listening on port `80`
+- `netstat` shows that nothing is listening on `8080`
 
-Terminal in web-02:
+Terminal in `web-02`:
 
 ubuntu@03-web-02:~$ curl -sI web-01.holberton.online:80
 HTTP/1.1 200 OK
