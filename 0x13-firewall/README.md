@@ -179,7 +179,7 @@ Requirements:
 - Your answer file should be a copy of the `ufw` configuration file that you modified to make this happen
 
 Terminal in `web-01`:
-
+```
 root@03-web-01:~# netstat -lpn
 Active Internet connections (only servers)
 Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
@@ -205,8 +205,10 @@ root@03-web-01:~# grep listen /etc/nginx/sites-enabled/default
 #   listen somename:8080;
 #   listen 443;
 root@03-web-01:~#
-My web server nginx is only listening on port 80
-netstat shows that nothing is listening on 8080
+```
+- My web server nginx is only listening on port 80
+- netstat shows that nothing is listening on 8080
+
 Terminal in web-02:
 
 ubuntu@03-web-02:~$ curl -sI web-01.holberton.online:80
