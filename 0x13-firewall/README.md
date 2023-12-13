@@ -101,7 +101,16 @@ What is a firewall?
 <details>
 <summary><b>Question 2</b></summary><br>
 
+What is the main function of a firewall?
 
+
+To filter incoming and outgoing TCP traffic
+
+
+To filter outgoing traffic
+
+
+To filter incoming and outgoing network traffic
 <br>
 </details>
 
