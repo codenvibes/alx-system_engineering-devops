@@ -14,9 +14,11 @@
 <br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/V1HjQ1Y.png"></div><br>
 
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## Background Context
+### Your servers without a firewall…
+
 
 <br>
 
