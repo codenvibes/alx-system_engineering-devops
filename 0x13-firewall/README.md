@@ -144,7 +144,7 @@ What are the 2 types of firewall:
 <details>
 <summary>
 
-### 0. 
+### 0. Block all incoming traffic but
 `mandatory`
 
 File: []()
