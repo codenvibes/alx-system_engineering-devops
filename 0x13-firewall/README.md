@@ -24,7 +24,7 @@
 
 ## Resources
 <details>
-<summary><b><a href=" ">What is a firewall</a></b></summary><br>
+<summary><b><a href="https://en.wikipedia.org/wiki/Firewall_%28computing%29">What is a firewall</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
