@@ -82,22 +82,19 @@ Note that the school network is filtering outgoing connections (via a network-ba
 <summary><b>Question 0</b></summary><br>
 
 What is the main function of a firewall?
-
-
-To filter incoming and outgoing TCP traffic
-
-
-To filter outgoing traffic
-
-
-To filter incoming and outgoing network traffic
+- [ ] To filter incoming and outgoing TCP traffic
+- [ ] To filter outgoing traffic
+- [x] To filter incoming and outgoing network traffic
 <br>
 </details>
 
 <details>
 <summary><b>Question 1</b></summary><br>
 
-
+What is a firewall?
+- [x] A hardware or software security system
+- [ ] A software security system
+- [ ] A hardware security system
 <br>
 </details>
 
