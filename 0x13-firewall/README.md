@@ -11,7 +11,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/V1HjQ1Y.png"></div><br>
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x13-firewall/images/V1HjQ1Y.png"></div><br>
 
 
 <!-- <br>
