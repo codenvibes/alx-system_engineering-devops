@@ -210,7 +210,7 @@ root@03-web-01:~#
 - `netstat` shows that nothing is listening on `8080`
 
 Terminal in `web-02`:
-
+```
 ubuntu@03-web-02:~$ curl -sI web-01.holberton.online:80
 HTTP/1.1 200 OK
 Server: nginx/1.4.6 (Ubuntu)
@@ -234,6 +234,7 @@ ETag: "5315bd25-264"
 Accept-Ranges: bytes
 
 ubuntu@03-web-02:~$
-I use curl to query web-01.holberton.online, and since my firewall is forwarding the ports, I get a HTTP 200 response on port 80/TCP and also on port 8080/TCP.
+```
+I use curl to query `web-01.holberton.online`, and since my firewall is forwarding the ports, I get a `HTTP 200` response on port `80/TCP` and also on port `8080/TCP`.
 </details>
 
