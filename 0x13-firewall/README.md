@@ -112,15 +112,9 @@ What is the main function of a firewall?
 <summary><b>Question 3</b></summary><br>
 
 What is a firewall?
-
-
-A hardware or software security system
-
-
-A software security system
-
-
-A hardware security system
+- [x] A hardware or software security system
+- [ ] A software security system
+- [ ] A hardware security system
 <br>
 </details>
 
