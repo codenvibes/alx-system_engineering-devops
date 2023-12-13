@@ -121,7 +121,16 @@ What is a firewall?
 <details>
 <summary><b>Question 4</b></summary><br>
 
+What are the 2 types of firewall?
 
+
+Incoming and outgoing firewall
+
+
+Network and host-based firewall
+
+
+Soft and hard firewall
 <br>
 </details>
 
