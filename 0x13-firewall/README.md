@@ -52,7 +52,7 @@ Protocol mismatch.
 Connection closed by foreign host.
 sylvain@ubuntu$
 ```
-We can see for this example that the connection is successful: Connected to web-02.holberton.online.
+We can see for this example that the connection is successful: `Connected to web-02.holberton.online.`
 
 Now let’s try connecting to port 2222:
 
