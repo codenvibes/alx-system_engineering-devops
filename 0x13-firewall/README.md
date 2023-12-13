@@ -147,7 +147,7 @@ What are the 2 types of firewall:
 ### 0. Block all incoming traffic but
 `mandatory`
 
-File: []()
+File: [0-block_all_incoming_traffic_but]()
 </summary>
 
 
