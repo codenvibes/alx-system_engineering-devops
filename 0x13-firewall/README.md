@@ -104,14 +104,23 @@ What is a firewall?
 What is the main function of a firewall?
 - [ ] To filter incoming and outgoing TCP traffic
 - [ ] To filter outgoing traffic
-- [ ] To filter incoming and outgoing network traffic
+- [x] To filter incoming and outgoing network traffic
 <br>
 </details>
 
 <details>
 <summary><b>Question 3</b></summary><br>
 
+What is a firewall?
 
+
+A hardware or software security system
+
+
+A software security system
+
+
+A hardware security system
 <br>
 </details>
 
