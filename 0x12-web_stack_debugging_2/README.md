@@ -44,7 +44,7 @@
 File: [0-iamsomeoneelse]()
 </summary>
 
-
+<div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/images/eaeff07a715ff880b1ceb8e863a1d141a74a7f85.png"></div><br>
 </details>
 
 <details>
