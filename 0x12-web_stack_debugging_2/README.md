@@ -111,6 +111,16 @@ root@ab6f4542747e:~#
 File: [100-fix_in_7_lines_or_less]()
 </summary>
 
+Using what you did for task #1, make your fix short and sweet.
 
+Requirements:
+
+Your Bash script must be 7 lines long or less
+There must be a new line at the end of the file
+You respect Bash script requirements
+You cannot use ;
+You cannot use &&
+You cannot use wget
+You cannot execute your previous answer file (Do not include the name of the previous script in this one)
 </details>
 
