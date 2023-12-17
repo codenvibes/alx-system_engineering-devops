@@ -38,7 +38,7 @@
 <details>
 <summary>
 
-### 0. 
+### 0. Run software as another user
 `mandatory`
 
 File: []()
