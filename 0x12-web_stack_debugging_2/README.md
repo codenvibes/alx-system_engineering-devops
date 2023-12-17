@@ -50,10 +50,10 @@ File: [0-iamsomeoneelse]()
 <details>
 <summary>
 
-### 1. 
+### 1. Run Nginx as Nginx
 `mandatory`
 
-File: []()
+File: [1-run_nginx_as_nginx]()
 </summary>
 
 
