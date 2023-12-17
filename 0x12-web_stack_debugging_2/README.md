@@ -16,7 +16,7 @@
 
 ## Background Context -->
 
-<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/images/99littlebugsinthecode-holberton.jpg"></div>
+<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/images/99littlebugsinthecode-holberton.jpg"></div>
 
 <br>
 
