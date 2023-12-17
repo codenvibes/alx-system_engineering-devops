@@ -62,10 +62,10 @@ File: [1-run_nginx_as_nginx]()
 <details>
 <summary>
 
-### 2. 
+### 2. 7 lines or less
 `#advanced`
 
-File: []()
+File: [100-fix_in_7_lines_or_less]()
 </summary>
 
 
