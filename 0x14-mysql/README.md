@@ -131,8 +131,6 @@
 
 ### 0. Install MySQL
 `mandatory`
-
-File: []()
 </summary>
 
 
