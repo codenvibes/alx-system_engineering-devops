@@ -347,6 +347,9 @@ mysql>
 File: [5-mysql_backup]()
 </summary>
 
+<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x14-mysql/images/Bbpsgif.jpg"></div><br>
+
+
 
 </details>
 
