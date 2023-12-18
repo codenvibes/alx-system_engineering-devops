@@ -37,7 +37,7 @@
 
 ## Resources
 <details>
-<summary><b><a href=" ">What is a primary-replica cluster</a></b></summary><br>
+<summary><b><a href="https://www.digitalocean.com/community/tutorials/how-to-choose-a-redundancy-plan-to-ensure-high-availability#sql-replication">What is a primary-replica cluster</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -45,7 +45,7 @@
 
 
 <details>
-<summary><b><a href=" ">MySQL primary replica setup</a></b></summary><br>
+<summary><b><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql">MySQL primary replica setup</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
