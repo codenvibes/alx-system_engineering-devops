@@ -270,6 +270,7 @@ mysql> show master status;
 
 mysql> 
 web-02
+```
 root@web-02:/home/ubuntu# mysql -uholberton_user -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
@@ -330,7 +331,7 @@ Master_SSL_Verify_Server_Cert: No
 
 mysql> 
 
-
+```
 </details>
 
 <details>
