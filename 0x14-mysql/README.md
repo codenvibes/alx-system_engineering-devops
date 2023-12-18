@@ -236,7 +236,7 @@ Redundancy: If you lose one of the database servers, you will still have another
 Load distribution: You can split the read operations between the 2 servers, reducing the load on the primary member and improving query response speed
 
 ### Requirements:
-MySQL primary must be hosted on `web-01` - do not use the bind-address, just comment out this parameter
+MySQL primary must be hosted on `web-01` - do not use the `bind-address`, just comment out this parameter
 MySQL replica must be hosted on web-02
 Setup replication for the MySQL database named tyrell_corp
 Provide your MySQL primary configuration as answer file(my.cnf or mysqld.cnf) with the name 4-mysql_configuration_primary
