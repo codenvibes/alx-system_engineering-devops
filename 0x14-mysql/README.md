@@ -270,7 +270,6 @@ mysql> show master status;
 1 row in set (0.00 sec)
 
 mysql> 
-
 ```
 ### `web-02`
 ```
