@@ -141,8 +141,6 @@
 
 ### 1. Let us in!
 `mandatory`
-
-File: []()
 </summary>
 
 
@@ -153,8 +151,6 @@ File: []()
 
 ### 2. If only you could see what I've seen with your eyes
 `mandatory`
-
-File: []()
 </summary>
 
 
@@ -165,8 +161,6 @@ File: []()
 
 ### 3. Quite an experience to live in fear, isn't it?
 `mandatory`
-
-File: []()
 </summary>
 
 
@@ -175,7 +169,7 @@ File: []()
 <details>
 <summary>
 
-### 4. 
+### 4. Setup a Primary-Replica infrastructure using MySQL
 `mandatory`
 
 File: []()
