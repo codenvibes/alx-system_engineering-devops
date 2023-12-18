@@ -228,6 +228,7 @@ ubuntu@229-web-01:~$
 File: [4-mysql_configuration_primary](), [4-mysql_configuration_replica]()
 </summary>
 
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x14-mysql/images/09e83e914f0d6865ce320a47f2f14837a5b190b6.gif"></div>
 
 </details>
 
