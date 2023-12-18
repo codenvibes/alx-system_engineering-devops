@@ -245,7 +245,8 @@ Once MySQL replication is setup, add a new record in your table via MySQL on web
 Make sure that UFW is allowing connections on port 3306 (default MySQL port) otherwise replication will not work.
 Example:
 
-web-01
+### `web-01`
+```
 ubuntu@web-01:~$ mysql -uholberton_user -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
@@ -269,7 +270,9 @@ mysql> show master status;
 1 row in set (0.00 sec)
 
 mysql> 
-web-02
+
+```
+### `web-02`
 ```
 root@web-02:/home/ubuntu# mysql -uholberton_user -p
 Enter password: 
