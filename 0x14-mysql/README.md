@@ -61,10 +61,10 @@
 
 
 
-<!-- <br>
+<br>
 
 **man or help:**
-- `` -->
+- `mysqldump`
 
 <br>
 
