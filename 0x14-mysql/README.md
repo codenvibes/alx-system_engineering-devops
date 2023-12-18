@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/68">Web stack debugging</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -21,12 +21,13 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts">[How to] Install mysql 5.7</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br><div align="center"><img src=""></div>
 
 <!-- <br>
 
