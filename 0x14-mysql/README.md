@@ -244,7 +244,7 @@ Provide your MySQL replica configuration as an answer file with the name 4-mysql
 
 ### Tips:
 - Once MySQL replication is setup, add a new record in your table via MySQL on `web-01` and check if the record has been replicated in MySQL `web-02`. If you see it, it means your replication is working!
-- Make sure that UFW is allowing connections on port 3306 (default MySQL port) otherwise replication will not work.
+- **Make sure that UFW is allowing connections on port 3306 (default MySQL port) otherwise replication will not work.**
 
 Example:
 
