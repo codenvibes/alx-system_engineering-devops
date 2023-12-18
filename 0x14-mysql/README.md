@@ -70,7 +70,7 @@
 
 ## Learning Objectives
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the main role of a database</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -78,7 +78,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is a database replica</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -86,7 +86,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the purpose of a database replica</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -94,7 +94,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Why database backups need to be stored in different physical locations</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -102,7 +102,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What operation should you regularly perform to make sure that your database backup strategy actually works</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
