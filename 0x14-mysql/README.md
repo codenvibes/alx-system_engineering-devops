@@ -139,7 +139,7 @@
 <details>
 <summary>
 
-### 1. 
+### 1. Let us in!
 `mandatory`
 
 File: []()
