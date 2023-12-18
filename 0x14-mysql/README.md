@@ -1,5 +1,5 @@
 <h1 align="center"><b>0x14. MYSQL</b></h1>
-<div align="center"><code>DevOps</code> <code>SysAdmin</code> <code></code></div>
+<div align="center"><code>DevOps</code> <code>SysAdmin</code> <code>MySQL</code></div>
 
 <br>
 
