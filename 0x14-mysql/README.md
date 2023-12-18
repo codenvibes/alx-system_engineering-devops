@@ -37,7 +37,7 @@
 
 ## Resources
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">What is a primary-replica cluster</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
