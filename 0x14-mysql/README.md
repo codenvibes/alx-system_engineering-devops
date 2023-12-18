@@ -53,7 +53,7 @@
 
 
 <details>
-<summary><b><a href=" ">Build a robust database backup strategy</a></b></summary><br>
+<summary><b><a href="https://www.databasejournal.com/ms-sql/developing-a-sql-server-backup-strategy/">Build a robust database backup strategy</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
