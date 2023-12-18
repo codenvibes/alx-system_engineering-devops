@@ -231,9 +231,8 @@ File: [4-mysql_configuration_primary](), [4-mysql_configuration_replica]()
 <br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x14-mysql/images/09e83e914f0d6865ce320a47f2f14837a5b190b6.gif"></div><br>
 
 Having a replica member on for your MySQL database has 2 advantages:
-
-Redundancy: If you lose one of the database servers, you will still have another working one and a copy of your data
-Load distribution: You can split the read operations between the 2 servers, reducing the load on the primary member and improving query response speed
+- Redundancy: If you lose one of the database servers, you will still have another working one and a copy of your data
+- Load distribution: You can split the read operations between the 2 servers, reducing the load on the primary member and improving query response speed
 
 ### Requirements:
 - MySQL primary must be hosted on `web-01` - do not use the `bind-address`, just comment out this parameter
