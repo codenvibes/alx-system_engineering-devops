@@ -129,7 +129,7 @@
 <details>
 <summary>
 
-### 0. 
+### 0. Install MySQL
 `mandatory`
 
 File: []()
