@@ -172,7 +172,7 @@
 ### 4. Setup a Primary-Replica infrastructure using MySQL
 `mandatory`
 
-File: []()
+File: [4-mysql_configuration_primary](), [4-mysql_configuration_replica]()
 </summary>
 
 
@@ -181,10 +181,10 @@ File: []()
 <details>
 <summary>
 
-### 5. 
+### 5. MySQL backup
 `mandatory`
 
-File: []()
+File: [5-mysql_backup]()
 </summary>
 
 
