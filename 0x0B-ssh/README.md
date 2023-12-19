@@ -114,6 +114,8 @@ You can access your server information in the [my servers](https://intranet.alxs
 - `ssh-keygen`
 - `ssh-keygen`
 
+<br>
+
 ## Learning Objectives
 <details>
 <summary><b><a href=" "> </a>What is a server</b></summary><br>
