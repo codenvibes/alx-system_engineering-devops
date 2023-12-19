@@ -179,7 +179,7 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 - Your code should use the pycodestyle (version `2.8.*`)
 - All your files must be executable
 - The length of your files will be tested using `wc`
-- All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
+- All your modules should have a documentation (`python3 -c 'print(__import__("my_module").__doc__)'`)
 - You must use get to access to dictionary value by key (it won’t throw an exception if the key doesn’t exist in the dictionary)
 - Your code should not be executed when imported (by using if __name__ == "__main__":)
 
