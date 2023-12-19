@@ -191,7 +191,7 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 <details>
 <summary>
 
-### 0. 
+### 0. Gather data from an API
 `mandatory`
 
 File: []()
