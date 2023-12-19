@@ -152,7 +152,7 @@ The choice of where to host servers depends on factors like cost, performance, s
 <details>
 <summary><b><a href=" "> </a>What is SSH</b></summary><br>
 
-SSH stands for Secure Shell. It's a cryptographic network protocol that allows secure communication between two computers over an insecure network. SSH is widely used for secure remote access to systems and for executing commands on a remote machine. Here are some key aspects of SSH:
+SSH stands for Secure Shell. It's a cryptographic network protocol that allows secure communication between two computers over an insecure network, like the internet. SSH is widely used for secure remote access to systems and for executing commands on a remote machine. Here are some key aspects of SSH:
 
 1. **Secure Communication:** SSH provides a secure channel over an unsecured network by encrypting the communication between the client and server. This encryption helps protect the confidentiality and integrity of the data being transmitted.
 
