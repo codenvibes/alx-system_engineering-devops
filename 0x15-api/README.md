@@ -259,7 +259,7 @@ Records all tasks that are owned by this employee
 Format must be: "USER_ID","USERNAME","TASK_COMPLETED_STATUS","TASK_TITLE"
 File name must be: USER_ID.csv
 Example:
-
+```
 sylvain@ubuntu$ python3 1-export_to_CSV.py 2
 sylvain@ubuntu$ cat 2.csv
 "2","Antonette","False","suscipit repellat esse quibusdam voluptatem incidunt"
@@ -283,7 +283,7 @@ sylvain@ubuntu$ cat 2.csv
 "2","Antonette","False","doloremque quibusdam asperiores libero corrupti illum qui omnis"
 "2","Antonette","True","totam atque quo nesciunt"
 sylvain@ubuntu$
-
+```
 </details>
 
 <details>
