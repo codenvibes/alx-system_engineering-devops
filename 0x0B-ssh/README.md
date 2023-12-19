@@ -198,6 +198,31 @@ Your SSH RSA key pair is now generated and ready to use. You can use the public 
 <details>
 <summary><b><a href=" "> </a>How to connect to a remote host using an SSH RSA key pair</b></summary><br>
 
+To connect to a remote host using an SSH RSA key pair, you can use the `ssh` command-line tool. Here's how you can do it:
+
+1. **Locate Your Private Key:** First, make sure you know the location of your private key file (usually `id_rsa` or something similar) on your local machine.
+
+2. **Open a Terminal or Command Prompt:** Open a terminal window or a command prompt on your local machine.
+
+3. **Run the `ssh` Command:** Use the following command syntax to connect to the remote host using your SSH key pair:
+
+   ```sh
+   ssh -i /path/to/private_key username@remote_host
+   ```
+
+   Replace `/path/to/private_key` with the actual path to your private key file, `username` with your username on the remote host, and `remote_host` with the ***hostname or IP address*** of the remote server.
+
+   For example, if your private key is located in `~/.ssh/id_rsa` and your username on the remote host is `user`, and the host is `example.com`, you would use:
+
+   ```sh
+   ssh -i ~/.ssh/id_rsa user@example.com
+   ```
+
+4. **Enter Passphrase (if applicable):** If you set a passphrase for your private key when you created it, you will be prompted to enter the passphrase. If you did not set a passphrase, you will be connected directly.
+
+5. **Successful Connection:** If the connection is successful, you will be logged into the remote host via SSH, and you can start using the remote shell as if you were physically at the remote machine.
+
+By using the `-i` option with `ssh`, you specify the path to your private key file. This tells SSH to use that private key for authentication when connecting to the remote host. The corresponding public key should be added to the `~/.ssh/authorized_keys` file on the remote server for the authentication to succeed.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
