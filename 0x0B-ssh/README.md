@@ -181,6 +181,7 @@ It's important to note that while using `env` has these advantages, it also come
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br>
 
 ## Requirements
 - Allowed editors: `vi`, `vim`, `emacs`
