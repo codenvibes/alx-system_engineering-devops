@@ -128,7 +128,7 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Pythonic Class name style</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
