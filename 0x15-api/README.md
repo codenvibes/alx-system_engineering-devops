@@ -203,7 +203,7 @@ File: [0-gather_data_from_an_API.py]()
 <details>
 <summary>
 
-### 1. 
+### 1. Export to CSV
 `mandatory`
 
 File: []()
