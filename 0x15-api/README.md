@@ -15,7 +15,7 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 
 ## Resources
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Friends don’t let friends program in shell script</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
