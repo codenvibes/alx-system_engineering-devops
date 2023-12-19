@@ -200,7 +200,7 @@ File: [0-gather_data_from_an_API.py]()
 Write a Python script that, using this [REST API](https://jsonplaceholder.typicode.com/), for a given employee ID, returns information about his/her TODO list progress.
 
 Requirements:
-- You must use `urllib` or requests module
+- You must use `urllib` or `requests` module
 - The script must accept an integer as a parameter, which is the employee ID
 - The script must display on the standard output the employee TODO list progress in this exact format:
     - First line: Employee EMPLOYEE_NAME is done with tasks(NUMBER_OF_DONE_TASKS/TOTAL_NUMBER_OF_TASKS):
