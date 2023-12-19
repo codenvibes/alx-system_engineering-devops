@@ -171,6 +171,25 @@ SSH stands for Secure Shell. It's a cryptographic network protocol that allows s
 <details>
 <summary><b><a href=" "> </a>How to create an SSH RSA key pair</b></summary><br>
 
+You can create an SSH RSA key pair using the `ssh-keygen` command, which is a standard tool for generating SSH keys. Here's how you can do it:
+
+1. **Open a Terminal or Command Prompt:** On your local machine, open a terminal window or a command prompt. This process is typically the same whether you're using macOS, Linux, or Windows (with the Windows Subsystem for Linux or a third-party SSH client like PuTTY).
+
+2. **Run the `ssh-keygen` Command:** Type the following command and press Enter:
+
+   ```
+   ssh-keygen -t rsa
+   ```
+
+   This command tells `ssh-keygen` to create a new RSA key pair. You can also specify a different key type with the `-t` option (e.g., `ed25519` for Ed25519 keys).
+
+3. **Specify the File Location:** `ssh-keygen` will prompt you to specify a file location to save the keys. You can press Enter to accept the default location, which is typically `~/.ssh/id_rsa` for the private key and `~/.ssh/id_rsa.pub` for the public key on Unix-based systems. On Windows, the default location might be different.
+
+4. **Set a Passphrase (Optional):** You can choose to set a passphrase for your private key. This passphrase adds an extra layer of security, as it will be required every time you use the key. If you choose to set a passphrase, you'll be prompted to enter it twice.
+
+5. **Verify the Key Generation:** Once you've completed the steps, `ssh-keygen` will generate your RSA key pair. It will display the location of the keys and some random art for the public key. You can find your private key in the location you specified and the public key in the same location with a `.pub` extension.
+
+Your SSH RSA key pair is now generated and ready to use. You can use the public key (`id_rsa.pub`) to authenticate with SSH servers that you want to access, and the private key (`id_rsa`) will be used for authentication from your local machine. Remember to keep your private key secure and never share it with anyone else.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
