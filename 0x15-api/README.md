@@ -215,7 +215,7 @@ File: [1-export_to_CSV.py]()
 <details>
 <summary>
 
-### 2. 
+### 2. Export to JSON
 `mandatory`
 
 File: []()
