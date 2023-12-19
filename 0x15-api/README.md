@@ -227,10 +227,10 @@ File: [2-export_to_JSON.py]()
 <details>
 <summary>
 
-### 3. 
+### 3. Dictionary of list of dictionaries
 `mandatory`
 
-File: []()
+File: [3-dictionary_of_list_of_dictionaries.py]()
 </summary>
 
 
