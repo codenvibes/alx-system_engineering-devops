@@ -10,6 +10,8 @@ You can access your server information in the [my servers](https://intranet.alxs
 
 **Note**: Your server is configured with an Ubuntu 20.04 LTS environment.
 
+<br>
+
 ## Resources
 <details>
 <summary><b><a href="https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement">What is a (physical) server - text</a></b></summary><br>
@@ -194,8 +196,7 @@ It's important to note that while using `env` has these advantages, it also come
 - The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
 - The second line of all your Bash scripts should be a comment explaining what is the script doing
 
-## Your servers
-
+<br>
 
 ## Tasks
 <details>
