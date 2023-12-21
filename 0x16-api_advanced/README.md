@@ -143,7 +143,7 @@ wintermancer@lapbox ~/reddit_api/project $ python3 0-main.py this_is_a_fake_subr
 File: [1-top_ten.py]()
 </summary>
 
-Write a function that queries the Reddit API and prints the titles of the first 10 hot posts listed for a given subreddit.
+Write a function that queries the [Reddit API](https://www.reddit.com/dev/api/) and prints the titles of the first 10 hot posts listed for a given subreddit.
 
 Requirements:
 - Prototype: def top_ten(subreddit)
