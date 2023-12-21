@@ -77,7 +77,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 ## Learning Objectives
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Why is monitoring needed</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
