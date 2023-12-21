@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" ">Web stack debugging</a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/68">Web stack debugging</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
