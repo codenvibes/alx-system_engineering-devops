@@ -123,7 +123,7 @@ File: [1-top_ten.py]()
 <details>
 <summary>
 
-### 2. 
+### 2. Recurse it!
 `mandatory`
 
 File: []()
