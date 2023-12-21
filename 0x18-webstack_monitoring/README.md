@@ -128,7 +128,7 @@ Web stack monitoring can be broken down into 2 categories:
 <details>
 <summary>
 
-### 0. 
+### 0. Sign up for Datadog and install datadog-agent
 `mandatory`
 
 File: []()
