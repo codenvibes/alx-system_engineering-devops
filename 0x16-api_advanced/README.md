@@ -194,7 +194,7 @@ Write a recursive function that queries the Reddit API and returns a list contai
 Hint: The Reddit API uses pagination for separating pages of responses.
 
 Requirements:
-- Prototype: def recurse(subreddit, hot_list=[])
+- Prototype: `def recurse(subreddit, hot_list=[])`
 - Note: You may change the prototype, but it must be able to be called with just a subreddit supplied. AKA you can add a counter, but it must work without supplying a starting value in the main.
 - If not a valid subreddit, return None.
 - NOTE: Invalid subreddits may return a redirect to search results. Ensure that you are not following redirects.
