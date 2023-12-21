@@ -138,7 +138,7 @@ For this task head to https://www.datadoghq.com/ and sign up for a free `Datadog
 
 <div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x18-webstack_monitoring/images/6b0ea6345a6375437845.png"></div><br>
 
-- Sign up for Datadog - Please make sure you are using the US website of Datagog (https://app.datadoghq.com)
+- Sign up for Datadog - **Please make sure you are using the US website of Datagog (https://app.datadoghq.com)**
 - Use the US1 region
 - Install datadog-agent on web-01
 - Create an application key
