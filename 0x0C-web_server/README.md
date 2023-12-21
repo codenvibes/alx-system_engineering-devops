@@ -7,7 +7,7 @@
 
 <br>
 
-> <h3>Notes</h3> <details><summary><b><a href=""></a>virtualization</b></summary>virtualization is creating multiple server instances on one physical system</details>
+> <h3>Notes</h3> <details><summary><b><a href=""></a>virtualization</b></summary>virtualization is creating multiple server instances on one physical system<br></details> <details><summary><b><a href=""></a>virtualization</b></summary>virtualization is creating multiple server instances on one physical system<br></details>
 
 <br>
 
