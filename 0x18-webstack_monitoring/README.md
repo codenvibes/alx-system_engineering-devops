@@ -60,7 +60,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Nginx logging and monitoring</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
