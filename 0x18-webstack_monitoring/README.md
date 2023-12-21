@@ -52,7 +52,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 
 <details>
-<summary><b><a href=" ">System monitoring by Google</a></b></summary><br>
+<summary><b><a href="https://sre.google/sre-book/monitoring-distributed-systems/">System monitoring by Google</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
