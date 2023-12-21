@@ -249,7 +249,7 @@ NOTE: Invalid subreddits may return a redirect to search results. Ensure that yo
 Your code will NOT pass if you are using a loop and not recursively calling the function! This /can/ be done with a loop but the point is to use a recursive function. :)
 
 Disclaimer: number presented in this example cannot be accurate now - Reddit is hot articles are always changing.
-
+```
 bob@dylan $ cat 100-main.py 
 #!/usr/bin/python3
 """
@@ -276,6 +276,6 @@ java: 54
 bob@dylan $ python3 100-main.py not_a_valid_subreddit 'python java javascript scala no_results_for_this_one'
 bob@dylan $ python3 100-main.py not_a_valid_subreddit 'python java'
 bob@dylan $ 
-
+```
 </details>
 
