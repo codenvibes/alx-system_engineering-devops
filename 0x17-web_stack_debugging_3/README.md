@@ -60,7 +60,7 @@ $ gem install puppet-lint -v 2.1.1
 <details>
 <summary>
 
-### 0. 
+### 0. Strace is your friend
 `mandatory`
 
 File: []()
