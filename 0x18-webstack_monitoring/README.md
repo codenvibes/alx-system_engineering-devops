@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" ">Server</a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/67">Server</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
