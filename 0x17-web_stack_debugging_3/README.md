@@ -77,7 +77,7 @@ Requirements:
 Your 0-strace_is_your_friend.pp file must contain Puppet code
 You can use whatever Puppet resource type you want for you fix
 Example:
-
+```
 root@e514b399d69d:~# curl -sI 127.0.0.1
 HTTP/1.0 500 Internal Server Error
 Date: Fri, 24 Mar 2017 07:32:16 GMT
@@ -107,6 +107,6 @@ root@e514b399d69d:~# curl -s 127.0.0.1:80 | grep Holberton
                             <h1 class="site-title"><a href="http://127.0.0.1/" rel="home">Holberton</a></h1>
         <p>Yet another bug by a Holberton student</p>
 root@e514b399d69d:~#
-
+```
 </details>
 
