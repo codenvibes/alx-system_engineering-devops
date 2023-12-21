@@ -110,10 +110,9 @@ Write a function that queries the Reddit API and returns the number of subscribe
 Hint: No authentication is necessary for most features of the Reddit API. If you’re getting errors related to Too Many Requests, ensure you’re setting a custom User-Agent.
 
 Requirements:
-
-Prototype: def number_of_subscribers(subreddit)
-If not a valid subreddit, return 0.
-NOTE: Invalid subreddits may return a redirect to search results. Ensure that you are not following redirects.
+- Prototype: def number_of_subscribers(subreddit)
+- If not a valid subreddit, return 0.
+- NOTE: Invalid subreddits may return a redirect to search results. Ensure that you are not following redirects.
 ```
 wintermancer@lapbox ~/reddit_api/project $ cat 0-main.py
 #!/usr/bin/python3
