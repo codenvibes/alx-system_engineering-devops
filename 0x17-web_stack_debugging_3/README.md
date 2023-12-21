@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Web stack debugging</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
