@@ -73,7 +73,7 @@ Hint:
 - You can use [tmux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) to run [strace](https://strace.io/) in one window and `curl` in another one
 
 Requirements:
-- Your 0-strace_is_your_friend.pp file must contain Puppet code
+- Your `0-strace_is_your_friend.pp` file must contain Puppet code
 - You can use whatever Puppet resource type you want for you fix
 
 Example:
