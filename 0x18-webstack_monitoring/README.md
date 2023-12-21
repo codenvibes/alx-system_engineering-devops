@@ -85,7 +85,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What are the 2 main area of monitoring</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
