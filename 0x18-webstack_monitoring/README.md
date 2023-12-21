@@ -101,7 +101,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What are error logs for a web server (such as Nginx)</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
