@@ -152,7 +152,7 @@ File: [0x18-webstack_monitoring]()
 <details>
 <summary>
 
-### 2. 
+### 2. Create a dashboard
 `mandatory`
 
 File: []()
