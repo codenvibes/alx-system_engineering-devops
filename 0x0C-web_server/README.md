@@ -7,7 +7,7 @@
 
 <br>
 
-> <h2>Notes</h2> <details><summary><b><a href=""></a>virtualization</b></summary>virtualization is creating multiple server instances on one physical system<br></details> <details><summary><b><a href=""></a>virtualization</b></summary>virtualization is creating multiple server instances on one physical system<br></details>
+> <h2>Notes</h2> <details><summary><b><a href=""></a>What is virtualization?</b></summary>virtualization is creating multiple server instances on one physical system<br></details> <details><summary><b><a href=""></a>What is a proxy?</b></summary>A proxy, short for "proxy server," is an intermediate server that acts as a gateway between a user's device (such as a computer or smartphone) and the internet. When you connect to the internet through a proxy, your requests for information or services are processed by the proxy server, which then forwards those requests to the destination server. The destination server sends the response back to the proxy, which, in turn, sends it back to your device.<br></details>
 
 <br>
 
