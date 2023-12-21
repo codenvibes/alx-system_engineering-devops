@@ -37,7 +37,7 @@ A great API to use for some practice is the Reddit API. There’s a lot of endpo
 
 ## Learning Objectives
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>How to read API documentation to find the endpoints you’re looking for</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
