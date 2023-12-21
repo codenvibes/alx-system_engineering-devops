@@ -36,7 +36,7 @@ Web stack monitoring can be broken down into 2 categories:
 
 ## Resources
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">What is server monitoring</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
