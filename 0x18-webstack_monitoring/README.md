@@ -140,7 +140,7 @@ File: [0x18-webstack_monitoring]()
 <details>
 <summary>
 
-### 1. 
+### 1. Monitor some metrics
 `mandatory`
 
 File: []()
