@@ -138,7 +138,7 @@ File: [2-recurse.py]()
 ### 3. Count it!
 `#advanced`
 
-File: []()
+File: [100-count.py]()
 </summary>
 
 
