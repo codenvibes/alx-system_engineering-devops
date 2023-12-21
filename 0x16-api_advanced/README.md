@@ -1,9 +1,9 @@
 <h1 align="center"><b>0x16. API ADVANCED</b></h1>
 <div align="center"><code>Python</code> <code>Scripting</code> <code>Back-end</code> <code>API</code></div>
 
-<!-- <br>
+<br><div><img src=""></div><br>
 
-## Background Context -->
+## Background Context
 
 <br>
 
