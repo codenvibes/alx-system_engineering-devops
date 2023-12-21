@@ -19,6 +19,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br><div align="center"><img src=""></div>
 
 <!-- <br>
 
