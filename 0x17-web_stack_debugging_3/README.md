@@ -1,0 +1,48 @@
+<h1 align="center"><b>0x17. WEB STACK DEBUGGING #3</b></h1>
+<div align="center"><code></code> <code></code> <code></code> <code></code></div>
+
+<br>
+
+## Concepts
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<!-- <br>
+
+## Background Context -->
+
+<br>
+
+## Requirements
+<!-- Add your requirements here -->
+
+<!-- ## More Info -->
+
+<br>
+
+## Tasks
+<details>
+<summary>
+
+### 0. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
