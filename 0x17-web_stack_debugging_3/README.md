@@ -20,9 +20,10 @@
 </details>
 
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## Background Context
+<div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x17-web_stack_debugging_3/images/d42WuBh.png"></div><br>
 
 <br>
 
