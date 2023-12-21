@@ -53,7 +53,7 @@ A great API to use for some practice is the Reddit API. There’s a lot of endpo
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>How to parse JSON results from an API</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
