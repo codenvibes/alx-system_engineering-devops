@@ -45,7 +45,10 @@ The web stack you are debugging today is a Wordpress website running on a LAMP s
 - Your Puppet manifests files must end with the extension `.pp`
 - Files will be checked with Puppet v3.4
 
-<!-- ## More Info -->
+<br>
+
+## More Info
+
 
 <br>
 
