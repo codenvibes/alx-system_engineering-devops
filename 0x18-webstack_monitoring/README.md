@@ -162,8 +162,8 @@ Among the litany of data your monitoring service can report to you are system me
 
 <div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x18-webstack_monitoring/images/6a4551974aadc181e97a.png"></div><br>
 
-Set up a monitor that checks the number of read requests issued to the device per second.
-Set up a monitor that checks the number of write requests issued to the device per second.
+- Set up a monitor that checks the number of read requests issued to the device per second.
+- Set up a monitor that checks the number of write requests issued to the device per second.
 
 </details>
 
