@@ -99,7 +99,7 @@ A great API to use for some practice is the Reddit API. There’s a lot of endpo
 <details>
 <summary>
 
-### 0. 
+### 0. How many subs?
 `mandatory`
 
 File: []()
