@@ -164,17 +164,21 @@ The main role of a web server is to store, process, and deliver web pages to cli
 <details>
 <summary><b><a href=" "> </a>What is a child process</b></summary><br>
 
-In the context of a web server, a child process typically refers to a subprocess that is created by the main web server process to handle incoming requests. When a web server receives a request for a web page or a resource (such as an image or a script), it may spawn one or more child processes to handle the request concurrently.
+In the context of a web server, the parent process is typically the main server process responsible for managing the overall operation of the server, including accepting incoming connections, spawning child processes to handle requests, and managing resources. The child processes, on the other hand, are the subprocesses created by the parent process to handle specific tasks, such as serving web pages or processing requests.
 
-The main benefits of using child processes in a web server context include:
+Here are examples of parent and child processes in different web server environments:
 
-1. **Concurrency:** Child processes allow the web server to handle multiple requests simultaneously, which is essential for serving a large number of clients efficiently.
+1. **Apache HTTP Server:**
+   - Parent Process: In Apache, the parent process is often referred to as the "httpd" process. This process is responsible for starting the server, listening for incoming connections, and managing the configuration of the server.
+   - Child Processes: Apache can create multiple child processes, each of which handles incoming client requests. These child processes are responsible for serving web pages, running scripts, and handling other tasks required to fulfill client requests.
 
-2. **Scalability:** By spawning multiple child processes, a web server can scale to handle increased traffic without overwhelming the system resources or sacrificing performance.
+2. **Nginx:**
+   - Parent Process: In Nginx, the parent process is the main Nginx server process that is responsible for coordinating the operation of the server.
+   - Worker Processes: Nginx uses worker processes to handle incoming connections and requests. These worker processes are spawned by the main Nginx process and are responsible for serving content to clients.
 
-3. **Fault Isolation:** If a child process encounters an error or crashes while handling a request, it typically does not affect the stability of the main web server process or other child processes. This fault isolation helps ensure that the server remains operational even if individual requests encounter issues.
-
-4. **Resource Management:** Child processes can be managed and monitored independently, allowing for better control over resource allocation and utilization.
+3. **Node.js with Express:**
+   - Parent Process: When running a Node.js server using the Express framework, the parent process is the Node.js process itself, which runs the server script.
+   - Worker Processes (Clusters): In Node.js, you can use the built-in cluster module to create child processes (worker processes) that can handle incoming requests. Each worker process runs an instance of the server, allowing for better utilization of multi-core systems and improved concurrency.
 
 Different web servers may implement child processes in various ways. For example, in the context of the Apache HTTP Server, child processes are often referred to as "worker processes" or "child threads," depending on the specific configuration and mode of operation. Similarly, in Nginx, child processes are used to handle incoming connections and requests.
 
