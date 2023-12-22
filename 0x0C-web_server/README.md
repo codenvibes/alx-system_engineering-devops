@@ -189,6 +189,19 @@ Different web servers may implement child processes in various ways. For example
 <details>
 <summary><b><a href=" "> </a>Why web servers usually have a parent process and child processes</b></summary><br>
 
+Web servers often use a parent-child process model for several reasons:
+
+1. **Concurrency:** By having multiple child processes, a web server can handle multiple requests concurrently, allowing it to serve more clients simultaneously and improve overall responsiveness.
+
+2. **Resource Management:** Child processes allow for better resource management. For example, each child process can handle a specific number of requests or connections, preventing any single process from becoming overwhelmed and ensuring that resources are distributed efficiently.
+
+3. **Fault Isolation:** If a child process encounters an error or crashes, it typically does not affect the entire server. The parent process can continue to operate and spawn new child processes to handle incoming requests, minimizing the impact of individual failures.
+
+4. **Scalability:** The parent-child model makes it easier to scale the web server by adding or removing child processes based on the current load. This scalability is crucial for handling varying levels of traffic and ensuring consistent performance.
+
+5. **Security:** Child processes can be isolated from each other, providing a degree of security. If one child process is compromised, it is more difficult for an attacker to gain access to the entire server or other processes.
+
+Overall, the parent-child process model is a commonly used approach in web servers because it provides a good balance of concurrency, scalability, fault tolerance, and security, making it well-suited for handling the demands of serving web content to a large number of clients.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
