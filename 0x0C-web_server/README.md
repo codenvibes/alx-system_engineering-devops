@@ -9,7 +9,7 @@
 
 
 <hr>
-<h2><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/README.md">Notes</a></h2>
+<h3><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/README.md">Notes</a></h3>
 <hr>
 
 
