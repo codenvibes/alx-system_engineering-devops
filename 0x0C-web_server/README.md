@@ -164,6 +164,19 @@ The main role of a web server is to store, process, and deliver web pages to cli
 <details>
 <summary><b><a href=" "> </a>What is a child process</b></summary><br>
 
+In the context of a web server, a child process typically refers to a subprocess that is created by the main web server process to handle incoming requests. When a web server receives a request for a web page or a resource (such as an image or a script), it may spawn one or more child processes to handle the request concurrently.
+
+The main benefits of using child processes in a web server context include:
+
+1. **Concurrency:** Child processes allow the web server to handle multiple requests simultaneously, which is essential for serving a large number of clients efficiently.
+
+2. **Scalability:** By spawning multiple child processes, a web server can scale to handle increased traffic without overwhelming the system resources or sacrificing performance.
+
+3. **Fault Isolation:** If a child process encounters an error or crashes while handling a request, it typically does not affect the stability of the main web server process or other child processes. This fault isolation helps ensure that the server remains operational even if individual requests encounter issues.
+
+4. **Resource Management:** Child processes can be managed and monitored independently, allowing for better control over resource allocation and utilization.
+
+Different web servers may implement child processes in various ways. For example, in the context of the Apache HTTP Server, child processes are often referred to as "worker processes" or "child threads," depending on the specific configuration and mode of operation. Similarly, in Nginx, child processes are used to handle incoming connections and requests.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
