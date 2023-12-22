@@ -7,7 +7,12 @@
 
 <br>
 
-> <h2><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/README.md">Notes</a></h2>
+
+<hr>
+<h2><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/README.md">Notes</a></h2>
+<hr>
+
+
 <br>
 
 ## Background Context
