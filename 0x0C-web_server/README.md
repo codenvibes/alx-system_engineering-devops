@@ -164,7 +164,7 @@ The main role of a web server is to store, process, and deliver web pages to cli
 <details>
 <summary><b><a href=" "> </a>What is a child process</b></summary><br>
 
-In the context of a web server, the parent process is typically the main server process responsible for managing the overall operation of the server, including accepting incoming connections, spawning child processes to handle requests, and managing resources. The child processes, on the other hand, are the subprocesses created by the parent process to handle specific tasks, such as serving web pages or processing requests.
+In the context of a web server, the parent process is typically the main server process responsible for managing the overall operation of the server, including accepting incoming connections, spawning child processes to handle requests, and managing resources. ***The child processes, on the other hand, are the subprocesses created by the parent process to handle specific tasks***, such as serving web pages or processing requests.
 
 Here are examples of parent and child processes in different web server environments:
 
