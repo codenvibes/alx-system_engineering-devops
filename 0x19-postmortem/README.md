@@ -42,7 +42,7 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 
 
 <details>
-<summary><b><a href=" ">The importance of an incident postmortem process</a></b></summary><br>
+<summary><b><a href="https://www.atlassian.com/incident-management/postmortem">The importance of an incident postmortem process</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
