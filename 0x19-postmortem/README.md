@@ -15,7 +15,7 @@
 <br>
 
 ## Background Context
-<br><div align="center"><a href="https://www.youtube.com/watch?v=rp5cVMNmbro&feature=youtu.be"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x19-postmortem/images/tWUPWmR.png"></a></div><br>
+<br><div align="center"><a href="https://www.youtube.com/watch?v=rp5cVMNmbro&feature=youtu.be"><img width="80%" src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x19-postmortem/images/tWUPWmR.png"></a></div><br>
 
 Any software system will eventually fail, and that failure can come stem from a wide range of possible factors: bugs, traffic spikes, security issues, hardware failures, natural disasters, human error… Failing is normal and failing is actually a great opportunity to learn and improve. Any great Software Engineer must learn from his/her mistakes to make sure that they won’t happen again. Failing is fine, but failing twice because of the same issue is not.
 
