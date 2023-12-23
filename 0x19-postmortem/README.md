@@ -71,7 +71,7 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 
 ## More Info
 ### Manual QA Review
-
+**It is your responsibility to request a review for your postmortem from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
 <br>
 
