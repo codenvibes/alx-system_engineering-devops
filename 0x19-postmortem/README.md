@@ -57,18 +57,19 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 </details>
 
 
-
 <!-- <br>
 
 **man or help:**
 - `` -->
 
-<br>
+<!-- <br>
 
-## Requirements
+## Requirements -->
 <!-- Add your requirements here -->
 
-<!-- ## More Info -->
+<br>
+
+## More Info
 
 <br>
 
