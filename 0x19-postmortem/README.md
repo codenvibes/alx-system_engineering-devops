@@ -25,10 +25,10 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 - And to ensure that the root cause(s) of the outage has been discovered and that measures are taken to make sure it will be fixed.
 
 
-<br>
+<!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
-<hr>
+<hr> -->
 
 <br>
 
