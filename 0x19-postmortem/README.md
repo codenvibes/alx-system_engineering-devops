@@ -50,7 +50,7 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 
 
 <details>
-<summary><b><a href=" ">What is an Incident Postmortem?</a></b></summary><br>
+<summary><b><a href="https://www.pagerduty.com/resources/learn/incident-postmortem/">What is an Incident Postmortem?</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
