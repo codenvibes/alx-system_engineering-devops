@@ -91,7 +91,7 @@ File: [README.md]()
 <details>
 <summary>
 
-### 1. 
+### 1. Make people want to read your postmortem
 `#advanced`
 
 File: []()
