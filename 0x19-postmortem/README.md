@@ -85,6 +85,7 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 File: [README.md]()
 </summary>
 
+<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x19-postmortem/images/pQ9YzVY.gif"></div><br>
 
 </details>
 
