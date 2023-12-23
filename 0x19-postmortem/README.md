@@ -1,11 +1,11 @@
 <h1 align="center"><b>0x19. POSTMORTEM</b></h1>
-<div align="center"><code>DevOps</code> <code>SysAdmin</code></div>
+<div align="center"><code></code> <code></code></div>
 
 <br>
 
 ## Concepts
 <details>
-<summary><b><a href="https://intranet.alxswe.com/concepts/39">On-call</a></b></summary><br>
+<summary><b><a href=" "> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -15,6 +15,10 @@
 <!-- <br>
 
 ## Background Context -->
+
+<!-- <hr>
+<h3><a href=>Notes</a></h3>
+<hr> -->
 
 <br>
 
