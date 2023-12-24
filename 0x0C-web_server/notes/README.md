@@ -33,8 +33,82 @@ A proxy acts as an intermediary between a user and the internet, forwarding requ
 <details>
 <summary><b><a href=" ">Launching Ubuntu instances with Multipass</a></b></summary><br>
 
-- https://www.youtube.com/watch?v=Z91l6ZdQjhI
+- Tutorial - https://www.youtube.com/watch?v=Z91l6ZdQjhI
 - Install Multipass - https://multipass.run/install
+
+Multipass is a lightweight VM manager for Linux, Windows, and macOS that lets you create and manage Ubuntu instances. It’s great for testing and development environments. Here’s a basic guide to get you started:
+
+1. **Installation:**
+   - On Ubuntu, you can install Multipass using `snap`:
+     ```
+     sudo snap install multipass --beta --classic
+     ```
+   - On macOS, you can install Multipass using Homebrew:
+     ```
+     brew install multipass
+     ```
+   - On Windows, you can download the installer from the Multipass website and follow the installation instructions.
+
+2. **Launching an Instance:**
+   - To launch a new instance, use the `launch` command:
+     ```
+     multipass launch --name myinstance
+     ```
+   - Replace `myinstance` with the name you want to give your instance.
+
+3. **Managing Instances:**
+   - You can list your instances with:
+     ```
+     multipass list
+     ```
+   - To start or stop an instance, use:
+     ```
+     multipass start myinstance
+     multipass stop myinstance
+     ```
+
+4. **Accessing the Instance:**
+   - To get a shell in your instance, use:
+     ```
+     multipass shell myinstance
+     ```
+   - To execute a command in the instance without opening a shell, use:
+     ```
+     multipass exec myinstance -- <command>
+     ```
+
+5. **Transferring Files:**
+   - You can transfer files between your host and instance using:
+     ```
+     multipass transfer <source> myinstance:<destination>
+     ```
+
+6. **Deleting an Instance:**
+   - To delete an instance, use:
+     ```
+     multipass delete myinstance
+     ```
+
+7. **Additional Options:**
+   - Multipass has many other options and commands for managing instances, setting up networking, and more. You can explore these by typing `multipass help` or `multipass help <command>` for detailed information.
+
+Remember to replace `myinstance` with the actual name of your instance in the commands above. This should give you a basic understanding of how to use Multipass.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
+To check if Multipass is running using `systemctl`, you can use the following command:
+
+```bash
+systemctl is-active snap.multipass.multipassd
+```
+
+This command will return `active` if Multipass is running, and `inactive` if it is not. If Multipass is running, you can also get more detailed information about its status by using:
+
+```bash
+systemctl status snap.multipass.multipassd
+```
+
+This will display additional information about the Multipass service, including its PID (Process ID), memory usage, and recent logs.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
