@@ -244,7 +244,7 @@ Each of these HTTP request methods serves a specific purpose and is used by clie
 <details>
 <summary><b><a href=" "> </a>What DNS stands for</b></summary><br>
 
-DNS stands for Domain Name System. It is a decentralized naming system for computers, services, or any resource connected to the Internet or a private network. DNS translates human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. 
+DNS stands for ***Domain Name System***. It is a decentralized naming system for computers, services, or any resource connected to the Internet or a private network. DNS translates human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. 
 
 The Domain Name System (DNS) is considered decentralized because it operates as a distributed database spread across a global network of servers. This distribution helps in the efficient and reliable resolution of domain names to IP addresses and other associated information.
 
