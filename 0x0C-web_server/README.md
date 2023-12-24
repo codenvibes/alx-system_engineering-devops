@@ -331,7 +331,7 @@ What was one of the most important reason for which DNS was created
 <details>
 <summary><h3>Question 5</h3></summary>
 
-What is TTL within the context of DNS
+What is [TTL](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/ttl.md) within the context of DNS
 - [ ] a time period for DNS maintenance
 - [ ] a time period when DNS is not answering requests
 - [x] a time period when DNS query results are cached
