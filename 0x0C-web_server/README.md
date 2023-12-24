@@ -252,6 +252,7 @@ Each of these HTTP request methods serves a specific purpose and is used by clie
 <details>
 <summary><b><a href=" "> </a>What is DNS main role</b></summary><br>
 
+The main role of the Domain Name System (DNS) is to translate human-friendly domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on a network.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
