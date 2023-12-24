@@ -135,3 +135,10 @@ This process repeats for each client request, with the web server efficiently ma
 </details>
 
 
+<details>
+<summary><b><a href="">Understanding DNS Time to Live (TTL) in Domain Name System</a></b></summary><br>
+
+
+
+<br><p align="center">※※※※※※※※※※※※</p>
+</details>
