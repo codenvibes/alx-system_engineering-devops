@@ -36,6 +36,8 @@ A proxy acts as an intermediary between a user and the internet, forwarding requ
 - Tutorial - https://www.youtube.com/watch?v=Z91l6ZdQjhI
 - Install Multipass - https://multipass.run/install
 
+<br>
+
 Multipass is a lightweight VM manager for Linux, Windows, and macOS that lets you create and manage Ubuntu instances. It’s great for testing and development environments. Here’s a basic guide to get you started:
 
 1. **Installation:**
