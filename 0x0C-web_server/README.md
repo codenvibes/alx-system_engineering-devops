@@ -214,6 +214,25 @@ Overall, the parent-child process model is a commonly used approach in web serve
 <details>
 <summary><b><a href=" "> </a>What are the main HTTP requests</b></summary><br>
 
+HTTP defines several request methods or "verbs" that indicate the desired action to be performed for a given resource. The main HTTP request methods are:
+
+1. **GET:** The GET method requests a representation of the specified resource. It should only retrieve data and should not have any other effect on the server. GET requests can be cached and remain in the browser history, and they can be bookmarked and shared.
+
+2. **POST:** The POST method is used to submit data to be processed to a specified resource. It is often used when submitting forms or uploading files. Unlike GET requests, POST requests can modify the state of the server or have other side effects.
+
+3. **PUT:** The PUT method is used to upload a representation of a resource to the server. It replaces the current representation of the target resource with the request payload.
+
+4. **DELETE:** The DELETE method is used to request the removal of the specified resource. It is used to delete the resource identified by the URL.
+
+5. **HEAD:** The HEAD method is similar to GET but requests the headers that would be returned if the HEAD request's URL was instead requested with the GET method. This is useful for retrieving metadata about a resource without transferring the entire content.
+
+6. **PATCH:** The PATCH method is used to apply partial modifications to a resource. It is often used in combination with a JSON or XML document to describe the changes to be applied.
+
+7. **OPTIONS:** The OPTIONS method is used to describe the communication options for the target resource. It is often used by browsers to check the allowed methods for a resource.
+
+8. **TRACE:** The TRACE method is used to perform a message loop-back test along the path to the target resource. It is primarily used for diagnostic purposes.
+
+Each of these HTTP request methods serves a specific purpose and is used by clients (such as web browsers) to communicate with web servers when requesting or manipulating resources on the web.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
