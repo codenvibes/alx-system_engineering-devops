@@ -68,7 +68,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 
 
 <details>
-<summary><b><a href=" ">Be careful with the way Flask manages slash</a> in <code>route</code> - <code>strict_slashes</code></b></summary><br>
+<summary><b><a href=" ">Be careful with the way Flask manages slash</a> in <a href="">route</a> - <code>strict_slashes</code></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
