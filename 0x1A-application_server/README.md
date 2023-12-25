@@ -198,7 +198,7 @@ File: [gunicorn.service]()
 <details>
 <summary>
 
-### 7. 
+### 7. No service interruption
 `#advanced`
 
 File: []()
