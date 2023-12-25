@@ -150,7 +150,7 @@ File: [2-app_server-nginx_config]()
 <details>
 <summary>
 
-### 3. 
+### 3. Add a route with query parameters
 `mandatory`
 
 File: []()
