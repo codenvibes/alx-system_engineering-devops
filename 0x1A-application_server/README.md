@@ -192,7 +192,7 @@ Hello HBNB!ubuntu@229-web-01:~$
 File: [2-app_server-nginx_config]()
 </summary>
 
-Building on your work in the previous tasks, configure Nginx to serve your page from the route /airbnb-onepage/
+Building on your work in the previous tasks, configure `Nginx` to serve your page from the route `/airbnb-onepage/`
 
 Requirements:
 
