@@ -174,7 +174,7 @@ File: [4-app_server-nginx_config]()
 <details>
 <summary>
 
-### 5. 
+### 5. Serve your AirBnB clone
 `mandatory`
 
 File: []()
