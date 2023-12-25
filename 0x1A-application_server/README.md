@@ -207,20 +207,20 @@ Example:
 
 ### On my server:
 **Window 1:**
-
+```
 ubuntu@229-web-01:~/AirBnB_clone_v2$ gunicorn --bind 0.0.0.0:5000 web_flask.0-hello_route:app
 [2019-05-06 20:43:57 +0000] [14026] [INFO] Starting gunicorn 19.9.0
 [2019-05-06 20:43:57 +0000] [14026] [INFO] Listening at: http://0.0.0.0:5000 (14026)
 [2019-05-06 20:43:57 +0000] [14026] [INFO] Using worker: sync
 [2019-05-06 20:43:57 +0000] [14029] [INFO] Booting worker with pid: 14029
-
+```
 **Window 2:**
-
+```
 ubuntu@229-web-01:~/AirBnB_clone_v2$ curl 127.0.0.1/airbnb-onepage/
 Hello HBNB!ubuntu@229-web-01:~/AirBnB_clone_v2$
-
+```
 ### On my local terminal:
-
+```
 vagrant@ubuntu-xenial:~$ curl -sI 35.231.193.217/airbnb-onepage/
 HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
@@ -232,7 +232,7 @@ X-Served-By: 229-web-01
 
 vagrant@ubuntu-xenial:~$ curl 35.231.193.217/airbnb-onepage/
 Hello HBNB!vagrant@ubuntu-xenial:~$
-
+```
 </details>
 
 <details>
