@@ -202,7 +202,7 @@ Requirements:
 Notes:
 - In order to test this you’ll have to spin up either your production or development application server (listening on port `5000`)
 - In an actual production environment the application server will be configured to start upon startup in a system initialization script. This will be covered in the advanced tasks.
-- You will probably need to reboot your server (by using the command $ sudo reboot) to have Nginx publicly accessible
+- You will probably need to `reboot` your server (by using the command `$ sudo reboot`) to have Nginx publicly accessible
 Example:
 
 On my server:
