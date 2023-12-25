@@ -68,7 +68,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 
 
 <details>
-<summary><b><a href="https://werkzeug.palletsprojects.com/en/0.14.x/routing/">Be careful with the way Flask manages slash</a> in <a href="">route</a> - <code>strict_slashes</code></b></summary><br>
+<summary><b><a href="https://werkzeug.palletsprojects.com/en/0.14.x/routing/">Be careful with the way Flask manages slash</a> in <a href="https://flask.palletsprojects.com/en/1.0.x/api/#flask.Flask.route">route</a> - <code>strict_slashes</code></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
