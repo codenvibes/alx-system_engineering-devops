@@ -52,7 +52,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">How to Serve a Flask Application with Gunicorn and Nginx on Ubuntu 16.04</a></b> (As mentioned in the video, do not install Gunicorn using `virtualenv`, just install everything globally)</summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
