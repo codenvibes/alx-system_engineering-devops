@@ -5,7 +5,7 @@
 
 ## Concepts
 <details>
-<summary><b><a href=" ">Web Server</a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/17">Web Server</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" ">Server</a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/67">Server</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
