@@ -44,7 +44,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 
 ## Resources
 <details>
-<summary><b><a href=" ">Application server vs web server</a></b></summary><br>
+<summary><b><a href="https://www.nginx.com/resources/glossary/application-server-vs-web-server/">Application server vs web server</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
