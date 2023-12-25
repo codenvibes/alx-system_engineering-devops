@@ -186,7 +186,7 @@ File: [5-app_server-nginx_config]()
 <details>
 <summary>
 
-### 6. 
+### 6. Deploy it!
 `#advanced`
 
 File: []()
