@@ -215,7 +215,7 @@ ubuntu@229-web-01:~/AirBnB_clone_v2$ gunicorn --bind 0.0.0.0:5000 web_flask.0-he
 **Window 2:**
 ubuntu@229-web-01:~/AirBnB_clone_v2$ curl 127.0.0.1/airbnb-onepage/
 Hello HBNB!ubuntu@229-web-01:~/AirBnB_clone_v2$
-On my local terminal:
+### On my local terminal:
 vagrant@ubuntu-xenial:~$ curl -sI 35.231.193.217/airbnb-onepage/
 HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
