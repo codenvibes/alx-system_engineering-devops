@@ -205,7 +205,7 @@ Notes:
 - You will probably need to `reboot` your server (by using the command `$ sudo reboot`) to have Nginx publicly accessible
 Example:
 
-On my server:
+### On my server:
 Window 1:
 ubuntu@229-web-01:~/AirBnB_clone_v2$ gunicorn --bind 0.0.0.0:5000 web_flask.0-hello_route:app
 [2019-05-06 20:43:57 +0000] [14026] [INFO] Starting gunicorn 19.9.0
