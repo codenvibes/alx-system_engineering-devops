@@ -27,6 +27,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x1A-application_server/images/c7d1ed0a2e10d1b4e9b3.jpg"></div><br>
 
 <!-- <br>
 
