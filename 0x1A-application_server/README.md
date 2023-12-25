@@ -114,7 +114,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 <details>
 <summary>
 
-### 0. 
+### 0. Set up development with Python
 `mandatory`
 
 File: []()
