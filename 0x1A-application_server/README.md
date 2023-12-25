@@ -117,7 +117,7 @@ Your web infrastructure is already serving web pages via `Nginx` that you instal
 ### 0. Set up development with Python
 `mandatory`
 
-File: []()
+File: [README.md]()
 </summary>
 
 
