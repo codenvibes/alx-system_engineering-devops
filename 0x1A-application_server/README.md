@@ -126,7 +126,7 @@ File: [README.md]()
 <details>
 <summary>
 
-### 1. 
+### 1. Set up production with Gunicorn
 `mandatory`
 
 File: []()
