@@ -138,7 +138,7 @@ File: [0x1A-application_server]()
 <details>
 <summary>
 
-### 2. 
+### 2. Serve a page with Nginx
 `mandatory`
 
 File: []()
