@@ -311,7 +311,7 @@ vagrant@ubuntu-xenial:~$ curl 35.231.193.217/airbnb-dynamic/number_odd_or_even/6
 File: [4-app_server-nginx_config]()
 </summary>
 
-Let’s serve what you built for [AirBnB clone v3 - RESTful API]() on web-01.
+Let’s serve what you built for [AirBnB clone v3 - RESTful API]() on `web-01`.
 
 Requirements:
 
