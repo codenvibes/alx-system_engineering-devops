@@ -353,7 +353,6 @@ File: [5-app_server-nginx_config]()
 Let’s serve what you built for [AirBnB clone - Web dynamic](https://intranet.alxswe.com/rltoken/RxqcMPx7OaDUPPtQfGJDUg) on `web-01`.
 
 Requirements:
-
 Git clone your AirBnB_clone_v4
 Your Gunicorn instance should serve content from web_dynamic/2-hbnb.py on port 5003
 Setup Nginx so that the route / points to your Gunicorn instance
