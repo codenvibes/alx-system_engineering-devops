@@ -350,7 +350,7 @@ vagrant@ubuntu-xenial:~$
 File: [5-app_server-nginx_config]()
 </summary>
 
-Let’s serve what you built for [AirBnB clone - Web dynamic]() on web-01.
+Let’s serve what you built for [AirBnB clone - Web dynamic](https://intranet.alxswe.com/rltoken/RxqcMPx7OaDUPPtQfGJDUg) on web-01.
 
 Requirements:
 
