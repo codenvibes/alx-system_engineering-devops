@@ -258,7 +258,7 @@ In order to spin up a Gunicorn instance as a detached process you can use the te
 Example:
 
 Terminal 1:
-
+```
 ubuntu@229-web-01:~/AirBnB_clone_v2$ tmux new-session -d 'gunicorn --bind 0.0.0.0:5000 web_flask.0-hello_route:app'
 ubuntu@229-web-01:~/AirBnB_clone_v2$ pgrep gunicorn
 1661
@@ -290,7 +290,7 @@ ubuntu@229-web-01:~/AirBnB_clone_v2$ curl 127.0.0.1/airbnb-dynamic/number_odd_or
   </HEAD>
   <BODY><H1>Number: 5 is odd</H1></BODY>
 </HTML>ubuntu@229-web-01:~/AirBnB_clone_v2$
-
+```
 **Local machine:**
 ```
 vagrant@ubuntu-xenial:~$ curl 35.231.193.217/airbnb-dynamic/number_odd_or_even/6<!DOCTYPE html>
