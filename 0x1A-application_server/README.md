@@ -290,6 +290,7 @@ ubuntu@229-web-01:~/AirBnB_clone_v2$ curl 127.0.0.1/airbnb-dynamic/number_odd_or
   <BODY><H1>Number: 5 is odd</H1></BODY>
 </HTML>ubuntu@229-web-01:~/AirBnB_clone_v2$
 Local machine:
+```
 vagrant@ubuntu-xenial:~$ curl 35.231.193.217/airbnb-dynamic/number_odd_or_even/6<!DOCTYPE html>
 <HTML lang="en">
   <HEAD>
@@ -297,7 +298,7 @@ vagrant@ubuntu-xenial:~$ curl 35.231.193.217/airbnb-dynamic/number_odd_or_even/6
   </HEAD>
   <BODY><H1>Number: 6 is even</H1></BODY>
 </HTML>vagrant@ubuntu-xenial:~$
-
+```
 </details>
 
 <details>
