@@ -361,6 +361,7 @@ Requirements:
 - Nginx must serve this page both locally and on its public IP and port 5003
 - Make sure to pull up your Developer Tools on your favorite browser to verify that you have no errors
 - Upload your Nginx config as 5-app_server-nginx_config
+
 After loading, your website should look like this:
 
 
