@@ -257,7 +257,7 @@ Check out these articles/docs for clues on how to configure Nginx: Understanding
 In order to spin up a Gunicorn instance as a detached process you can use the terminal multiplexer utility tmux. Enter the command tmux new-session -d 'gunicorn --bind 0.0.0.0:5001 web_flask.6-number_odd_or_even:app' and if successful you should see no output to the screen. You can verify that the process has been created by running pgrep gunicorn to see its PID. Once you’re ready to end the process you can either run tmux a to reattach to the processes, or you can run kill <PID> to terminate the background process by ID.
 Example:
 
-Terminal 1:
+**Terminal 1:**
 ```
 ubuntu@229-web-01:~/AirBnB_clone_v2$ tmux new-session -d 'gunicorn --bind 0.0.0.0:5000 web_flask.0-hello_route:app'
 ubuntu@229-web-01:~/AirBnB_clone_v2$ pgrep gunicorn
