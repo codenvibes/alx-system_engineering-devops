@@ -363,6 +363,8 @@ Requirements:
 - Upload your `Nginx` config as `5-app_server-nginx_config`
 
 After loading, your website should look like this:
+
+
 </details>
 
 <details>
