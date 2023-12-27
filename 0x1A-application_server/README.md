@@ -358,7 +358,7 @@ Requirements:
 - Setup `Nginx` so that the route / points to your `Gunicorn` instance
 - Setup `Nginx` so that it properly serves the static assets found in `web_dynamic/static/` (this is essential for your page to render properly)
 - For your website to be fully functional, you will need to reconfigure `web_dynamic/static/scripts/2-hbnb.js` to the correct IP
-- Nginx must serve this page both locally and on its public IP and port 5003
+- `Nginx` must serve this page both locally and on its public IP and port `5003`
 - Make sure to pull up your Developer Tools on your favorite browser to verify that you have no errors
 - Upload your Nginx config as 5-app_server-nginx_config
 
