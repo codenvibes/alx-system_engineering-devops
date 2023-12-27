@@ -248,7 +248,7 @@ Building on what you did in the previous tasks, let’s expand our web applicati
 
 Requirements:
 - `Nginx` must serve this page both locally and on its public IP on port `80`.
-- Nginx should proxy requests to the route /airbnb-dynamic/number_odd_or_even/(any integer) the process listening on port 5001.
+- `Nginx` should proxy requests to the route /airbnb-dynamic/number_odd_or_even/(any integer) the process listening on port 5001.
 - Include your Nginx config file as 3-app_server-nginx_config.
 
 Tips:
