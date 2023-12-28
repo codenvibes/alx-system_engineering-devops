@@ -430,7 +430,7 @@ To update an application without downtime, the master will proceed with a progre
 Write a simple Bash script to reload Gunicorn in a graceful way.
 
 Example:
-
+```
 sylvain@ubuntu$ ps auxf | grep gunicorn
 vagrant   9376  2.2  3.6  58068 18320 pts/3    S+   19:25   0:00  |   \_ /home/vagrant/AirBnB_clone_v4/bin/python3 /home/vagrant/AirBnB_clone_v4/bin/gunicorn --bind 0.0.0.0:8001 --workers 4 web_flask.0-hello_route:app
 vagrant   9379  2.6  4.6  82800 23116 pts/3    S+   19:25   0:00  |       \_ /home/vagrant/AirBnB_clone_v4/bin/python3 /home/vagrant/AirBnB_clone_v4/bin/gunicorn --bind 0.0.0.0:8001 --workers 4 web_flask.0-hello_route:app
@@ -447,9 +447,10 @@ vagrant   9395  6.0  4.6  82840 23180 pts/3    S+   19:25   0:00  |       \_ /ho
 vagrant   9396  7.0  4.6  82844 23188 pts/3    S+   19:25   0:00  |       \_ /home/vagrant/AirBnB_clone_v4/bin/python3 /home/vagrant/AirBnB_clone_v4/bin/gunicorn --bind 0.0.0.0:8001 --workers 4 web_flask.0-hello_route:app
 vagrant   9402  0.0  0.1  10460   936 pts/2    S+   19:25   0:00      \_ grep --color=auto gunicorn
 sylvain@ubuntu$
+```
 In this example, you can see that my Bash script tells the master Gunicorn renewed all the workers.
 
-For testing it, please use the command $ sudo reboot to reboot your server (not shutdown!!)
+For testing it, please use the command `$ sudo reboot` to reboot your server (not shutdown!!)
 
 </details>
 
