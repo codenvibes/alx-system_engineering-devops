@@ -381,7 +381,7 @@ Once you’ve got your application server configured, you want to set it up to r
 **Requirements:**
 - Write a `systemd` script which starts a `Gunicorn` process to serve the same content as the previous task (`web_dynamic/2-hbnb.py`)
 - The `Gunicorn` process should spawn 3 worker processes
-- The process should log errors in /tmp/airbnb-error.log
+- The process should log errors in `/tmp/airbnb-error.log`
 - The process should log access in /tmp/airbnb-access.log
 - The process should be bound to port 5003
 - Your systemd script should be stored in the appropriate directory on web-01
