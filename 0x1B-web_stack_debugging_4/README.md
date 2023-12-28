@@ -41,7 +41,7 @@ $ gem install puppet-lint -v 2.1.1
 <details>
 <summary>
 
-### 0. 
+### 0. Sky is the limit, let's bring that limit higher
 `mandatory`
 
 File: []()
