@@ -387,6 +387,7 @@ Once you’ve got your application server configured, you want to set it up to r
 - Your systemd script should be stored in the appropriate directory on web-01
 - Make sure that you start the systemd service and leave it running
 - Upload gunicorn.service to GitHub
+```
 bob@dylan:~$ curl -s 127.0.0.1:5003/2-hbnb | tail -5
     </div>
     <footer>
@@ -403,7 +404,7 @@ bob@dylan:~$ curl -s 12.13.14.15/ | tail -5
   </body>
 </html>
 bob@dylan:~$ 
-
+```
 </details>
 
 <details>
