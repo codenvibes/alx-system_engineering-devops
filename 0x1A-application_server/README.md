@@ -450,7 +450,7 @@ sylvain@ubuntu$
 ```
 In this example, you can see that my Bash script tells the master Gunicorn renewed all the workers.
 
-For testing it, please use the command `$ sudo reboot` to reboot your server (not shutdown!!)
+For testing it, please use the command `$ sudo reboot` to reboot your server (not `shutdown`!!)
 
 </details>
 
