@@ -379,7 +379,7 @@ File: [gunicorn.service]()
 Once you’ve got your application server configured, you want to set it up to run by default when Linux is booted. This way when your server inevitably requires downtime (you have to shut it down or restart it for one reason or another), your `Gunicorn` process(es) will start up as part of the system initialization process, freeing you from having to manually restart them. For this we will use `systemd`. You can read more about `systemd` in the documentation posted at the top of this project but to put it succinctly, it is a system initialization daemon for the Linux OS (amongst other things). For this task you will write a `systemd` script which will start your application server for you. As mentioned in the video at the top of the project, you do not need to create a Unix socket to bind the process to.
 
 **Requirements:**
-- Write a `systemd` script which starts a Gunicorn process to serve the same content as the previous task (web_dynamic/2-hbnb.py)
+- Write a `systemd` script which starts a `Gunicorn` process to serve the same content as the previous task (web_dynamic/2-hbnb.py)
 - The Gunicorn process should spawn 3 worker processes
 - The process should log errors in /tmp/airbnb-error.log
 - The process should log access in /tmp/airbnb-access.log
