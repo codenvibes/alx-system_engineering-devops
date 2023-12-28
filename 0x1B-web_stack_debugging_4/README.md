@@ -11,6 +11,8 @@
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
+<br><div align="center"><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x1B-web_stack_debugging_4/images/frdkCrb.jpg"></div>
+
 <br>
 
 ## Requirements
