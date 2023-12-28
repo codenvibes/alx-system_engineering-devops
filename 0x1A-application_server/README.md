@@ -386,7 +386,7 @@ Once you’ve got your application server configured, you want to set it up to r
 - The process should be bound to port `5003`
 - Your `systemd` script should be stored in the appropriate directory on `web-01`
 - Make sure that you start the systemd service and leave it running
-- Upload gunicorn.service to GitHub
+- Upload `gunicorn.service` to GitHub
 ```
 bob@dylan:~$ curl -s 127.0.0.1:5003/2-hbnb | tail -5
     </div>
