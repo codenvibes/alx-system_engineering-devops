@@ -182,7 +182,7 @@ File: [1-user_limit.pp]()
 </summary>
 
 Change the OS configuration so that it is possible to login with the `holberton` user and open a file without any error message.
-
+```
 root@079b7269ec1b:~# su - holberton
 -su: /etc/profile: Too many open files
 -su: /home/holberton/.bash_profile: Too many open files
@@ -224,6 +224,6 @@ lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
 mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
 news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
 holberton@079b7269ec1b:~$
-
+```
 </details>
 
