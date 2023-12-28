@@ -50,7 +50,7 @@ File: [0-the_sky_is_the_limit_not.pp]()
 In this web stack debugging task, we are testing how well our web server setup featuring Nginx is doing under pressure and it turns out it’s not doing well: we are getting a huge amount of failed requests.
 
 For the benchmarking, we are using ApacheBench which is a quite popular tool in the industry. It allows you to simulate HTTP requests to a web server. In this case, I will make 2000 requests to my server with 100 requests at a time. We can see that 943 requests failed, let’s fix our stack so that we get to 0, and remember that when something is going wrong, logs are your best friends!
-
+```
 root@0a62aa706eb3:/# ab -c 100 -n 2000 localhost/
 This is ApacheBench, Version 2.3 <$Revision: 1528965 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
@@ -169,7 +169,7 @@ Percentage of the requests served within a certain time (ms)
   99%     28
  100%     31 (longest request)
 root@0a62aa706eb3:/#
-
+```
 </details>
 
 <details>
