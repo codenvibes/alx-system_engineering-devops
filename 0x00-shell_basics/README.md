@@ -3,6 +3,8 @@
 
 <br>
 
+## About Bash projects
+
 ## Concepts
 <details>
 <summary><b><a href=" "> </a></b></summary><br>
