@@ -135,7 +135,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 ## Learning Objectives
 ### General
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What does RTFM mean?</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
