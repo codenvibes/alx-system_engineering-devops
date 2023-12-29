@@ -48,7 +48,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" ">Looking Around</a></b></summary><br>
+<summary><b><a href="https://linuxcommand.org/lc3_lts0030.php">Looking Around</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
