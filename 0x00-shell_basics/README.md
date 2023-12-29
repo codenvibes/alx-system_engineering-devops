@@ -104,7 +104,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" ">Shebang</a></b></summary><br>
+<summary><b><a href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">Shebang</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
