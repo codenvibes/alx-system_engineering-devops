@@ -1,5 +1,5 @@
 <h1 align="center"><b>0x00. SHELL, BASICS</b></h1>
-<div align="center"><code>DevOps</code> <code>Shell</code> <code></code></div>
+<div align="center"><code>DevOps</code> <code>Shell</code> <code>Bash</code></div>
 
 <br>
 
