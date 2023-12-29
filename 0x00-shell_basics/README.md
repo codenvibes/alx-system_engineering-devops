@@ -72,7 +72,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" ">Working With Commands</a></b></summary><br>
+<summary><b><a href="https://linuxcommand.org/lc3_lts0060.php">Working With Commands</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
