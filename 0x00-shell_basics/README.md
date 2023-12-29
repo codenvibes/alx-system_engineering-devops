@@ -185,7 +185,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What do the commands or built-ins <code>cd</code>, <code>pwd</code>, <code>ls</code> d</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
