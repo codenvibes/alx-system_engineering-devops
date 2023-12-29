@@ -88,7 +88,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" ">Keyboard shortcuts for Bash</a></b></summary><br>
+<summary><b><a href="https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/">Keyboard shortcuts for Bash</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
