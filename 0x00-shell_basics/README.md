@@ -64,7 +64,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" ">Manipulating Files</a></b></summary><br>
+<summary><b><a href="https://linuxcommand.org/lc3_lts0050.php">Manipulating Files</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
