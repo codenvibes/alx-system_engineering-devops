@@ -153,7 +153,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ### What is the Shell
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the shell</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
