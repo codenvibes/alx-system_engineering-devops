@@ -3,7 +3,7 @@
 
 <br>
 
-## About Bash projects
+## About `Bash` projects
 
 ## Concepts
 <details>
