@@ -511,14 +511,32 @@ What does LTS stand for?
 <details>
 <summary><b>Question 2</b></summary><br>
 
-
+What does RTFM stand for?
+- [x] Read The F** Manual
+- [ ] Read, Teach, Forget, Migrate
+- [ ] Remember The First Manipulation
 <br>
 </details>
 
 <details>
 <summary><b>Question 3</b></summary><br>
 
+What command would you use to list files on Linux?
 
+
+list
+
+
+which
+
+
+ls
+
+
+cd
+
+
+pwd
 <br>
 </details>
 
