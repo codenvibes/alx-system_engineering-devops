@@ -752,10 +752,10 @@ File: [102-tree]()
 <details>
 <summary>
 
-### 18. 
+### 18. Life is a series of commas, not periods
 `#advanced`
 
-File: []()
+File: [103-commas]()
 </summary>
 
 
