@@ -584,10 +584,10 @@ File: [3-listfiles]()
 <details>
 <summary>
 
-### 4. 
+### 4. Hidden files
 `mandatory`
 
-File: []()
+File: [4-listmorefiles]()
 </summary>
 
 
