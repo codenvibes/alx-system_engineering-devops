@@ -493,7 +493,7 @@ julien@ubuntu:/tmp$
 How do you change directory on Linux?
 - [ ] ls
 - [ ] which
-- [ ] cd
+- [x] cd
 - [ ] pwd
 <br>
 </details>
