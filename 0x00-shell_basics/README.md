@@ -455,12 +455,13 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ## More Info
 *Example of line count and first line*
-
+```
 julien@ubuntu:/tmp$ wc -l 12-file_type 
 2 12-file_type
 julien@ubuntu:/tmp$ head -n 1 12-file_type 
 #!/bin/bash
 julien@ubuntu:/tmp$ 
+```
 In order to test your scripts, you will need to use this command: chmod u+x file. We will see later what does chmod mean and do, but you can have a look at man chmod if you are curious.
 
 Example
