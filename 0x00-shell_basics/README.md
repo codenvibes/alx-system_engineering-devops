@@ -361,7 +361,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ### Working with Commands
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What do <code>type</code>, <code>which</code>, <code>help</code>, <code>man</code> commands do</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
