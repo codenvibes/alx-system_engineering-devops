@@ -764,7 +764,7 @@ File: [103-commas]()
 <details>
 <summary>
 
-### 19. 
+### 19. File type: School
 `#advanced`
 
 File: []()
