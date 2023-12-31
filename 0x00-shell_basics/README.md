@@ -273,7 +273,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Understand the ls long format and how to display it</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
