@@ -554,7 +554,7 @@ Write a script that prints the absolute path name of the current working directo
 File: [1-listit]()
 </summary>
 
-
+Display the contents list of your current directory.
 </details>
 
 <details>
