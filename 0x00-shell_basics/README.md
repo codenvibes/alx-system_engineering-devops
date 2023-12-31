@@ -241,7 +241,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What are the characteristics of hidden files and how to list them</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
