@@ -872,7 +872,15 @@ drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
 File: [101-clean_emacs]()
 </summary>
 
-
+Create a script that deletes all files in the current working directory that end with the character `~`.
+```
+ubuntu@ip-172-31-63-244:/tmp/sym$ ls
+main.c  main.c~  Makefile~
+ubuntu@ip-172-31-63-244:/tmp/sym$ ./101-clean_emacs
+ubuntu@ip-172-31-63-244:/tmp/emacs$ ls
+main.c
+ubuntu@ip-172-31-63-244:/tmp/emacs$
+```
 </details>
 
 <details>
