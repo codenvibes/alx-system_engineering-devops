@@ -680,10 +680,10 @@ File: [11-lists]()
 <details>
 <summary>
 
-### 12. 
+### 12. File type
 `mandatory`
 
-File: []()
+File: [12-file_type]()
 </summary>
 
 
@@ -692,7 +692,7 @@ File: []()
 <details>
 <summary>
 
-### 13. 
+### 13. We are symbols, and inhabit symbols
 `mandatory`
 
 File: []()
