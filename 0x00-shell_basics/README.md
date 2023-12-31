@@ -335,7 +335,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ### Manipulating Files
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What do the commands <code>cp</code>, <code>mv</code>, <code>rm</code>, <code>mkdir</code> do</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
