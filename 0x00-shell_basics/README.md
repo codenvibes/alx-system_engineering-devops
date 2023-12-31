@@ -698,7 +698,15 @@ $
 File: [8-firstdelete]()
 </summary>
 
+Delete the file `betty`.
+- The file `betty` is in `/tmp/my_first_directory`.
 
+Example:
+```
+$ ./8-firstdelete
+$ ls /tmp/my_first_directory/
+$
+```
 </details>
 
 <details>
