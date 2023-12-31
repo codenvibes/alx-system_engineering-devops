@@ -301,7 +301,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What do you find in the most common/important directories</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -309,7 +309,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is a symbolic link</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
