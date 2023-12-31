@@ -695,7 +695,7 @@ File: [12-file_type]()
 ### 13. We are symbols, and inhabit symbols
 `mandatory`
 
-File: []()
+File: [13-symbolic_link]()
 </summary>
 
 
