@@ -432,9 +432,4 @@ Info manuals are displayed with a reader program named, appropriately enough, in
 
 ## [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
-# Requirements
-- All your scripts should be exactly two lines long (`wc -l` file should print 2)
-- The first line of all your files should be exactly `#!/bin/bash`
-- You are not allowed to use backticks, `&&`, `|`| or `;`
-- All your scripts must be executable. To make your file executable, use the `chmod` command: `chmod u+x file`
 
