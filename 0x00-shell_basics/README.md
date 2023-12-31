@@ -209,7 +209,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the working directory, how to print it and how to change it</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -217,7 +217,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>What is the root directory</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
