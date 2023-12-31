@@ -23,10 +23,10 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 ## Background Context -->
 
 
-<!-- <br>
+<br>
 <hr>
-<h3><a href=>Notes</a></h3>
-<hr> -->
+<h3><a href="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x00-shell_basics/notes/README.md">Notes</a></h3>
+<hr>
 
 <br>
 
