@@ -704,7 +704,7 @@ File: [13-symbolic_link]()
 <details>
 <summary>
 
-### 14. 
+### 14. Copy HTML files
 `mandatory`
 
 File: []()
