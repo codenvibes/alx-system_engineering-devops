@@ -395,7 +395,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ### Reading Man Pages
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>How to read a man page</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
