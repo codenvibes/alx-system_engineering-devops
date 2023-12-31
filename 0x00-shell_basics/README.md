@@ -767,7 +767,7 @@ File: [103-commas]()
 ### 19. File type: School
 `#advanced`
 
-File: []()
+File: [school.mgc]()
 </summary>
 
 
