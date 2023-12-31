@@ -599,7 +599,7 @@ File: [4-listmorefiles]()
 ### 5. I love numbers
 `mandatory`
 
-File: []()
+File: [5-listfilesdigitonly]()
 </summary>
 
 
@@ -608,10 +608,10 @@ File: []()
 <details>
 <summary>
 
-### 6. 
+### 6. Welcome
 `mandatory`
 
-File: []()
+File: [6-firstdirectory]()
 </summary>
 
 
@@ -620,10 +620,10 @@ File: []()
 <details>
 <summary>
 
-### 7. 
+### 7. Betty in my first directory
 `mandatory`
 
-File: []()
+File: [7-movethatfile]()
 </summary>
 
 
