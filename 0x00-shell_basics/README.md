@@ -536,10 +536,10 @@ What command would you use to list files on Linux?
 <details>
 <summary>
 
-### 0. 
+### 0. Where am I?
 `mandatory`
 
-File: []()
+File: [0-current_working_directory]()
 </summary>
 
 
@@ -548,10 +548,10 @@ File: []()
 <details>
 <summary>
 
-### 1. 
+### 1. What’s in there?
 `mandatory`
 
-File: []()
+File: [1-listit]()
 </summary>
 
 
@@ -560,10 +560,10 @@ File: []()
 <details>
 <summary>
 
-### 2. 
+### 2. There is no place like home
 `mandatory`
 
-File: []()
+File: [2-bring_me_home]()
 </summary>
 
 
