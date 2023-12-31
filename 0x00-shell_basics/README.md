@@ -293,7 +293,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 
 <details>
-<summary><b><a href=" "> </a>What does the ln command do</b></summary><br>
+<summary><b><a href=" "> </a>What does the <code>ln<c/ode> command do</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
