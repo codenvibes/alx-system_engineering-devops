@@ -572,10 +572,10 @@ File: [2-bring_me_home]()
 <details>
 <summary>
 
-### 3. 
+### 3. The long format
 `mandatory`
 
-File: []()
+File: [3-listfiles]()
 </summary>
 
 
