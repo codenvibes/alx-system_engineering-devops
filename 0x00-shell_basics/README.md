@@ -728,7 +728,7 @@ File: [100-lets_move]()
 <details>
 <summary>
 
-### 16. 
+### 16. Clean Emacs
 `#advanced`
 
 File: []()
