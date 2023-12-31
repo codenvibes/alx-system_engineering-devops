@@ -417,7 +417,9 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<br>
 
+### Keyboard Shortcuts for Bash
 <details>
 <summary><b><a href=" "> </a></b></summary><br>
 
