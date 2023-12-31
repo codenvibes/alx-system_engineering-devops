@@ -644,10 +644,10 @@ File: [8-firstdelete]()
 <details>
 <summary>
 
-### 9. 
+### 9. Bye bye My first directory
 `mandatory`
 
-File: []()
+File: [9-firstdirdeletion]()
 </summary>
 
 
