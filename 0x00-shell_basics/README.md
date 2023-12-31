@@ -502,15 +502,9 @@ How do you change directory on Linux?
 <summary><b>Question 1</b></summary><br>
 
 What does LTS stand for?
-
-
-Last Terrible Service
-
-
-Long Time Support
-
-
-Long Term Support
+- [ ] Last Terrible Service
+- [ ] Long Time Support
+- [x] Long Term Support
 <br>
 </details>
 
