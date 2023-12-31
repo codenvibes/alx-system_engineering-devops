@@ -522,21 +522,11 @@ What does RTFM stand for?
 <summary><b>Question 3</b></summary><br>
 
 What command would you use to list files on Linux?
-
-
-list
-
-
-which
-
-
-ls
-
-
-cd
-
-
-pwd
+- [ ] list
+- [ ] which
+- [x] ls
+- [ ] cd
+- [ ] pwd
 <br>
 </details>
 
