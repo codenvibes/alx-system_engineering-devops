@@ -81,7 +81,7 @@ Step 1 – Installing Nginx:
 sudo apt update
 sudo apt install nginx
 ```
-
+<br>
 
 Step 2 – Adjusting the Firewall
 
