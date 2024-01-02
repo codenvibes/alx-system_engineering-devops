@@ -168,3 +168,92 @@ When using `ssh`, ensure that you have SSH access to the remote machine, and you
 
 <br><p align="center">※※※※※※※※※※※※</p>
 </details>
+
+
+<details>
+<summary><b><a href=""><code>service</code> and <code>systemctl</code></a></b></summary><br>
+
+`service` and `systemctl` are both used for managing services on a Linux system. They provide a way to start, stop, restart, enable, disable, and check the status of services. The commands and their usage can vary slightly between different Linux distributions, but the core concepts remain the same. Here's an overview of how to use `service` and `systemctl`:
+
+### `service` Command (SysVinit)
+
+The `service` command is commonly used on older Linux distributions that use SysVinit for system initialization. It provides a simple way to manage services with a consistent interface.
+
+- **Start a Service**:
+  ```bash
+  sudo service serviceName start
+  ```
+
+- **Stop a Service**:
+  ```bash
+  sudo service serviceName stop
+  ```
+
+- **Restart a Service**:
+  ```bash
+  sudo service serviceName restart
+  ```
+
+- **Check Status of a Service**:
+  ```bash
+  sudo service serviceName status
+  ```
+
+- **Enable a Service to Start on Boot**:
+  ```bash
+  sudo service serviceName enable
+  ```
+
+- **Disable a Service from Starting on Boot**:
+  ```bash
+  sudo service serviceName disable
+  ```
+
+Replace `serviceName` with the actual name of the service you want to manage (e.g., `nginx`, `apache2`).
+
+### `systemctl` Command (systemd)
+
+`systemctl` is the primary command for controlling services on modern Linux distributions that use systemd as the init system. It provides more advanced features for managing services and is more powerful than `service`.
+
+- **Start a Service**:
+  ```bash
+  sudo systemctl start serviceName
+  ```
+
+- **Stop a Service**:
+  ```bash
+  sudo systemctl stop serviceName
+  ```
+
+- **Restart a Service**:
+  ```bash
+  sudo systemctl restart serviceName
+  ```
+
+- **Check Status of a Service**:
+  ```bash
+  sudo systemctl status serviceName
+  ```
+
+- **Enable a Service to Start on Boot**:
+  ```bash
+  sudo systemctl enable serviceName
+  ```
+
+- **Disable a Service from Starting on Boot**:
+  ```bash
+  sudo systemctl disable serviceName
+  ```
+
+Replace `serviceName` with the actual name of the service you want to manage (e.g., `nginx`, `apache2`).
+
+### Additional Notes
+
+- Both `service` and `systemctl` commands usually require root (sudo) privileges to manage services.
+- `systemctl` provides more detailed and fine-grained control over services compared to `service`.
+- Systemd also introduces the concept of unit files, which define how services are managed. These unit files are located in `/etc/systemd/system/`.
+
+When using these commands, ensure that you have a good understanding of the services you are managing and their dependencies, as starting or stopping critical services can affect the functionality of your system.
+
+<br><p align="center">※※※※※※※※※※※※</p>
+</details>
