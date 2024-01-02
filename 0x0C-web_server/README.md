@@ -107,6 +107,29 @@ As demonstrated by the output, there are three profiles available for Nginx:
 - Nginx HTTP: This profile opens only port 80 (normal, unencrypted web traffic)
 - Nginx HTTPS: This profile opens only port 443 (TLS/SSL encrypted traffic)
 
+It is recommended that you enable the most restrictive profile that will still allow the traffic you’ve configured. Right now, we will only need to allow traffic on port 80.
+
+You can enable this by typing:
+```
+sudo ufw allow 'Nginx HTTP'
+```
+You can verify the change by typing:
+```
+sudo ufw status
+```
+The output will indicated which HTTP traffic is allowed:
+```
+Output
+Status: active
+
+To                         Action      From
+--                         ------      ----
+OpenSSH                    ALLOW       Anywhere                  
+Nginx HTTP                 ALLOW       Anywhere                  
+OpenSSH (v6)               ALLOW       Anywhere (v6)             
+Nginx HTTP (v6)            ALLOW       Anywhere (v6)
+```
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
