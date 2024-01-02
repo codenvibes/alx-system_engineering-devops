@@ -76,13 +76,14 @@ Tips: to test your answer Bash script, feel free to reproduce the checker enviro
 <details>
 <summary><b><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04">How to Configure Nginx</a></b></summary><br>
 
-1. Step 1 – Installing Nginx:
+Step 1 – Installing Nginx:
 ```
 sudo apt update
 sudo apt install nginx
 ```
 
-2. Step 2 – Adjusting the Firewall
+
+Step 2 – Adjusting the Firewall
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
