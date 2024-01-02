@@ -88,7 +88,7 @@ Before testing Nginx, the firewall software needs to be adjusted to allow access
 
 To see a list of application configurations that ufw knows how to work with, you can run the following command:
 ```
-
+sudo ufw app list
 ```
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
