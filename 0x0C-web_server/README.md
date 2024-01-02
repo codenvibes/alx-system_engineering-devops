@@ -90,6 +90,7 @@ To see a list of application configurations that ufw knows how to work with, you
 ```
 sudo ufw app list
 ```
+> In the command `sudo ufw allow 'Nginx HTTP'`, `ufw` stands for "Uncomplicated Firewall." `ufw` is a front-end for managing netfilter, which is the standard firewall management tool in Linux. It aims to provide an easy-to-use interface for managing firewall rules without requiring detailed knowledge of iptables.<br>In this specific command, `allow 'Nginx HTTP'` is telling `ufw` to allow incoming traffic on the port associated with the Nginx HTTP server. The `'Nginx HTTP'` part is a service name that is predefined in `ufw`. When you specify a service name like `'Nginx HTTP'`, `ufw` looks up the associated port number and protocol (in this case, it would typically be port 80 for HTTP) and allows incoming traffic on that port using the specified protocol (in this case, TCP, which is the default for HTTP).<br>So, the command `sudo ufw allow 'Nginx HTTP'` allows incoming TCP traffic on port 80 (default for HTTP) to reach your Nginx server.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
