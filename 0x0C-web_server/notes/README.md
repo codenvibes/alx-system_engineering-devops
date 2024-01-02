@@ -135,3 +135,36 @@ This process repeats for each client request, with the web server efficiently ma
 </details>
 
 
+<details>
+<summary><b><a href="">Remotely Executing Commands via SSH</a></b></summary><br>
+
+To remotely execute commands via SSH (Secure Shell), you can use the `ssh` command. Here's a basic example of how to do this:
+
+```bash
+ssh username@hostname command
+```
+
+Replace `username` with your remote username, `hostname` with the hostname or IP address of the remote machine, and `command` with the command you want to execute remotely. For example:
+
+```bash
+ssh user@example.com ls -l /path/to/directory
+```
+
+This command will connect to the `example.com` server as the user `user` and execute `ls -l /path/to/directory` on that server.
+
+If you want to execute multiple commands or a complex command that requires shell features (like piping or redirection), you can use a here document to send the commands to the remote shell:
+
+```bash
+ssh username@hostname << 'ENDSSH'
+command1
+command2
+command3
+ENDSSH
+```
+
+Replace `command1`, `command2`, and `command3` with the commands you want to execute remotely. The `<< 'ENDSSH'` syntax is used to pass a multi-line string to the `ssh` command, which will be executed as a series of commands on the remote machine.
+
+When using `ssh`, ensure that you have SSH access to the remote machine, and you may need to provide a password or use SSH keys for authentication, depending on your setup.
+
+<br><p align="center">※※※※※※※※※※※※</p>
+</details>
