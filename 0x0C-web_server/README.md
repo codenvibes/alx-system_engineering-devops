@@ -281,7 +281,13 @@ If there aren’t any problems, restart Nginx to enable your changes:
 sudo systemctl restart nginx
 ```
 Nginx should now be serving your domain name. You can test this by navigating to `http://your_domain`, where you should see something like this:
-<br><div align="center"><img src="https://assets.digitalocean.com/articles/how-to-install-nginx-u18.04/your-domain-server-block-nginx.PNG"></div><br>
+<br><div align="center"><img src="https://assets.digitalocean.com/articles/how-to-install-nginx-u18.04/your-domain-server-block-nginx.PNG"></div>
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
+Step 6 – Getting Familiar with Important Nginx Files and Directories:
+
+1. Content
+    - `/var/www/html`: The actual web content, which by default only consists of the default Nginx page you saw earlier, is served out of the `/var/www/html` directory. This can be changed by altering Nginx configuration files.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
