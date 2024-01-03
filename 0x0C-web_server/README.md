@@ -260,6 +260,8 @@ Two server blocks are now enabled and configured to respond to requests based on
 - `your_domain`: Will respond to requests for `your_domain` and `www.your_domain`.
 - `default`: Will respond to any requests on port 80 that do not match the other two blocks.
 
+To avoid a possible hash bucket memory problem that can arise from adding additional server names, it is necessary to adjust a single value in the `/etc/nginx/nginx.conf` file. Open the file:
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
