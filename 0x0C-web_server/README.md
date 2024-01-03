@@ -149,6 +149,46 @@ systemctl status nginx
 However, the best way to test this is to actually request a page from Nginx.
 You can access the default Nginx landing page to confirm that the software is running properly by navigating to your server’s IP address. If you do not know your server’s IP address, you can find it by using the [icanhazip.com](http://icanhazip.com/) tool, which will give you your public IP address as received from another location on the internet:
 
+```
+curl -4 icanhazip.com
+```
+
+When you have your server’s IP address, enter it into your browser’s address bar:
+```
+http://your_server_ip
+```
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
+Step 4 – Managing the Nginx Process:
+
+Now that you have your web server up and running, let’s review some basic management commands.
+
+To stop your web server, type:
+
+sudo systemctl stop nginx
+
+To start the web server when it is stopped, type:
+
+sudo systemctl start nginx
+
+To stop and then start the service again, type:
+
+sudo systemctl restart nginx
+
+If you are only making configuration changes, Nginx can often reload without dropping connections. To do this, type:
+
+sudo systemctl reload nginx
+
+By default, Nginx is configured to start automatically when the server boots. If this is not what you want, you can disable this behavior by typing:
+
+sudo systemctl disable nginx
+
+To re-enable the service to start up at boot, you can type:
+
+sudo systemctl enable nginx
+
+
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
