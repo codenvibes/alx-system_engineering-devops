@@ -135,6 +135,14 @@ Nginx HTTP (v6)            ALLOW       Anywhere (v6)
 > If your output is `Status: inactive` enable ufw using `sudo ufw enable`
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
+
+Step 3 – Checking your Web Server:
+
+At the end of the installation process, Ubuntu 20.04 starts Nginx. The web server should already be up and running.
+
+We can check with the systemd init system to make sure the service is running by typing:
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 
