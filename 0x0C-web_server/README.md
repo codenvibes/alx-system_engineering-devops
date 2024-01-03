@@ -276,6 +276,12 @@ sudo nginx -t
 ```
 > *The command `sudo nginx -t` is used to test the syntax of the Nginx configuration files without actually restarting the Nginx service.*
 
+If there aren’t any problems, restart Nginx to enable your changes:
+```
+sudo systemctl restart nginx
+```
+Nginx should now be serving your domain name. You can test this by navigating to `http://your_domain`, where you should see something like this:
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
