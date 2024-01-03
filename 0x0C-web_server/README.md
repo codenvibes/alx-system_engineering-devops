@@ -213,6 +213,7 @@ The permissions of your web roots should be correct if you haven’t modified yo
 ```
 $ sudo chmod -R 755 /var/www/your_domain
 ```
+Next, create a sample index.html page using your favorite editor:
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
