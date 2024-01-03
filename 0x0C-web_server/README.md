@@ -266,6 +266,15 @@ sudo nano /etc/nginx/nginx.conf
 ```
 Find the `server_names_hash_bucket_size` directive and remove the `#` symbol to uncomment the line.
 
+Save and close the file when you are finished.
+
+> The problem being addressed here is that if you have a large number of server names (e.g., if you are hosting many websites on your server), the default hash bucket size might not be sufficient, leading to potential memory problems. By increasing the `server_names_hash_bucket_size`, you can ensure that Nginx can handle a larger number of server names without running into memory issues.
+
+Next, test to make sure that there are no syntax errors in any of your Nginx files:
+```
+sudo nginx -t
+```
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
