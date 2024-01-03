@@ -81,7 +81,8 @@ Step 1 – Installing Nginx:
 sudo apt update
 sudo apt install nginx
 ```
-<br>
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 Step 2 – Adjusting the Firewall:
 Before testing Nginx, the firewall software needs to be adjusted to allow access to the service (you need to tell the firewall to allow access to it). Nginx registers itself as a service with `ufw` upon installation and you can use it to adjust its settings.
