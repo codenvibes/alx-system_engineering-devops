@@ -297,8 +297,8 @@ Step 6 – Getting Familiar with Important Nginx Files and Directories:
     - `/etc/nginx/snippets`: This directory contains configuration fragments that can be included elsewhere in the Nginx configuration. Potentially repeatable configuration segments are good candidates for refactoring into snippets.
 
 - Server Logs
-/var/log/nginx/access.log: Every request to your web server is recorded in this log file unless Nginx is configured to do otherwise.
-/var/log/nginx/error.log: Any Nginx errors will be recorded in this log.
+    - `/var/log/nginx/access.log`: Every request to your web server is recorded in this log file unless Nginx is configured to do otherwise.
+    - `/var/log/nginx/error.log`: Any Nginx errors will be recorded in this log.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
