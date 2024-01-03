@@ -204,6 +204,17 @@ sudo mkdir -p /var/www/your_domain/html
 ```
 > *`-p`: This option tells mkdir to create the specified directory and any missing parent directories. In other words, it creates the entire path specified in the command, including any intermediate directories that don't yet exist.*
 
+Next, assign ownership of the directory with the `$USER` environment variable:
+```
+sudo chown -R $USER:$USER /var/www/your_domain/html
+```
+
+The permissions of your web roots should be correct if you haven’t modified your `umask` value, which sets default file permissions. To ensure that your permissions are correct and allow the owner to read, write, and execute the files while granting only read and execute permissions to groups and others, you can input the following command:
+```
+$ sudo chmod -R 755 /var/www/your_domain
+```
+
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
