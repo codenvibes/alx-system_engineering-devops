@@ -504,6 +504,8 @@ root@sy-web-01$ curl localhost
 Hello World!
 root@sy-web-01$ 
 ```
+> 1. Server Terminal:<br>- `root@sy-web-01$ ./1-install_nginx_web_server > /dev/null 2>&1`: This command runs the script `1-install_nginx_web_server` in the background. The `>` redirects standard output (stdout) to `/dev/null`, effectively discarding any output from the script. The `2>&1` part redirects standard error (stderr) to the same place as stdout, so both stdout and stderr are discarded. Essentially, this command runs the script silently without displaying any output.<br>- `root@sy-web-01$ curl localhost`: This command sends a GET request to `localhost`, which is the server itself. It retrieves the default page from the locally installed nginx server, which should contain the string "Hello World!".
+
 Local terminal:
 ```
 sylvain@ubuntu$ curl 34.198.248.145/
