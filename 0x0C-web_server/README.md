@@ -218,6 +218,39 @@ Next, create a sample index.html page using your favorite editor:
 sudo vi /var/www/your_domain/html/index.html
 ```
 Inside, add the following sample HTML:
+```
+<html>
+    <head>
+        <title>Welcome to your_domain!</title>
+    </head>
+    <body>
+        <h1>Success!  The your_domain server block is working!</h1>
+    </body>
+</html>
+```
+In order for Nginx to serve this content, it’s necessary to create a server block with the correct directives. Instead of modifying the default configuration file directly, let’s make a new one at `/etc/nginx/sites-available/your_domain`:
+```
+sudo vi /etc/nginx/sites-available/your_domain
+```
+Paste in the following configuration block, which is similar to the default, but updated for our new directory and domain name:
+```
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/your_domain/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name your_domain www.your_domain;
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
+}
+```
+Notice that we’ve updated the roo`t configuration to our new directory, and the server_name to our domain name.
+
+Next, let’s enable the file by creating a link from it to the sites-enabled directory, which Nginx reads from during startup:
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
