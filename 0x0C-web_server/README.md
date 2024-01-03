@@ -202,6 +202,7 @@ Create the directory for your_domain as follows, using the `-p` flag to create a
 ```
 sudo mkdir -p /var/www/your_domain/html
 ```
+> `-p`: This option tells mkdir to create the specified directory and any missing parent directories. In other words, it creates the entire path specified in the command, including any intermediate directories that don't yet exist.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
