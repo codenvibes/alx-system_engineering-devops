@@ -274,6 +274,7 @@ Next, test to make sure that there are no syntax errors in any of your Nginx fil
 ```
 sudo nginx -t
 ```
+> *The command `sudo nginx -t` is used to test the syntax of the Nginx configuration files without actually restarting the Nginx service.*
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
