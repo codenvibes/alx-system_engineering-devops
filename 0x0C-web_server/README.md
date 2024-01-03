@@ -504,7 +504,7 @@ root@sy-web-01$ curl localhost
 Hello World!
 root@sy-web-01$ 
 ```
-> 1. Server Terminal:<br>- `root@sy-web-01$ ./1-install_nginx_web_server > /dev/null 2>&1`: This command runs the script `1-install_nginx_web_server` in the background. The `>` redirects standard output (stdout) to `/dev/null`, effectively discarding any output from the script. The `2>&1` part redirects standard error (stderr) to the same place as stdout, so both stdout and stderr are discarded. Essentially, this command runs the script silently without displaying any output.<br>- `root@sy-web-01$ curl localhost`: This command sends a GET request to `localhost`, which is the server itself. It retrieves the default page from the locally installed nginx server, which should contain the string "Hello World!".
+> ***Server Terminal:***<br>- *`root@sy-web-01$ ./1-install_nginx_web_server > /dev/null 2>&1`: This command runs the script `1-install_nginx_web_server` in the background. The `>` redirects standard output (stdout) to `/dev/null`, effectively discarding any output from the script. The `2>&1` part redirects standard error (stderr) to the same place as stdout, so both stdout and stderr are discarded. Essentially, this command runs the script silently without displaying any output.<br>- `root@sy-web-01$ curl localhost`: This command sends a GET request to `localhost`, which is the server itself. It retrieves the default page from the locally installed nginx server, which should contain the string "Hello World!".*
 
 Local terminal:
 ```
@@ -523,6 +523,8 @@ Accept-Ranges: bytes
 
 sylvain@ubuntu$
 ```
+> **Local Terminal**:
+
 In this example `34.198.248.145` is the IP of my `web-01` server. If you want to query the Nginx that is locally installed on your server, you can use `curl 127.0.0.1`.
 
 If things are not going as expected, make sure to check out Nginx logs, they can be found in `/var/log/`.
