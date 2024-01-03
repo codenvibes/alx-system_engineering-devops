@@ -251,6 +251,9 @@ server {
 Notice that we’ve updated the `root` configuration to our new directory, and the `server_name` to our domain name.
 
 Next, let’s enable the file by creating a link from it to the `sites-enabled` directory, which Nginx reads from during startup:
+```
+sudo ln -s /etc/nginx/sites-available/your_domain /etc/nginx/sites-enabled/
+```
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
