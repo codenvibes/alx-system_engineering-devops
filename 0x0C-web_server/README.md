@@ -199,6 +199,9 @@ Nginx on Ubuntu 20.04 has one server block enabled by default that is configured
 
 Create the directory for your_domain as follows, using the `-p` flag to create any necessary parent directories:
 
+```
+sudo mkdir -p /var/www/your_domain/html
+```
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
