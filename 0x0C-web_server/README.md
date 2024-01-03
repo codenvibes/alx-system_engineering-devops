@@ -142,6 +142,14 @@ At the end of the installation process, Ubuntu 20.04 starts Nginx. The web serve
 
 We can check with the systemd init system to make sure the service is running by typing:
 
+```
+systemctl status nginx
+```
+
+However, the best way to test this is to actually request a page from Nginx.
+You can access the default Nginx landing page to confirm that the software is running properly by navigating to your server’s IP address. If you do not know your server’s IP address, you can find it by using the [icanhazip.com](http://icanhazip.com/) tool, which will give you your public IP address as received from another location on the internet:
+
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
