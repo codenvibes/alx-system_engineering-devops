@@ -197,7 +197,7 @@ When using the Nginx web server, server blocks (similar to virtual hosts in Apac
 
 Nginx on Ubuntu 20.04 has one server block enabled by default that is configured to serve documents out of a directory at `/var/www/html`. While this works well for a single site, it can become unwieldy if you are hosting multiple sites. Instead of modifying `/var/www/html`, let’s create a directory structure within `/var/www` for our your_domain site, leaving `/var/www/html` in place as the default directory to be served if a client request doesn’t match any other sites.
 
-Create the directory for your_domain as follows, using the -p flag to create any necessary parent directories:
+Create the directory for your_domain as follows, using the `-p` flag to create any necessary parent directories:
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
