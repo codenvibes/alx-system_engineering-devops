@@ -217,6 +217,7 @@ Next, create a sample index.html page using your favorite editor:
 ```
 sudo vi /var/www/your_domain/html/index.html
 ```
+Inside, add the following sample HTML:
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
