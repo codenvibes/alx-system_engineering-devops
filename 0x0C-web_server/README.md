@@ -523,7 +523,7 @@ Accept-Ranges: bytes
 
 sylvain@ubuntu$
 ```
-> **Local Terminal**:
+> ***Local Terminal:***<br>*- `sylvain@ubuntu$ curl 34.198.248.145/`: This command sends a GET request to the IP address `34.198.248.145`, which is the `web-01` server. It retrieves the default page from the nginx server running on `web-01`, which should contain the string "Hello World!".<br>- `sylvain@ubuntu$ curl -sI 34.198.248.145/`: This command sends a HEAD request (`-I` flag) to the same IP address. It retrieves the headers of the default page from the nginx server running on `web-01`. The `-s` flag is used to suppress the progress meter and error messages.*
 
 In this example `34.198.248.145` is the IP of my `web-01` server. If you want to query the Nginx that is locally installed on your server, you can use `curl 127.0.0.1`.
 
