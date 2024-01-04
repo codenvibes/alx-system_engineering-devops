@@ -801,6 +801,8 @@ File: [4-not_found_page_404]()
 
 Configure your Nginx server to have a custom 404 page that contains the string `Ceci n'est pas une page`.
 
+> *The French phrase "ceci n'est pas une page" translates to "this is not a page" in English. It is a play on words, as the phrase "ceci n'est pas" literally means "this is not". The word "page" can refer to both a physical page of paper and a web page. In this context, the phrase is suggesting that the thing being referred to is not a physical page of paper, but rather a web page.*
+
 Requirements:
 - The page must return an HTTP 404 error code
 - The page must contain the string `Ceci n'est pas une page`
