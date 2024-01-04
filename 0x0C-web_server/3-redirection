@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# AUTH: codenvibes
+# DESC: A bash script for configuring `/redirect_me` as 301 permanently redirecting to [target URL]
+
+sudo apt update
+sudo apt-get install nginx -y
+sudo ufw allow 'Nginx HTTP'
+sudo echo "Hello World!" > /var/www/html/index.html
+sudo sed -i '/listen 80 default_server/a rewrite ^/redirect_me https://www.youtube.com/ permanent;' /etc/nginx/sites-available/default
+sudo service nginx restart
