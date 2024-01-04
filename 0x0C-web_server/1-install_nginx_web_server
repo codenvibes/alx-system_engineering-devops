@@ -2,8 +2,8 @@
 # AUTH: codenvibes
 # a Bash script that sets up Nginx web server with basic "Hello World!" page
 
-sudo apt-get update
-sudo apt-get -y install nginx
+sudo apt update
+sudo apt-get install nginx -y
 sudo ufw allow 'Nginx HTTP'
-sudo echo "Hello, world!" | sudo tee /var/www/html/index.html
+echo "Hello World!" | sudo tee /var/www/html/index.html
 sudo service nginx restart
