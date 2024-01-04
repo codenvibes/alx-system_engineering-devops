@@ -767,6 +767,8 @@ File: [3-redirection]()
 Readme:
 - [Replace a line with multiple lines with sed](https://stackoverflow.com/questions/26041088/sed-replace-line-with-multiline-variable)
 
+> *[a guide to using the sed command](https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x0C-web_server/notes/sed.md)*
+
 Configure your Nginx server so that `/redirect_me` is redirecting to another page.
 
 Requirements:
