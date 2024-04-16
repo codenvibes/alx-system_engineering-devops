@@ -176,5 +176,48 @@ Make your post-mortem attractive by adding humour, a pretty diagram or anything 
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
 
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
+##  Web Stack Woes: A Not-So-Deadlockly Postmortem 
+
+**Oh No! Our Users Couldn't Go!** 
+
+Let's face it, outages are no fun for anyone. But fear not, intrepid internet adventurer, for we've bravely slain the dragon of downtime and are here to dissect its fiery innards... with charts! 
+
+**The Downtime Lowdown:**
+
+* **When:** April 15, 2024, 10:00 AM to 2:00 PM GMT (aka our users' prime browsing time... whoops!)
+* **Why the Woe?:** A database deadlock (imagine two stubborn servers in a Mexican standoff) caused by a less-than-stellar indexing strategy (think of a messy library with books all over the place). 
+* **The Impact:**  A 60% drop in user activity – ouch! Slow page loads and error messages galore. 
+
+**Here's the Play-by-Play (with a Not-So-Accurate Play)**
+
+* **10:00 AM:**  Alarms blare, engineers despair! Database latency spikes like a sugar crash.
+* **10:05 AM:**  The cavalry arrives (our engineering team) ready to investigate.
+* **10:30 AM:**  "Must be the network!" they cry, chasing a red herring (think shiny object) related to recent database updates. 
+* **11:00 AM:**  The network? Squeaky clean. Time to dive deeper into the database queries.
+* **11:30 AM:**  Another detour!  "The code must be inefficient!" they shout, heroically fighting windmills (aka code review).
+* **12:00 PM:**  Deadlock detected!  Senior engineers and database specialists assemble! (Think Avengers: Endgame)
+* **1:30 PM:**  Eureka!  The culprit is unmasked: a database deadlock caused by conflicting transactions. 
+* **2:00 PM:**  Victory is ours!  Database indexing is optimized, services restart, and users can finally browse freely. 
+
+**Lessons Learned (the Non-Boring Bits):**
+
+* **Database Decluttering:** We're revamping our indexing strategy for smoother database sailing.
+* **Monitoring Marvels:** We're beefing up our monitoring system to spot deadlocks before they deadlock.
+* **Load Testing Thunderdome:** We'll be stress-testing our system regularly to identify and squash scalability gremlins. 
+
+**The End (hopefully not of our uptime):**
+
+The April 15th outage was a learning experience (phew!). By working together quickly, we identified and vanquished the deadlock beast.  We're now implementing preventative measures to ensure a smoother, more deadlock-free future for our web stack. 
+
+**Bonus! Not-So-Deadlockly Diagram:**
+
+<br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x19-postmortem/images/task_1.png"></div><br>
+
+**Remember, even superheroes have to learn from their battles. Onward to a more stable web stack!**
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
 </details>
 
