@@ -211,7 +211,6 @@ Let's face it, outages are no fun for anyone. But fear not, intrepid internet ad
 
 The April 15th outage was a learning experience (phew!). By working together quickly, we identified and vanquished the deadlock beast.  We're now implementing preventative measures to ensure a smoother, more deadlock-free future for our web stack. 
 
-**Bonus! Not-So-Deadlockly Diagram:**
 
 <br><div><img src="https://github.com/codenvibes/alx-system_engineering-devops/blob/master/0x19-postmortem/images/task_1.png"></div><br>
 
