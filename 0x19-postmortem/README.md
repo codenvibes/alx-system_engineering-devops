@@ -116,12 +116,7 @@ Please, remember that these blogs must be written in English to further your tec
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 
-<details>
-<summary>
-
-#### Task 0. Solution
-</summary>
-
+```
 **Postmortem: Web Stack Outage Incident**
 
 **Issue Summary:**
@@ -161,8 +156,7 @@ Please, remember that these blogs must be written in English to further your tec
 **Conclusion:**
 
 The outage on April 15, 2024, was a result of database deadlocks caused by a misconfigured indexing strategy. Through swift investigation and collaboration, the root cause was identified and resolved within four hours, minimizing the impact on user experience. Moving forward, we will implement corrective measures and proactive strategies to prevent similar incidents and ensure the reliability of our web stack.
-
-</details>
+```
 
 </details>
 
