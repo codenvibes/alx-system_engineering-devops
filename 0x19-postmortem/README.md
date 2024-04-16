@@ -114,7 +114,7 @@ While postmortem format can vary, stick to this one so that you can get properly
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 <details>
 <summary>
