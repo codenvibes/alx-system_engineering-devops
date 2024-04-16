@@ -114,6 +114,56 @@ While postmortem format can vary, stick to this one so that you can get properly
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
 
+<br>
+
+<details>
+<summary>
+
+#### Task 0. Solution
+</summary>
+
+**Postmortem: Web Stack Outage Incident**
+
+**Issue Summary:**
+
+- **Duration:** The outage occurred on April 15, 2024, from 10:00 AM to 2:00 PM (GMT).
+- **Impact:** The outage affected the availability and performance of our main web application, leading to a 60% decrease in user activity. Users experienced slow page loads and intermittent errors during the outage.
+- **Root Cause:** The root cause of the outage was identified as a database deadlock issue caused by a misconfigured indexing strategy.
+  
+**Timeline:**
+
+- **10:00 AM:** Issue detected through monitoring alerts indicating a spike in database latency.
+- **10:05 AM:** Engineering team notified and began investigating the issue.
+- **10:30 AM:** Initial assumption focused on network congestion due to recent updates in the database infrastructure.
+- **11:00 AM:** Further investigation revealed no abnormalities in the network, shifting focus to database queries.
+- **11:30 AM:** Misleading path: Suspected application code inefficiencies, leading to code review and optimization attempts.
+- **12:00 PM:** Escalation to database specialists and senior engineers as deadlock patterns emerged.
+- **1:30 PM:** Root cause identified: Database deadlock due to conflicting transactions.
+- **2:00 PM:** Issue resolved by adjusting database indexing strategy and restarting affected services.
+
+**Root Cause and Resolution:**
+
+- **Root Cause:** The root cause was traced to a misconfigured indexing strategy in the database, leading to frequent deadlocks during concurrent transactions.
+- **Resolution:** The issue was resolved by implementing optimized indexing strategies and adjusting transaction handling mechanisms to prevent deadlocks.
+
+**Corrective and Preventative Measures:**
+
+- **Improvements/Fixes:**
+  1. Review and optimize database indexing strategies to prevent deadlock occurrences.
+  2. Implement enhanced monitoring for database performance and deadlock detection.
+  3. Conduct regular load testing to identify potential scalability issues and optimize system resources accordingly.
+- **Tasks to Address the Issue:**
+  1. Patch database indexing configurations to align with best practices.
+  2. Enhance monitoring system to provide real-time alerts for deadlock scenarios.
+  3. Conduct thorough code reviews to identify and eliminate inefficient database queries.
+  4. Schedule regular performance audits to ensure the stability and scalability of the web stack.
+
+**Conclusion:**
+
+The outage on April 15, 2024, was a result of database deadlocks caused by a misconfigured indexing strategy. Through swift investigation and collaboration, the root cause was identified and resolved within four hours, minimizing the impact on user experience. Moving forward, we will implement corrective measures and proactive strategies to prevent similar incidents and ensure the reliability of our web stack.
+
+</details>
+
 </details>
 
 <details>
