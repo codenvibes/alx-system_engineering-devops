@@ -117,7 +117,7 @@ Please, remember that these blogs must be written in English to further your tec
 <br><p align="center">※※※※※※※※※※※※</p><br>
 
 
-**Postmortem: Web Stack Outage Incident**
+### Postmortem: Web Stack Outage Incident
 
 **Issue Summary:**
 
@@ -178,7 +178,7 @@ Please, remember that these blogs must be written in English to further your tec
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 
-##  Web Stack Woes: A Not-So-Deadlockly Postmortem 
+### Web Stack Woes: A Not-So-Deadlockly Postmortem 
 
 **Oh No! Our Users Couldn't Go!** 
 
